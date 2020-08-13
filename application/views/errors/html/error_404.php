@@ -193,20 +193,26 @@
     </head>
 
     <body>
-
         <div id="notfound">
             <div class="notfound">
                 <div class="notfound-404">
                     <h1>5<span>0</span>0</h1>
                 </div>
                 <h2>Anda Belum terdaftar di aplikasi m-bangun</h2>
-<!--                <form class="notfound-search">
-                    <input type="text" placeholder="Search...">
-                    <button type="button"><span></span></button>
-                </form>-->
+                <!--                <form class="notfound-search">
+                                    <input type="text" placeholder="Search...">
+                                    <button type="button"><span></span></button>
+                                </form>-->
             </div>
         </div>
 
     </body><!-- This templates was made by Colorlib (https://colorlib.com) -->
+     <script src="assets/global/plugins/jquery.min.js" type="text/javascript"></script>
+       
+<!--    <script type="text/javascript">
+        $(document).ready(function () {
+          
 
+        });
+    </script>-->
 </html>

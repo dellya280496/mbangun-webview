@@ -230,8 +230,9 @@ var FormWizard = function () {
                     processData: false,
                     success: function (data) {
                         if (data.meta.status_code === 200) {
-                            success.show();
-                            error.hide();
+                              window.location.replace(window.location.hash);
+//                            success.show();
+//                            error.hide();
 //                            location.reload();
                         } else {
                             error.show();
