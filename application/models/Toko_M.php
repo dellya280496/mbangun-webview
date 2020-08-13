@@ -63,7 +63,9 @@ class Toko_M extends CI_Model {
             $user = $this->db->get("m_user u")->row();
             if (!empty($user)) {
                 unset($data['email']);
+                $data['id_kota']=$data['kota'];
                 unset($data['kota']);
+                $data['id_provinsi']=$data['provinsi'];
                 unset($data['provinsi']);
                 $this->db->insert("m_toko", $data);
                 if ($this->db->affected_rows() > 0) {
