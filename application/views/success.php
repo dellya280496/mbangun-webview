@@ -65,7 +65,7 @@
                 -webkit-transform: translate(-50%, -50%);
                 -ms-transform: translate(-50%, -50%);
                 transform: translate(-50%, -50%);
-                font-size: 165px;
+                font-size: 100px;
                 font-weight: 700;
                 margin: 0px;
                 color: #262626;
@@ -178,7 +178,7 @@
 
             @media only screen and (max-width: 480px) {
                 .notfound .notfound-404 h1 {
-                    font-size: 141px;
+                    font-size: 70px;
                 }
             }
 

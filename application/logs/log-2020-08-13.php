@@ -10614,3 +10614,387 @@ DEBUG - 2020-08-13 05:40:26 --> Global POST, GET and COOKIE data sanitized
 INFO - 2020-08-13 05:40:26 --> Input Class Initialized
 INFO - 2020-08-13 05:40:26 --> Language Class Initialized
 ERROR - 2020-08-13 05:40:26 --> 404 Page Not Found: Welcome/assets
+INFO - 2020-08-13 06:10:52 --> Config Class Initialized
+INFO - 2020-08-13 06:10:52 --> Hooks Class Initialized
+DEBUG - 2020-08-13 06:10:52 --> UTF-8 Support Enabled
+INFO - 2020-08-13 06:10:52 --> Utf8 Class Initialized
+INFO - 2020-08-13 06:10:52 --> URI Class Initialized
+INFO - 2020-08-13 06:10:52 --> Router Class Initialized
+INFO - 2020-08-13 06:10:52 --> Output Class Initialized
+INFO - 2020-08-13 06:10:52 --> Security Class Initialized
+DEBUG - 2020-08-13 06:10:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 06:10:52 --> Input Class Initialized
+INFO - 2020-08-13 06:10:52 --> Language Class Initialized
+INFO - 2020-08-13 06:10:52 --> Loader Class Initialized
+INFO - 2020-08-13 06:10:52 --> Helper loaded: url_helper
+INFO - 2020-08-13 06:10:52 --> Helper loaded: security_helper
+INFO - 2020-08-13 06:10:52 --> Helper loaded: string_helper
+INFO - 2020-08-13 06:10:52 --> Helper loaded: date_helper
+INFO - 2020-08-13 06:10:52 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 06:10:52 --> Database Driver Class Initialized
+INFO - 2020-08-13 06:10:52 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 06:10:52 --> User Agent Class Initialized
+INFO - 2020-08-13 06:10:52 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 06:10:52 --> Pagination Class Initialized
+INFO - 2020-08-13 06:10:52 --> Email Class Initialized
+DEBUG - 2020-08-13 06:10:52 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 06:10:52 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 06:10:52 --> Encryption Class Initialized
+INFO - 2020-08-13 06:10:52 --> Controller Class Initialized
+INFO - 2020-08-13 06:10:52 --> Model "Kategori_M" initialized
+INFO - 2020-08-13 06:10:52 --> Model "Ongkir_M" initialized
+INFO - 2020-08-13 06:10:52 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/success.php
+INFO - 2020-08-13 06:10:52 --> Final output sent to browser
+DEBUG - 2020-08-13 06:10:52 --> Total execution time: 0.2497
+INFO - 2020-08-13 06:10:52 --> Config Class Initialized
+INFO - 2020-08-13 06:10:52 --> Hooks Class Initialized
+DEBUG - 2020-08-13 06:10:52 --> UTF-8 Support Enabled
+INFO - 2020-08-13 06:10:52 --> Utf8 Class Initialized
+INFO - 2020-08-13 06:10:52 --> URI Class Initialized
+INFO - 2020-08-13 06:10:52 --> Router Class Initialized
+INFO - 2020-08-13 06:10:52 --> Output Class Initialized
+INFO - 2020-08-13 06:10:52 --> Security Class Initialized
+DEBUG - 2020-08-13 06:10:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 06:10:52 --> Input Class Initialized
+INFO - 2020-08-13 06:10:52 --> Language Class Initialized
+ERROR - 2020-08-13 06:10:52 --> 404 Page Not Found: Welcome/assets
+INFO - 2020-08-13 06:12:09 --> Config Class Initialized
+INFO - 2020-08-13 06:12:09 --> Hooks Class Initialized
+DEBUG - 2020-08-13 06:12:09 --> UTF-8 Support Enabled
+INFO - 2020-08-13 06:12:09 --> Utf8 Class Initialized
+INFO - 2020-08-13 06:12:09 --> URI Class Initialized
+DEBUG - 2020-08-13 06:12:09 --> No URI present. Default controller set.
+INFO - 2020-08-13 06:12:09 --> Router Class Initialized
+INFO - 2020-08-13 06:12:09 --> Output Class Initialized
+INFO - 2020-08-13 06:12:09 --> Security Class Initialized
+DEBUG - 2020-08-13 06:12:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 06:12:09 --> Input Class Initialized
+INFO - 2020-08-13 06:12:09 --> Language Class Initialized
+INFO - 2020-08-13 06:12:09 --> Loader Class Initialized
+INFO - 2020-08-13 06:12:09 --> Helper loaded: url_helper
+INFO - 2020-08-13 06:12:09 --> Helper loaded: security_helper
+INFO - 2020-08-13 06:12:09 --> Helper loaded: string_helper
+INFO - 2020-08-13 06:12:09 --> Helper loaded: date_helper
+INFO - 2020-08-13 06:12:09 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 06:12:09 --> Database Driver Class Initialized
+INFO - 2020-08-13 06:12:09 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 06:12:09 --> User Agent Class Initialized
+INFO - 2020-08-13 06:12:09 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 06:12:09 --> Pagination Class Initialized
+INFO - 2020-08-13 06:12:09 --> Email Class Initialized
+DEBUG - 2020-08-13 06:12:09 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 06:12:09 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 06:12:09 --> Encryption Class Initialized
+INFO - 2020-08-13 06:12:09 --> Controller Class Initialized
+INFO - 2020-08-13 06:12:09 --> Model "Kategori_M" initialized
+INFO - 2020-08-13 06:12:09 --> Model "Ongkir_M" initialized
+INFO - 2020-08-13 06:12:09 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/errors/html/error_404.php
+INFO - 2020-08-13 06:12:09 --> Final output sent to browser
+DEBUG - 2020-08-13 06:12:09 --> Total execution time: 0.2837
+INFO - 2020-08-13 06:12:17 --> Config Class Initialized
+INFO - 2020-08-13 06:12:17 --> Hooks Class Initialized
+DEBUG - 2020-08-13 06:12:17 --> UTF-8 Support Enabled
+INFO - 2020-08-13 06:12:17 --> Utf8 Class Initialized
+INFO - 2020-08-13 06:12:17 --> URI Class Initialized
+DEBUG - 2020-08-13 06:12:17 --> No URI present. Default controller set.
+INFO - 2020-08-13 06:12:17 --> Router Class Initialized
+INFO - 2020-08-13 06:12:17 --> Output Class Initialized
+INFO - 2020-08-13 06:12:17 --> Security Class Initialized
+DEBUG - 2020-08-13 06:12:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 06:12:17 --> Input Class Initialized
+INFO - 2020-08-13 06:12:17 --> Language Class Initialized
+INFO - 2020-08-13 06:12:17 --> Loader Class Initialized
+INFO - 2020-08-13 06:12:17 --> Helper loaded: url_helper
+INFO - 2020-08-13 06:12:17 --> Helper loaded: security_helper
+INFO - 2020-08-13 06:12:17 --> Helper loaded: string_helper
+INFO - 2020-08-13 06:12:17 --> Helper loaded: date_helper
+INFO - 2020-08-13 06:12:17 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 06:12:17 --> Database Driver Class Initialized
+INFO - 2020-08-13 06:12:17 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 06:12:17 --> User Agent Class Initialized
+INFO - 2020-08-13 06:12:17 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 06:12:17 --> Pagination Class Initialized
+INFO - 2020-08-13 06:12:17 --> Email Class Initialized
+DEBUG - 2020-08-13 06:12:17 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 06:12:17 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 06:12:17 --> Encryption Class Initialized
+INFO - 2020-08-13 06:12:17 --> Controller Class Initialized
+INFO - 2020-08-13 06:12:17 --> Model "Kategori_M" initialized
+INFO - 2020-08-13 06:12:17 --> Model "Ongkir_M" initialized
+INFO - 2020-08-13 06:12:18 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/pengajuan.php
+INFO - 2020-08-13 06:12:18 --> Final output sent to browser
+DEBUG - 2020-08-13 06:12:18 --> Total execution time: 1.5650
+INFO - 2020-08-13 06:12:25 --> Config Class Initialized
+INFO - 2020-08-13 06:12:25 --> Hooks Class Initialized
+DEBUG - 2020-08-13 06:12:25 --> UTF-8 Support Enabled
+INFO - 2020-08-13 06:12:25 --> Utf8 Class Initialized
+INFO - 2020-08-13 06:12:25 --> URI Class Initialized
+INFO - 2020-08-13 06:12:25 --> Router Class Initialized
+INFO - 2020-08-13 06:12:25 --> Output Class Initialized
+INFO - 2020-08-13 06:12:25 --> Security Class Initialized
+DEBUG - 2020-08-13 06:12:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 06:12:25 --> Input Class Initialized
+INFO - 2020-08-13 06:12:25 --> Language Class Initialized
+INFO - 2020-08-13 06:12:25 --> Loader Class Initialized
+INFO - 2020-08-13 06:12:25 --> Helper loaded: url_helper
+INFO - 2020-08-13 06:12:25 --> Helper loaded: security_helper
+INFO - 2020-08-13 06:12:25 --> Helper loaded: string_helper
+INFO - 2020-08-13 06:12:25 --> Helper loaded: date_helper
+INFO - 2020-08-13 06:12:25 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 06:12:25 --> Database Driver Class Initialized
+INFO - 2020-08-13 06:12:25 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 06:12:25 --> User Agent Class Initialized
+INFO - 2020-08-13 06:12:25 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 06:12:25 --> Pagination Class Initialized
+INFO - 2020-08-13 06:12:25 --> Email Class Initialized
+DEBUG - 2020-08-13 06:12:25 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 06:12:25 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 06:12:25 --> Encryption Class Initialized
+INFO - 2020-08-13 06:12:25 --> Controller Class Initialized
+INFO - 2020-08-13 06:12:25 --> Model "Kategori_M" initialized
+INFO - 2020-08-13 06:12:25 --> Model "Ongkir_M" initialized
+INFO - 2020-08-13 06:12:26 --> Final output sent to browser
+DEBUG - 2020-08-13 06:12:26 --> Total execution time: 1.5143
+INFO - 2020-08-13 06:12:28 --> Config Class Initialized
+INFO - 2020-08-13 06:12:28 --> Hooks Class Initialized
+DEBUG - 2020-08-13 06:12:28 --> UTF-8 Support Enabled
+INFO - 2020-08-13 06:12:28 --> Utf8 Class Initialized
+INFO - 2020-08-13 06:12:28 --> URI Class Initialized
+INFO - 2020-08-13 06:12:28 --> Router Class Initialized
+INFO - 2020-08-13 06:12:28 --> Output Class Initialized
+INFO - 2020-08-13 06:12:28 --> Security Class Initialized
+DEBUG - 2020-08-13 06:12:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 06:12:28 --> Input Class Initialized
+INFO - 2020-08-13 06:12:28 --> Language Class Initialized
+INFO - 2020-08-13 06:12:28 --> Loader Class Initialized
+INFO - 2020-08-13 06:12:28 --> Helper loaded: url_helper
+INFO - 2020-08-13 06:12:28 --> Helper loaded: security_helper
+INFO - 2020-08-13 06:12:28 --> Helper loaded: string_helper
+INFO - 2020-08-13 06:12:28 --> Helper loaded: date_helper
+INFO - 2020-08-13 06:12:28 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 06:12:28 --> Database Driver Class Initialized
+INFO - 2020-08-13 06:12:28 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 06:12:28 --> User Agent Class Initialized
+INFO - 2020-08-13 06:12:28 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 06:12:28 --> Pagination Class Initialized
+INFO - 2020-08-13 06:12:28 --> Email Class Initialized
+DEBUG - 2020-08-13 06:12:28 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 06:12:28 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 06:12:28 --> Encryption Class Initialized
+INFO - 2020-08-13 06:12:28 --> Controller Class Initialized
+INFO - 2020-08-13 06:12:28 --> Model "Kategori_M" initialized
+INFO - 2020-08-13 06:12:28 --> Model "Ongkir_M" initialized
+INFO - 2020-08-13 06:12:29 --> Final output sent to browser
+DEBUG - 2020-08-13 06:12:29 --> Total execution time: 1.5730
+INFO - 2020-08-13 06:12:39 --> Config Class Initialized
+INFO - 2020-08-13 06:12:39 --> Hooks Class Initialized
+DEBUG - 2020-08-13 06:12:39 --> UTF-8 Support Enabled
+INFO - 2020-08-13 06:12:39 --> Utf8 Class Initialized
+INFO - 2020-08-13 06:12:39 --> URI Class Initialized
+INFO - 2020-08-13 06:12:39 --> Router Class Initialized
+INFO - 2020-08-13 06:12:39 --> Output Class Initialized
+INFO - 2020-08-13 06:12:39 --> Security Class Initialized
+DEBUG - 2020-08-13 06:12:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 06:12:39 --> Input Class Initialized
+INFO - 2020-08-13 06:12:39 --> Language Class Initialized
+INFO - 2020-08-13 06:12:39 --> Loader Class Initialized
+INFO - 2020-08-13 06:12:39 --> Helper loaded: url_helper
+INFO - 2020-08-13 06:12:39 --> Helper loaded: security_helper
+INFO - 2020-08-13 06:12:39 --> Helper loaded: string_helper
+INFO - 2020-08-13 06:12:39 --> Helper loaded: date_helper
+INFO - 2020-08-13 06:12:39 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 06:12:39 --> Database Driver Class Initialized
+INFO - 2020-08-13 06:12:39 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 06:12:39 --> User Agent Class Initialized
+INFO - 2020-08-13 06:12:39 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 06:12:39 --> Pagination Class Initialized
+INFO - 2020-08-13 06:12:39 --> Email Class Initialized
+DEBUG - 2020-08-13 06:12:39 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 06:12:39 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 06:12:39 --> Encryption Class Initialized
+INFO - 2020-08-13 06:12:39 --> Controller Class Initialized
+INFO - 2020-08-13 06:12:39 --> Helper loaded: inflector_helper
+INFO - 2020-08-13 06:12:39 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-08-13 06:12:39 --> Model "Toko_M" initialized
+INFO - 2020-08-13 06:12:39 --> Upload Class Initialized
+INFO - 2020-08-13 06:12:39 --> Language file loaded: language/english/upload_lang.php
+DEBUG - 2020-08-13 06:12:39 --> You did not select a file to upload.
+DEBUG - 2020-08-13 06:12:39 --> You did not select a file to upload.
+INFO - 2020-08-13 06:12:39 --> Final output sent to browser
+DEBUG - 2020-08-13 06:12:39 --> Total execution time: 0.3349
+INFO - 2020-08-13 06:12:39 --> Config Class Initialized
+INFO - 2020-08-13 06:12:39 --> Hooks Class Initialized
+DEBUG - 2020-08-13 06:12:39 --> UTF-8 Support Enabled
+INFO - 2020-08-13 06:12:39 --> Utf8 Class Initialized
+INFO - 2020-08-13 06:12:39 --> URI Class Initialized
+INFO - 2020-08-13 06:12:39 --> Router Class Initialized
+INFO - 2020-08-13 06:12:39 --> Output Class Initialized
+INFO - 2020-08-13 06:12:39 --> Security Class Initialized
+DEBUG - 2020-08-13 06:12:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 06:12:39 --> Input Class Initialized
+INFO - 2020-08-13 06:12:39 --> Language Class Initialized
+INFO - 2020-08-13 06:12:39 --> Loader Class Initialized
+INFO - 2020-08-13 06:12:39 --> Helper loaded: url_helper
+INFO - 2020-08-13 06:12:39 --> Helper loaded: security_helper
+INFO - 2020-08-13 06:12:39 --> Helper loaded: string_helper
+INFO - 2020-08-13 06:12:39 --> Helper loaded: date_helper
+INFO - 2020-08-13 06:12:39 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 06:12:39 --> Database Driver Class Initialized
+INFO - 2020-08-13 06:12:40 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 06:12:40 --> User Agent Class Initialized
+INFO - 2020-08-13 06:12:40 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 06:12:40 --> Pagination Class Initialized
+INFO - 2020-08-13 06:12:40 --> Email Class Initialized
+DEBUG - 2020-08-13 06:12:40 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 06:12:40 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 06:12:40 --> Encryption Class Initialized
+INFO - 2020-08-13 06:12:40 --> Controller Class Initialized
+INFO - 2020-08-13 06:12:40 --> Model "Kategori_M" initialized
+INFO - 2020-08-13 06:12:40 --> Model "Ongkir_M" initialized
+INFO - 2020-08-13 06:12:40 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/success.php
+INFO - 2020-08-13 06:12:40 --> Final output sent to browser
+DEBUG - 2020-08-13 06:12:40 --> Total execution time: 0.2141
+INFO - 2020-08-13 06:12:40 --> Config Class Initialized
+INFO - 2020-08-13 06:12:40 --> Hooks Class Initialized
+DEBUG - 2020-08-13 06:12:40 --> UTF-8 Support Enabled
+INFO - 2020-08-13 06:12:40 --> Utf8 Class Initialized
+INFO - 2020-08-13 06:12:40 --> URI Class Initialized
+INFO - 2020-08-13 06:12:40 --> Router Class Initialized
+INFO - 2020-08-13 06:12:40 --> Output Class Initialized
+INFO - 2020-08-13 06:12:40 --> Security Class Initialized
+DEBUG - 2020-08-13 06:12:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 06:12:40 --> Input Class Initialized
+INFO - 2020-08-13 06:12:40 --> Language Class Initialized
+ERROR - 2020-08-13 06:12:40 --> 404 Page Not Found: Welcome/assets
+INFO - 2020-08-13 06:48:13 --> Config Class Initialized
+INFO - 2020-08-13 06:48:13 --> Hooks Class Initialized
+DEBUG - 2020-08-13 06:48:13 --> UTF-8 Support Enabled
+INFO - 2020-08-13 06:48:13 --> Utf8 Class Initialized
+INFO - 2020-08-13 06:48:13 --> URI Class Initialized
+INFO - 2020-08-13 06:48:13 --> Router Class Initialized
+INFO - 2020-08-13 06:48:13 --> Output Class Initialized
+INFO - 2020-08-13 06:48:13 --> Security Class Initialized
+DEBUG - 2020-08-13 06:48:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 06:48:13 --> Input Class Initialized
+INFO - 2020-08-13 06:48:13 --> Language Class Initialized
+INFO - 2020-08-13 06:48:14 --> Loader Class Initialized
+INFO - 2020-08-13 06:48:14 --> Helper loaded: url_helper
+INFO - 2020-08-13 06:48:14 --> Helper loaded: security_helper
+INFO - 2020-08-13 06:48:14 --> Helper loaded: string_helper
+INFO - 2020-08-13 06:48:14 --> Helper loaded: date_helper
+INFO - 2020-08-13 06:48:14 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 06:48:14 --> Database Driver Class Initialized
+INFO - 2020-08-13 06:48:14 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 06:48:14 --> User Agent Class Initialized
+INFO - 2020-08-13 06:48:14 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 06:48:14 --> Pagination Class Initialized
+INFO - 2020-08-13 06:48:14 --> Email Class Initialized
+DEBUG - 2020-08-13 06:48:14 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 06:48:14 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 06:48:14 --> Encryption Class Initialized
+INFO - 2020-08-13 06:48:14 --> Controller Class Initialized
+INFO - 2020-08-13 06:48:14 --> Model "Kategori_M" initialized
+INFO - 2020-08-13 06:48:14 --> Model "Ongkir_M" initialized
+INFO - 2020-08-13 06:48:14 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/success.php
+INFO - 2020-08-13 06:48:14 --> Final output sent to browser
+DEBUG - 2020-08-13 06:48:14 --> Total execution time: 0.6222
+INFO - 2020-08-13 06:48:14 --> Config Class Initialized
+INFO - 2020-08-13 06:48:14 --> Hooks Class Initialized
+DEBUG - 2020-08-13 06:48:14 --> UTF-8 Support Enabled
+INFO - 2020-08-13 06:48:14 --> Utf8 Class Initialized
+INFO - 2020-08-13 06:48:14 --> URI Class Initialized
+INFO - 2020-08-13 06:48:14 --> Router Class Initialized
+INFO - 2020-08-13 06:48:14 --> Output Class Initialized
+INFO - 2020-08-13 06:48:14 --> Security Class Initialized
+DEBUG - 2020-08-13 06:48:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 06:48:14 --> Input Class Initialized
+INFO - 2020-08-13 06:48:14 --> Language Class Initialized
+ERROR - 2020-08-13 06:48:14 --> 404 Page Not Found: Welcome/assets
+INFO - 2020-08-13 06:48:22 --> Config Class Initialized
+INFO - 2020-08-13 06:48:22 --> Hooks Class Initialized
+DEBUG - 2020-08-13 06:48:22 --> UTF-8 Support Enabled
+INFO - 2020-08-13 06:48:22 --> Utf8 Class Initialized
+INFO - 2020-08-13 06:48:22 --> URI Class Initialized
+INFO - 2020-08-13 06:48:22 --> Router Class Initialized
+INFO - 2020-08-13 06:48:22 --> Output Class Initialized
+INFO - 2020-08-13 06:48:22 --> Security Class Initialized
+DEBUG - 2020-08-13 06:48:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 06:48:22 --> Input Class Initialized
+INFO - 2020-08-13 06:48:22 --> Language Class Initialized
+INFO - 2020-08-13 06:48:22 --> Loader Class Initialized
+INFO - 2020-08-13 06:48:22 --> Helper loaded: url_helper
+INFO - 2020-08-13 06:48:22 --> Helper loaded: security_helper
+INFO - 2020-08-13 06:48:22 --> Helper loaded: string_helper
+INFO - 2020-08-13 06:48:22 --> Helper loaded: date_helper
+INFO - 2020-08-13 06:48:22 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 06:48:22 --> Database Driver Class Initialized
+INFO - 2020-08-13 06:48:22 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 06:48:22 --> User Agent Class Initialized
+INFO - 2020-08-13 06:48:22 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 06:48:22 --> Pagination Class Initialized
+INFO - 2020-08-13 06:48:22 --> Email Class Initialized
+DEBUG - 2020-08-13 06:48:22 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 06:48:22 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 06:48:22 --> Encryption Class Initialized
+INFO - 2020-08-13 06:48:22 --> Controller Class Initialized
+INFO - 2020-08-13 06:48:22 --> Model "Kategori_M" initialized
+INFO - 2020-08-13 06:48:22 --> Model "Ongkir_M" initialized
+INFO - 2020-08-13 06:48:22 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/success.php
+INFO - 2020-08-13 06:48:22 --> Final output sent to browser
+DEBUG - 2020-08-13 06:48:22 --> Total execution time: 0.2121
+INFO - 2020-08-13 06:48:22 --> Config Class Initialized
+INFO - 2020-08-13 06:48:22 --> Hooks Class Initialized
+DEBUG - 2020-08-13 06:48:22 --> UTF-8 Support Enabled
+INFO - 2020-08-13 06:48:22 --> Utf8 Class Initialized
+INFO - 2020-08-13 06:48:22 --> URI Class Initialized
+INFO - 2020-08-13 06:48:22 --> Router Class Initialized
+INFO - 2020-08-13 06:48:22 --> Output Class Initialized
+INFO - 2020-08-13 06:48:22 --> Security Class Initialized
+DEBUG - 2020-08-13 06:48:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 06:48:22 --> Input Class Initialized
+INFO - 2020-08-13 06:48:22 --> Language Class Initialized
+ERROR - 2020-08-13 06:48:22 --> 404 Page Not Found: Welcome/assets
+INFO - 2020-08-13 06:49:02 --> Config Class Initialized
+INFO - 2020-08-13 06:49:02 --> Hooks Class Initialized
+DEBUG - 2020-08-13 06:49:02 --> UTF-8 Support Enabled
+INFO - 2020-08-13 06:49:02 --> Utf8 Class Initialized
+INFO - 2020-08-13 06:49:02 --> URI Class Initialized
+INFO - 2020-08-13 06:49:02 --> Router Class Initialized
+INFO - 2020-08-13 06:49:02 --> Output Class Initialized
+INFO - 2020-08-13 06:49:02 --> Security Class Initialized
+DEBUG - 2020-08-13 06:49:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 06:49:02 --> Input Class Initialized
+INFO - 2020-08-13 06:49:02 --> Language Class Initialized
+INFO - 2020-08-13 06:49:02 --> Loader Class Initialized
+INFO - 2020-08-13 06:49:02 --> Helper loaded: url_helper
+INFO - 2020-08-13 06:49:02 --> Helper loaded: security_helper
+INFO - 2020-08-13 06:49:02 --> Helper loaded: string_helper
+INFO - 2020-08-13 06:49:02 --> Helper loaded: date_helper
+INFO - 2020-08-13 06:49:02 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 06:49:02 --> Database Driver Class Initialized
+INFO - 2020-08-13 06:49:02 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 06:49:02 --> User Agent Class Initialized
+INFO - 2020-08-13 06:49:02 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 06:49:02 --> Pagination Class Initialized
+INFO - 2020-08-13 06:49:02 --> Email Class Initialized
+DEBUG - 2020-08-13 06:49:02 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 06:49:02 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 06:49:02 --> Encryption Class Initialized
+INFO - 2020-08-13 06:49:02 --> Controller Class Initialized
+INFO - 2020-08-13 06:49:02 --> Model "Kategori_M" initialized
+INFO - 2020-08-13 06:49:02 --> Model "Ongkir_M" initialized
+INFO - 2020-08-13 06:49:02 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/success.php
+INFO - 2020-08-13 06:49:02 --> Final output sent to browser
+DEBUG - 2020-08-13 06:49:02 --> Total execution time: 0.2678
+INFO - 2020-08-13 06:49:02 --> Config Class Initialized
+INFO - 2020-08-13 06:49:02 --> Hooks Class Initialized
+DEBUG - 2020-08-13 06:49:03 --> UTF-8 Support Enabled
+INFO - 2020-08-13 06:49:03 --> Utf8 Class Initialized
+INFO - 2020-08-13 06:49:03 --> URI Class Initialized
+INFO - 2020-08-13 06:49:03 --> Router Class Initialized
+INFO - 2020-08-13 06:49:03 --> Output Class Initialized
+INFO - 2020-08-13 06:49:03 --> Security Class Initialized
+DEBUG - 2020-08-13 06:49:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 06:49:03 --> Input Class Initialized
+INFO - 2020-08-13 06:49:03 --> Language Class Initialized
+ERROR - 2020-08-13 06:49:03 --> 404 Page Not Found: Welcome/assets

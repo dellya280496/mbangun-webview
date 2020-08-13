@@ -75,31 +75,23 @@ class Toko_M extends CI_Model {
                     unset($data['provinsi']);
                     $this->db->insert("m_toko", $data);
                     $id = $this->db->insert_id();
-                    if (!empty($id)) {
-                        $upd = array(
-                            "status_toko" => 1
-                        );
-                        $this->db->where("id", $user->id);
-                        $this->db->update("m_user", $upd);
+                    $upd = array(
+                        "status_toko" => "1"
+                    );
+                    $this->db->where("id", $user->id);
+                    $this->db->update("m_user", $upd);
 
-                        $return["meta"] = array(
-                            "status_code" => 200,
-                            "status_message" => "sukses !",
-                            "success" => true
-                        );
-                    } else {
-                        $return["meta"] = array(
-                            "status_code" => 500,
-                            "status_message" => $this->db->error(),
-                            "success" => false
-                        );
-                    }
-                }else{
-                      $return["meta"] = array(
-                    "status_code" => 500,
-                    "status_message" => "email sudah digunakan",
-                    "success" => false
-                );
+                    $return["meta"] = array(
+                        "status_code" => 200,
+                        "status_message" => "sukses !",
+                        "success" => true
+                    );
+                } else {
+                    $return["meta"] = array(
+                        "status_code" => 500,
+                        "status_message" => "email sudah digunakan",
+                        "success" => false
+                    );
                 }
             } else {
                 $return["meta"] = array(
