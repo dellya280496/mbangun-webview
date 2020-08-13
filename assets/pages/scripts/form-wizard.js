@@ -231,8 +231,8 @@ var FormWizard = function () {
                     success: function (data) {
                         if (data.meta.status_code === 200) {
                              
-                            success.show();
-                            error.hide();
+//                            success.show();
+//                            error.hide();
                             window.location.href = 'welcome/success';
 //                             window.history.go(-1);
 //                            location.reload();
