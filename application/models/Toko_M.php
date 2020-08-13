@@ -59,10 +59,13 @@ class Toko_M extends CI_Model {
         $return = array();
 
         try {
+            $this->db->select("l.id");
             $this->db->where("u.email", $data['email']);
+            $this->db->join("s_user_login l ","l.id_user=u.id","inner");
             $user = $this->db->get("m_user u")->row();
             if (!empty($user)) {
                 unset($data['email']);
+                $data['id_user']=$user->id;
                 $data['id_kota']=$data['kota'];
                 unset($data['kota']);
                 $data['id_provinsi']=$data['provinsi'];

@@ -133,7 +133,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                                     <!--<span class="required"> * </span>-->
                                                                 </label>
                                                                 <div class="col-md-4">
-                                                                    <input type="text" class="form-control" name="email" />
+                                                                    <input type="text" class="form-control" name="email" value="<?= $email ?>" readonly="true" />
 
                                                                 </div>
                                                             </div>

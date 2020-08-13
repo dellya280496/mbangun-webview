@@ -12,27 +12,29 @@ class Welcome extends CI_Controller {
     }
 
     public function index() {
-        
         $data['menu'] = 'Dashboard';
-        $data['provinces'] = $this->Ongkir_M->getProvince();
-
-//        $data['provinces']= null;
-//        echo json_encode('ok');
-//        $kategori=$this->Kategori_M->getAll();
-//        echo json_encode($data['provinces']);
-        $this->load->view('pengajuan', $data);
+        $data['email'] = $this->input->get('email');
+        if (empty($data['email'])) {
+        $data['heading'] = "Data Tidak ditemukan";
+        $data['message'] = "Email belum terdaftar";
+            $this->load->view('errors/html/error_404',$data);
+        } else {
+            $data['provinces'] = $this->Ongkir_M->getProvince();
+            $this->load->view('pengajuan', $data);
+        }
     }
-    
+
     public function getKota() {
-        $id=$_POST['id_provinsi'];
+        $id = $_POST['id_provinsi'];
         $data['kota'] = $this->Ongkir_M->getKota($id);
-        
+
         echo json_encode($data['kota']);
     }
+
     public function getKecamatan() {
-        $id=$_POST['id_kota'];
+        $id = $_POST['id_kota'];
         $data['kecamatan'] = $this->Ongkir_M->getKecamatan($id);
-        
+
         echo json_encode($data['kecamatan']);
     }
 
