@@ -209,10 +209,10 @@
     </body><!-- This templates was made by Colorlib (https://colorlib.com) -->
      <script src="assets/global/plugins/jquery.min.js" type="text/javascript"></script>
        
-<!--    <script type="text/javascript">
+    <script type="text/javascript">
         $(document).ready(function () {
-          
+//            window.location.replace(window.location.hash);
 
         });
-    </script>-->
+    </script>
 </html>

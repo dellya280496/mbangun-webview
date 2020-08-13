@@ -138,6 +138,14 @@
             <?php $this->load->view('component/footer') ?>
         </div>
         <?php $this->load->view('component/js_table') ?>
+         
+         <script type="text/javascript">
+        $(document).ready(function () {
+           
+//            window.location.replace(window.location.hash);
+
+        });
+    </script>
         <script src="assets/js/provinsi.js" type="text/javascript"></script>
     </body>
 

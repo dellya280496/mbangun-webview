@@ -4687,3 +4687,5502 @@ INFO - 2020-08-13 05:14:24 --> Model "Ongkir_M" initialized
 INFO - 2020-08-13 05:14:25 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/pengajuan.php
 INFO - 2020-08-13 05:14:25 --> Final output sent to browser
 DEBUG - 2020-08-13 05:14:25 --> Total execution time: 1.6589
+INFO - 2020-08-13 05:21:25 --> Config Class Initialized
+INFO - 2020-08-13 05:21:25 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:21:25 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:21:25 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:21:25 --> URI Class Initialized
+INFO - 2020-08-13 05:21:25 --> Router Class Initialized
+INFO - 2020-08-13 05:21:25 --> Output Class Initialized
+INFO - 2020-08-13 05:21:25 --> Security Class Initialized
+DEBUG - 2020-08-13 05:21:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:21:25 --> Input Class Initialized
+INFO - 2020-08-13 05:21:25 --> Language Class Initialized
+INFO - 2020-08-13 05:21:25 --> Loader Class Initialized
+INFO - 2020-08-13 05:21:25 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:21:25 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:21:25 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:21:25 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:21:25 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:21:25 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:21:25 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:21:25 --> User Agent Class Initialized
+INFO - 2020-08-13 05:21:25 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:21:25 --> Pagination Class Initialized
+INFO - 2020-08-13 05:21:25 --> Email Class Initialized
+DEBUG - 2020-08-13 05:21:25 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:21:25 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:21:25 --> Encryption Class Initialized
+INFO - 2020-08-13 05:21:25 --> Controller Class Initialized
+INFO - 2020-08-13 05:21:25 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:21:25 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:21:25 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:21:25 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:21:25 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:21:25 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:21:25 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:21:25 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:21:25 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:21:25 --> Final output sent to browser
+DEBUG - 2020-08-13 05:21:25 --> Total execution time: 0.3306
+INFO - 2020-08-13 05:21:26 --> Config Class Initialized
+INFO - 2020-08-13 05:21:26 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:21:26 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:21:26 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:21:26 --> URI Class Initialized
+INFO - 2020-08-13 05:21:26 --> Router Class Initialized
+INFO - 2020-08-13 05:21:26 --> Output Class Initialized
+INFO - 2020-08-13 05:21:26 --> Security Class Initialized
+DEBUG - 2020-08-13 05:21:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:21:26 --> Input Class Initialized
+INFO - 2020-08-13 05:21:26 --> Language Class Initialized
+ERROR - 2020-08-13 05:21:26 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:21:26 --> Config Class Initialized
+INFO - 2020-08-13 05:21:26 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:21:26 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:21:26 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:21:26 --> URI Class Initialized
+INFO - 2020-08-13 05:21:26 --> Router Class Initialized
+INFO - 2020-08-13 05:21:26 --> Output Class Initialized
+INFO - 2020-08-13 05:21:26 --> Security Class Initialized
+DEBUG - 2020-08-13 05:21:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:21:26 --> Input Class Initialized
+INFO - 2020-08-13 05:21:26 --> Language Class Initialized
+INFO - 2020-08-13 05:21:26 --> Loader Class Initialized
+INFO - 2020-08-13 05:21:26 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:21:26 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:21:26 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:21:26 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:21:26 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:21:26 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:21:26 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:21:26 --> User Agent Class Initialized
+INFO - 2020-08-13 05:21:26 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:21:26 --> Pagination Class Initialized
+INFO - 2020-08-13 05:21:26 --> Email Class Initialized
+DEBUG - 2020-08-13 05:21:26 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:21:26 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:21:26 --> Encryption Class Initialized
+INFO - 2020-08-13 05:21:26 --> Controller Class Initialized
+INFO - 2020-08-13 05:21:26 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:21:26 --> Final output sent to browser
+DEBUG - 2020-08-13 05:21:26 --> Total execution time: 0.2836
+INFO - 2020-08-13 05:21:57 --> Config Class Initialized
+INFO - 2020-08-13 05:21:57 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:21:57 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:21:57 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:21:57 --> URI Class Initialized
+INFO - 2020-08-13 05:21:57 --> Router Class Initialized
+INFO - 2020-08-13 05:21:57 --> Output Class Initialized
+INFO - 2020-08-13 05:21:57 --> Security Class Initialized
+DEBUG - 2020-08-13 05:21:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:21:57 --> Input Class Initialized
+INFO - 2020-08-13 05:21:57 --> Language Class Initialized
+INFO - 2020-08-13 05:21:57 --> Loader Class Initialized
+INFO - 2020-08-13 05:21:57 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:21:57 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:21:57 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:21:57 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:21:57 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:21:57 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:21:57 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:21:57 --> User Agent Class Initialized
+INFO - 2020-08-13 05:21:57 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:21:57 --> Pagination Class Initialized
+INFO - 2020-08-13 05:21:57 --> Email Class Initialized
+DEBUG - 2020-08-13 05:21:57 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:21:57 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:21:57 --> Encryption Class Initialized
+INFO - 2020-08-13 05:21:57 --> Controller Class Initialized
+INFO - 2020-08-13 05:21:57 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:21:57 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:21:57 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:21:57 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:21:57 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:21:57 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:21:57 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:21:57 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:21:57 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:21:57 --> Final output sent to browser
+DEBUG - 2020-08-13 05:21:57 --> Total execution time: 0.2410
+INFO - 2020-08-13 05:21:58 --> Config Class Initialized
+INFO - 2020-08-13 05:21:58 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:21:58 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:21:58 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:21:58 --> URI Class Initialized
+INFO - 2020-08-13 05:21:58 --> Router Class Initialized
+INFO - 2020-08-13 05:21:58 --> Output Class Initialized
+INFO - 2020-08-13 05:21:58 --> Security Class Initialized
+DEBUG - 2020-08-13 05:21:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:21:58 --> Input Class Initialized
+INFO - 2020-08-13 05:21:58 --> Language Class Initialized
+ERROR - 2020-08-13 05:21:58 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:21:58 --> Config Class Initialized
+INFO - 2020-08-13 05:21:58 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:21:58 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:21:58 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:21:58 --> URI Class Initialized
+INFO - 2020-08-13 05:21:58 --> Router Class Initialized
+INFO - 2020-08-13 05:21:58 --> Output Class Initialized
+INFO - 2020-08-13 05:21:58 --> Security Class Initialized
+DEBUG - 2020-08-13 05:21:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:21:58 --> Input Class Initialized
+INFO - 2020-08-13 05:21:58 --> Language Class Initialized
+INFO - 2020-08-13 05:21:58 --> Loader Class Initialized
+INFO - 2020-08-13 05:21:58 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:21:58 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:21:58 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:21:58 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:21:58 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:21:58 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:21:58 --> Config Class Initialized
+INFO - 2020-08-13 05:21:58 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:21:58 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:21:58 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:21:58 --> URI Class Initialized
+INFO - 2020-08-13 05:21:58 --> Router Class Initialized
+INFO - 2020-08-13 05:21:58 --> Output Class Initialized
+INFO - 2020-08-13 05:21:58 --> Security Class Initialized
+DEBUG - 2020-08-13 05:21:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:21:58 --> Input Class Initialized
+INFO - 2020-08-13 05:21:58 --> Language Class Initialized
+INFO - 2020-08-13 05:21:58 --> Loader Class Initialized
+INFO - 2020-08-13 05:21:58 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:21:58 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:21:58 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:21:58 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:21:58 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:21:58 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:21:58 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:21:58 --> User Agent Class Initialized
+INFO - 2020-08-13 05:21:58 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:21:58 --> Pagination Class Initialized
+INFO - 2020-08-13 05:21:58 --> Email Class Initialized
+DEBUG - 2020-08-13 05:21:58 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:21:58 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:21:58 --> Encryption Class Initialized
+INFO - 2020-08-13 05:21:58 --> Controller Class Initialized
+INFO - 2020-08-13 05:21:58 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:21:58 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:21:58 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:21:58 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:21:58 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:21:58 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:21:58 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:21:58 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:21:58 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:21:58 --> Final output sent to browser
+DEBUG - 2020-08-13 05:21:58 --> Total execution time: 0.2300
+INFO - 2020-08-13 05:21:58 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:21:58 --> User Agent Class Initialized
+INFO - 2020-08-13 05:21:58 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:21:58 --> Pagination Class Initialized
+INFO - 2020-08-13 05:21:58 --> Email Class Initialized
+DEBUG - 2020-08-13 05:21:58 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:21:58 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:21:58 --> Encryption Class Initialized
+INFO - 2020-08-13 05:21:58 --> Controller Class Initialized
+INFO - 2020-08-13 05:21:58 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:21:58 --> Final output sent to browser
+DEBUG - 2020-08-13 05:21:58 --> Total execution time: 0.2506
+INFO - 2020-08-13 05:21:59 --> Config Class Initialized
+INFO - 2020-08-13 05:21:59 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:21:59 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:21:59 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:21:59 --> URI Class Initialized
+INFO - 2020-08-13 05:21:59 --> Router Class Initialized
+INFO - 2020-08-13 05:21:59 --> Output Class Initialized
+INFO - 2020-08-13 05:21:59 --> Security Class Initialized
+DEBUG - 2020-08-13 05:21:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:21:59 --> Input Class Initialized
+INFO - 2020-08-13 05:21:59 --> Language Class Initialized
+ERROR - 2020-08-13 05:21:59 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:21:59 --> Config Class Initialized
+INFO - 2020-08-13 05:21:59 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:21:59 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:21:59 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:21:59 --> URI Class Initialized
+INFO - 2020-08-13 05:21:59 --> Router Class Initialized
+INFO - 2020-08-13 05:21:59 --> Output Class Initialized
+INFO - 2020-08-13 05:21:59 --> Security Class Initialized
+DEBUG - 2020-08-13 05:21:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:21:59 --> Input Class Initialized
+INFO - 2020-08-13 05:21:59 --> Language Class Initialized
+INFO - 2020-08-13 05:21:59 --> Loader Class Initialized
+INFO - 2020-08-13 05:21:59 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:21:59 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:21:59 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:21:59 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:21:59 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:21:59 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:21:59 --> Config Class Initialized
+INFO - 2020-08-13 05:21:59 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:21:59 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:21:59 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:21:59 --> URI Class Initialized
+INFO - 2020-08-13 05:21:59 --> Router Class Initialized
+INFO - 2020-08-13 05:21:59 --> Output Class Initialized
+INFO - 2020-08-13 05:21:59 --> Security Class Initialized
+DEBUG - 2020-08-13 05:21:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:21:59 --> Input Class Initialized
+INFO - 2020-08-13 05:21:59 --> Language Class Initialized
+INFO - 2020-08-13 05:21:59 --> Loader Class Initialized
+INFO - 2020-08-13 05:21:59 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:21:59 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:21:59 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:21:59 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:21:59 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:21:59 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:21:59 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:21:59 --> User Agent Class Initialized
+INFO - 2020-08-13 05:21:59 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:21:59 --> Pagination Class Initialized
+INFO - 2020-08-13 05:21:59 --> Email Class Initialized
+DEBUG - 2020-08-13 05:21:59 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:21:59 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:21:59 --> Encryption Class Initialized
+INFO - 2020-08-13 05:21:59 --> Controller Class Initialized
+INFO - 2020-08-13 05:21:59 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:21:59 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:21:59 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:21:59 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:21:59 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:21:59 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:21:59 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:21:59 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:21:59 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:21:59 --> Final output sent to browser
+DEBUG - 2020-08-13 05:21:59 --> Total execution time: 0.2410
+INFO - 2020-08-13 05:21:59 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:21:59 --> User Agent Class Initialized
+INFO - 2020-08-13 05:21:59 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:21:59 --> Pagination Class Initialized
+INFO - 2020-08-13 05:21:59 --> Email Class Initialized
+DEBUG - 2020-08-13 05:21:59 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:21:59 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:21:59 --> Encryption Class Initialized
+INFO - 2020-08-13 05:21:59 --> Controller Class Initialized
+INFO - 2020-08-13 05:21:59 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:21:59 --> Final output sent to browser
+DEBUG - 2020-08-13 05:21:59 --> Total execution time: 0.2723
+INFO - 2020-08-13 05:21:59 --> Config Class Initialized
+INFO - 2020-08-13 05:21:59 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:21:59 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:21:59 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:21:59 --> URI Class Initialized
+INFO - 2020-08-13 05:21:59 --> Router Class Initialized
+INFO - 2020-08-13 05:21:59 --> Output Class Initialized
+INFO - 2020-08-13 05:21:59 --> Security Class Initialized
+DEBUG - 2020-08-13 05:21:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:21:59 --> Input Class Initialized
+INFO - 2020-08-13 05:21:59 --> Language Class Initialized
+INFO - 2020-08-13 05:21:59 --> Config Class Initialized
+INFO - 2020-08-13 05:21:59 --> Hooks Class Initialized
+ERROR - 2020-08-13 05:21:59 --> 404 Page Not Found: Assets/global
+DEBUG - 2020-08-13 05:21:59 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:21:59 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:21:59 --> URI Class Initialized
+INFO - 2020-08-13 05:21:59 --> Router Class Initialized
+INFO - 2020-08-13 05:21:59 --> Output Class Initialized
+INFO - 2020-08-13 05:21:59 --> Security Class Initialized
+DEBUG - 2020-08-13 05:21:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:21:59 --> Input Class Initialized
+INFO - 2020-08-13 05:21:59 --> Language Class Initialized
+INFO - 2020-08-13 05:21:59 --> Loader Class Initialized
+INFO - 2020-08-13 05:21:59 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:21:59 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:21:59 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:21:59 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:21:59 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:21:59 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:21:59 --> Config Class Initialized
+INFO - 2020-08-13 05:21:59 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:21:59 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:21:59 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:21:59 --> URI Class Initialized
+INFO - 2020-08-13 05:21:59 --> Router Class Initialized
+INFO - 2020-08-13 05:21:59 --> Output Class Initialized
+INFO - 2020-08-13 05:21:59 --> Security Class Initialized
+DEBUG - 2020-08-13 05:21:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:21:59 --> Input Class Initialized
+INFO - 2020-08-13 05:21:59 --> Language Class Initialized
+INFO - 2020-08-13 05:21:59 --> Loader Class Initialized
+INFO - 2020-08-13 05:21:59 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:21:59 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:21:59 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:21:59 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:21:59 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:21:59 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:21:59 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:21:59 --> User Agent Class Initialized
+INFO - 2020-08-13 05:21:59 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:21:59 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:00 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:00 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:00 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:00 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:00 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:00 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:00 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:00 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:00 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:00 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:00 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:00 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:00 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:00 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:00 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:00 --> Total execution time: 0.2332
+INFO - 2020-08-13 05:22:00 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:00 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:00 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:00 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:00 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:00 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:00 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:00 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:00 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:00 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:00 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:00 --> Total execution time: 0.2657
+INFO - 2020-08-13 05:22:00 --> Config Class Initialized
+INFO - 2020-08-13 05:22:00 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:00 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:00 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:00 --> URI Class Initialized
+INFO - 2020-08-13 05:22:00 --> Router Class Initialized
+INFO - 2020-08-13 05:22:00 --> Output Class Initialized
+INFO - 2020-08-13 05:22:00 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:00 --> Input Class Initialized
+INFO - 2020-08-13 05:22:00 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:00 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:22:00 --> Config Class Initialized
+INFO - 2020-08-13 05:22:00 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:00 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:00 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:00 --> URI Class Initialized
+INFO - 2020-08-13 05:22:00 --> Router Class Initialized
+INFO - 2020-08-13 05:22:00 --> Output Class Initialized
+INFO - 2020-08-13 05:22:00 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:00 --> Input Class Initialized
+INFO - 2020-08-13 05:22:00 --> Language Class Initialized
+INFO - 2020-08-13 05:22:00 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:00 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:00 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:00 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:00 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:00 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:00 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:00 --> Config Class Initialized
+INFO - 2020-08-13 05:22:00 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:00 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:00 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:00 --> URI Class Initialized
+INFO - 2020-08-13 05:22:00 --> Router Class Initialized
+INFO - 2020-08-13 05:22:00 --> Output Class Initialized
+INFO - 2020-08-13 05:22:00 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:00 --> Input Class Initialized
+INFO - 2020-08-13 05:22:00 --> Language Class Initialized
+INFO - 2020-08-13 05:22:00 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:00 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:00 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:00 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:00 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:00 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:00 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:00 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:00 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:01 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:01 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:01 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:01 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:01 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:01 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:01 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:01 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:01 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:01 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:01 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:01 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:01 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:01 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:01 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:01 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:01 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:01 --> Total execution time: 0.6425
+INFO - 2020-08-13 05:22:01 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:01 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:01 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:01 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:01 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:01 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:01 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:01 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:01 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:01 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:01 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:01 --> Total execution time: 0.5204
+INFO - 2020-08-13 05:22:01 --> Config Class Initialized
+INFO - 2020-08-13 05:22:01 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:01 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:01 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:01 --> URI Class Initialized
+INFO - 2020-08-13 05:22:01 --> Router Class Initialized
+INFO - 2020-08-13 05:22:01 --> Output Class Initialized
+INFO - 2020-08-13 05:22:01 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:01 --> Input Class Initialized
+INFO - 2020-08-13 05:22:01 --> Language Class Initialized
+INFO - 2020-08-13 05:22:01 --> Config Class Initialized
+INFO - 2020-08-13 05:22:01 --> Hooks Class Initialized
+ERROR - 2020-08-13 05:22:01 --> 404 Page Not Found: Assets/global
+DEBUG - 2020-08-13 05:22:01 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:01 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:01 --> URI Class Initialized
+INFO - 2020-08-13 05:22:01 --> Router Class Initialized
+INFO - 2020-08-13 05:22:01 --> Output Class Initialized
+INFO - 2020-08-13 05:22:01 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:01 --> Input Class Initialized
+INFO - 2020-08-13 05:22:01 --> Language Class Initialized
+INFO - 2020-08-13 05:22:01 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:01 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:01 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:01 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:01 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:01 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:01 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:01 --> Config Class Initialized
+INFO - 2020-08-13 05:22:01 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:01 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:01 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:01 --> URI Class Initialized
+INFO - 2020-08-13 05:22:01 --> Router Class Initialized
+INFO - 2020-08-13 05:22:01 --> Output Class Initialized
+INFO - 2020-08-13 05:22:01 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:01 --> Input Class Initialized
+INFO - 2020-08-13 05:22:01 --> Language Class Initialized
+INFO - 2020-08-13 05:22:01 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:01 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:01 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:01 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:01 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:01 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:01 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:01 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:01 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:01 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:01 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:01 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:01 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:01 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:01 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:01 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:01 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:01 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:01 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:01 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:01 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:01 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:01 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:01 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:01 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:01 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:01 --> Total execution time: 0.2419
+INFO - 2020-08-13 05:22:02 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:02 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:02 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:02 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:02 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:02 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:02 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:02 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:02 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:02 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:02 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:02 --> Total execution time: 0.2593
+INFO - 2020-08-13 05:22:02 --> Config Class Initialized
+INFO - 2020-08-13 05:22:02 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:02 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:02 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:02 --> URI Class Initialized
+INFO - 2020-08-13 05:22:02 --> Router Class Initialized
+INFO - 2020-08-13 05:22:02 --> Output Class Initialized
+INFO - 2020-08-13 05:22:02 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:02 --> Input Class Initialized
+INFO - 2020-08-13 05:22:02 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:02 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:22:02 --> Config Class Initialized
+INFO - 2020-08-13 05:22:02 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:02 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:02 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:02 --> URI Class Initialized
+INFO - 2020-08-13 05:22:02 --> Router Class Initialized
+INFO - 2020-08-13 05:22:02 --> Output Class Initialized
+INFO - 2020-08-13 05:22:02 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:02 --> Input Class Initialized
+INFO - 2020-08-13 05:22:02 --> Language Class Initialized
+INFO - 2020-08-13 05:22:02 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:02 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:02 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:02 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:02 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:02 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:02 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:02 --> Config Class Initialized
+INFO - 2020-08-13 05:22:02 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:02 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:02 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:02 --> URI Class Initialized
+INFO - 2020-08-13 05:22:02 --> Router Class Initialized
+INFO - 2020-08-13 05:22:02 --> Output Class Initialized
+INFO - 2020-08-13 05:22:02 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:02 --> Input Class Initialized
+INFO - 2020-08-13 05:22:02 --> Language Class Initialized
+INFO - 2020-08-13 05:22:02 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:02 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:02 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:02 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:02 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:02 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:02 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:02 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:02 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:02 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:02 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:02 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:02 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:02 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:02 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:02 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:02 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:02 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:02 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:02 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:02 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:02 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:02 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:02 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:02 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:02 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:02 --> Total execution time: 0.2239
+INFO - 2020-08-13 05:22:02 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:02 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:02 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:02 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:02 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:02 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:02 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:02 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:02 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:02 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:02 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:02 --> Total execution time: 0.2828
+INFO - 2020-08-13 05:22:03 --> Config Class Initialized
+INFO - 2020-08-13 05:22:03 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:03 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:03 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:03 --> URI Class Initialized
+INFO - 2020-08-13 05:22:03 --> Router Class Initialized
+INFO - 2020-08-13 05:22:03 --> Output Class Initialized
+INFO - 2020-08-13 05:22:03 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:03 --> Input Class Initialized
+INFO - 2020-08-13 05:22:03 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:03 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:22:03 --> Config Class Initialized
+INFO - 2020-08-13 05:22:03 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:03 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:03 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:03 --> URI Class Initialized
+INFO - 2020-08-13 05:22:03 --> Router Class Initialized
+INFO - 2020-08-13 05:22:03 --> Output Class Initialized
+INFO - 2020-08-13 05:22:03 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:03 --> Input Class Initialized
+INFO - 2020-08-13 05:22:03 --> Language Class Initialized
+INFO - 2020-08-13 05:22:03 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:03 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:03 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:03 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:03 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:03 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:03 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:03 --> Config Class Initialized
+INFO - 2020-08-13 05:22:03 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:03 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:03 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:03 --> URI Class Initialized
+INFO - 2020-08-13 05:22:03 --> Router Class Initialized
+INFO - 2020-08-13 05:22:03 --> Output Class Initialized
+INFO - 2020-08-13 05:22:03 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:03 --> Input Class Initialized
+INFO - 2020-08-13 05:22:03 --> Language Class Initialized
+INFO - 2020-08-13 05:22:03 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:03 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:03 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:03 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:03 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:03 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:03 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:03 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:03 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:03 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:03 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:03 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:03 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:03 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:03 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:03 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:03 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:03 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:03 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:03 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:03 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:03 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:03 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:03 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:03 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:03 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:03 --> Total execution time: 0.2334
+INFO - 2020-08-13 05:22:03 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:03 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:03 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:03 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:03 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:03 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:03 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:03 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:03 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:03 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:03 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:03 --> Total execution time: 0.2735
+INFO - 2020-08-13 05:22:03 --> Config Class Initialized
+INFO - 2020-08-13 05:22:03 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:03 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:03 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:03 --> URI Class Initialized
+INFO - 2020-08-13 05:22:03 --> Router Class Initialized
+INFO - 2020-08-13 05:22:03 --> Output Class Initialized
+INFO - 2020-08-13 05:22:03 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:03 --> Input Class Initialized
+INFO - 2020-08-13 05:22:03 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:04 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:22:04 --> Config Class Initialized
+INFO - 2020-08-13 05:22:04 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:04 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:04 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:04 --> URI Class Initialized
+INFO - 2020-08-13 05:22:04 --> Router Class Initialized
+INFO - 2020-08-13 05:22:04 --> Output Class Initialized
+INFO - 2020-08-13 05:22:04 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:04 --> Input Class Initialized
+INFO - 2020-08-13 05:22:04 --> Language Class Initialized
+INFO - 2020-08-13 05:22:04 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:04 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:04 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:04 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:04 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:04 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:04 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:04 --> Config Class Initialized
+INFO - 2020-08-13 05:22:04 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:04 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:04 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:04 --> URI Class Initialized
+INFO - 2020-08-13 05:22:04 --> Router Class Initialized
+INFO - 2020-08-13 05:22:04 --> Output Class Initialized
+INFO - 2020-08-13 05:22:04 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:04 --> Input Class Initialized
+INFO - 2020-08-13 05:22:04 --> Language Class Initialized
+INFO - 2020-08-13 05:22:04 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:04 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:04 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:04 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:04 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:04 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:04 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:04 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:04 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:04 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:04 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:04 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:04 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:04 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:04 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:04 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:04 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:04 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:04 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:04 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:04 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:04 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:04 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:04 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:04 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:04 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:04 --> Total execution time: 0.2372
+INFO - 2020-08-13 05:22:04 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:04 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:04 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:04 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:04 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:04 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:04 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:04 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:04 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:04 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:04 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:04 --> Total execution time: 0.2850
+INFO - 2020-08-13 05:22:04 --> Config Class Initialized
+INFO - 2020-08-13 05:22:04 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:04 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:04 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:04 --> URI Class Initialized
+INFO - 2020-08-13 05:22:04 --> Router Class Initialized
+INFO - 2020-08-13 05:22:04 --> Output Class Initialized
+INFO - 2020-08-13 05:22:04 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:04 --> Input Class Initialized
+INFO - 2020-08-13 05:22:04 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:04 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:22:04 --> Config Class Initialized
+INFO - 2020-08-13 05:22:04 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:04 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:04 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:04 --> URI Class Initialized
+INFO - 2020-08-13 05:22:04 --> Router Class Initialized
+INFO - 2020-08-13 05:22:04 --> Output Class Initialized
+INFO - 2020-08-13 05:22:04 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:04 --> Input Class Initialized
+INFO - 2020-08-13 05:22:04 --> Language Class Initialized
+INFO - 2020-08-13 05:22:04 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:04 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:04 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:04 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:04 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:04 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:04 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:04 --> Config Class Initialized
+INFO - 2020-08-13 05:22:04 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:04 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:04 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:04 --> URI Class Initialized
+INFO - 2020-08-13 05:22:04 --> Router Class Initialized
+INFO - 2020-08-13 05:22:04 --> Output Class Initialized
+INFO - 2020-08-13 05:22:04 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:04 --> Input Class Initialized
+INFO - 2020-08-13 05:22:04 --> Language Class Initialized
+INFO - 2020-08-13 05:22:04 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:04 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:04 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:04 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:04 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:04 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:05 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:05 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:05 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:05 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:05 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:05 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:05 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:05 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:05 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:05 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:05 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:05 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:05 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:05 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:05 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:05 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:05 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:05 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:05 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:05 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:05 --> Total execution time: 0.2360
+INFO - 2020-08-13 05:22:05 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:05 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:05 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:05 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:05 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:05 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:05 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:05 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:05 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:05 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:05 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:05 --> Total execution time: 0.2715
+INFO - 2020-08-13 05:22:05 --> Config Class Initialized
+INFO - 2020-08-13 05:22:05 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:05 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:05 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:05 --> URI Class Initialized
+INFO - 2020-08-13 05:22:05 --> Router Class Initialized
+INFO - 2020-08-13 05:22:05 --> Output Class Initialized
+INFO - 2020-08-13 05:22:05 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:05 --> Input Class Initialized
+INFO - 2020-08-13 05:22:05 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:05 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:22:05 --> Config Class Initialized
+INFO - 2020-08-13 05:22:05 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:05 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:05 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:05 --> URI Class Initialized
+INFO - 2020-08-13 05:22:05 --> Router Class Initialized
+INFO - 2020-08-13 05:22:05 --> Output Class Initialized
+INFO - 2020-08-13 05:22:05 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:05 --> Input Class Initialized
+INFO - 2020-08-13 05:22:05 --> Language Class Initialized
+INFO - 2020-08-13 05:22:05 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:05 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:05 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:05 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:05 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:05 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:05 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:05 --> Config Class Initialized
+INFO - 2020-08-13 05:22:05 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:05 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:05 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:05 --> URI Class Initialized
+INFO - 2020-08-13 05:22:05 --> Router Class Initialized
+INFO - 2020-08-13 05:22:05 --> Output Class Initialized
+INFO - 2020-08-13 05:22:05 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:05 --> Input Class Initialized
+INFO - 2020-08-13 05:22:05 --> Language Class Initialized
+INFO - 2020-08-13 05:22:05 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:05 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:05 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:05 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:05 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:05 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:05 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:05 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:05 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:05 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:05 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:05 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:05 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:05 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:05 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:05 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:05 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:05 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:05 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:05 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:05 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:05 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:05 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:05 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:05 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:05 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:05 --> Total execution time: 0.2520
+INFO - 2020-08-13 05:22:05 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:05 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:05 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:05 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:05 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:05 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:05 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:05 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:05 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:05 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:05 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:05 --> Total execution time: 0.2562
+INFO - 2020-08-13 05:22:06 --> Config Class Initialized
+INFO - 2020-08-13 05:22:06 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:06 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:06 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:06 --> URI Class Initialized
+INFO - 2020-08-13 05:22:06 --> Router Class Initialized
+INFO - 2020-08-13 05:22:06 --> Output Class Initialized
+INFO - 2020-08-13 05:22:06 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:06 --> Input Class Initialized
+INFO - 2020-08-13 05:22:06 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:06 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:22:06 --> Config Class Initialized
+INFO - 2020-08-13 05:22:06 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:06 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:06 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:06 --> URI Class Initialized
+INFO - 2020-08-13 05:22:06 --> Router Class Initialized
+INFO - 2020-08-13 05:22:06 --> Output Class Initialized
+INFO - 2020-08-13 05:22:06 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:06 --> Input Class Initialized
+INFO - 2020-08-13 05:22:06 --> Language Class Initialized
+INFO - 2020-08-13 05:22:06 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:06 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:06 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:06 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:06 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:06 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:06 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:06 --> Config Class Initialized
+INFO - 2020-08-13 05:22:06 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:06 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:06 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:06 --> URI Class Initialized
+INFO - 2020-08-13 05:22:06 --> Router Class Initialized
+INFO - 2020-08-13 05:22:06 --> Output Class Initialized
+INFO - 2020-08-13 05:22:06 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:06 --> Input Class Initialized
+INFO - 2020-08-13 05:22:06 --> Language Class Initialized
+INFO - 2020-08-13 05:22:06 --> Config Class Initialized
+INFO - 2020-08-13 05:22:06 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:06 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:06 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:06 --> URI Class Initialized
+DEBUG - 2020-08-13 05:22:06 --> No URI present. Default controller set.
+INFO - 2020-08-13 05:22:06 --> Router Class Initialized
+INFO - 2020-08-13 05:22:06 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:06 --> Output Class Initialized
+INFO - 2020-08-13 05:22:06 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:06 --> Security Class Initialized
+INFO - 2020-08-13 05:22:06 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:06 --> Pagination Class Initialized
+DEBUG - 2020-08-13 05:22:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:06 --> Input Class Initialized
+INFO - 2020-08-13 05:22:06 --> Language Class Initialized
+INFO - 2020-08-13 05:22:06 --> Email Class Initialized
+INFO - 2020-08-13 05:22:06 --> Loader Class Initialized
+DEBUG - 2020-08-13 05:22:06 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:06 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:06 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:06 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:06 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:06 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:06 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:06 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:06 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:06 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:06 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:06 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:06 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:06 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:06 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:06 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:06 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:06 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:06 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:06 --> Total execution time: 0.2297
+INFO - 2020-08-13 05:22:06 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:06 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:06 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:06 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:06 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:06 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:06 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:06 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:06 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:06 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:06 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:06 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:06 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:06 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:06 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:06 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:06 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:06 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:06 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:06 --> Total execution time: 0.3023
+INFO - 2020-08-13 05:22:06 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:06 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:06 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:06 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:06 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:06 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:06 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:06 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:06 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:06 --> Model "Kategori_M" initialized
+INFO - 2020-08-13 05:22:06 --> Model "Ongkir_M" initialized
+INFO - 2020-08-13 05:22:06 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/errors/html/error_404.php
+INFO - 2020-08-13 05:22:06 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:06 --> Total execution time: 0.2664
+INFO - 2020-08-13 05:22:11 --> Config Class Initialized
+INFO - 2020-08-13 05:22:11 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:11 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:11 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:11 --> URI Class Initialized
+INFO - 2020-08-13 05:22:11 --> Router Class Initialized
+INFO - 2020-08-13 05:22:11 --> Output Class Initialized
+INFO - 2020-08-13 05:22:11 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:11 --> Input Class Initialized
+INFO - 2020-08-13 05:22:11 --> Language Class Initialized
+INFO - 2020-08-13 05:22:11 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:11 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:11 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:11 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:11 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:11 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:11 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:11 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:11 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:11 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:11 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:11 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:11 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:11 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:11 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:11 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:11 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:11 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:11 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:11 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:11 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:11 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:11 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:11 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:11 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:11 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:11 --> Total execution time: 0.2103
+INFO - 2020-08-13 05:22:11 --> Config Class Initialized
+INFO - 2020-08-13 05:22:11 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:11 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:11 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:11 --> URI Class Initialized
+INFO - 2020-08-13 05:22:11 --> Router Class Initialized
+INFO - 2020-08-13 05:22:11 --> Output Class Initialized
+INFO - 2020-08-13 05:22:11 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:11 --> Input Class Initialized
+INFO - 2020-08-13 05:22:11 --> Language Class Initialized
+INFO - 2020-08-13 05:22:11 --> Config Class Initialized
+INFO - 2020-08-13 05:22:11 --> Hooks Class Initialized
+ERROR - 2020-08-13 05:22:11 --> 404 Page Not Found: Assets/global
+DEBUG - 2020-08-13 05:22:11 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:11 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:11 --> URI Class Initialized
+INFO - 2020-08-13 05:22:11 --> Router Class Initialized
+INFO - 2020-08-13 05:22:11 --> Output Class Initialized
+INFO - 2020-08-13 05:22:11 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:11 --> Input Class Initialized
+INFO - 2020-08-13 05:22:11 --> Language Class Initialized
+INFO - 2020-08-13 05:22:11 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:11 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:11 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:11 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:11 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:12 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:12 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:12 --> Config Class Initialized
+INFO - 2020-08-13 05:22:12 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:12 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:12 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:12 --> URI Class Initialized
+INFO - 2020-08-13 05:22:12 --> Router Class Initialized
+INFO - 2020-08-13 05:22:12 --> Output Class Initialized
+INFO - 2020-08-13 05:22:12 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:12 --> Input Class Initialized
+INFO - 2020-08-13 05:22:12 --> Language Class Initialized
+INFO - 2020-08-13 05:22:12 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:12 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:12 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:12 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:12 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:12 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:12 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:12 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:12 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:12 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:12 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:12 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:12 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:12 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:12 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:12 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:12 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:12 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:12 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:12 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:12 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:12 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:12 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:12 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:12 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:12 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:12 --> Total execution time: 0.2241
+INFO - 2020-08-13 05:22:12 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:12 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:12 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:12 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:12 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:12 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:12 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:12 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:12 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:12 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:12 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:12 --> Total execution time: 0.2915
+INFO - 2020-08-13 05:22:12 --> Config Class Initialized
+INFO - 2020-08-13 05:22:12 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:12 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:12 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:12 --> URI Class Initialized
+INFO - 2020-08-13 05:22:12 --> Router Class Initialized
+INFO - 2020-08-13 05:22:12 --> Output Class Initialized
+INFO - 2020-08-13 05:22:12 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:12 --> Input Class Initialized
+INFO - 2020-08-13 05:22:12 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:12 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:22:12 --> Config Class Initialized
+INFO - 2020-08-13 05:22:12 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:12 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:12 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:12 --> URI Class Initialized
+INFO - 2020-08-13 05:22:12 --> Router Class Initialized
+INFO - 2020-08-13 05:22:12 --> Output Class Initialized
+INFO - 2020-08-13 05:22:12 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:12 --> Input Class Initialized
+INFO - 2020-08-13 05:22:12 --> Language Class Initialized
+INFO - 2020-08-13 05:22:12 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:12 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:12 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:12 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:12 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:12 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:12 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:12 --> Config Class Initialized
+INFO - 2020-08-13 05:22:12 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:12 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:12 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:12 --> URI Class Initialized
+INFO - 2020-08-13 05:22:12 --> Router Class Initialized
+INFO - 2020-08-13 05:22:12 --> Output Class Initialized
+INFO - 2020-08-13 05:22:12 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:12 --> Input Class Initialized
+INFO - 2020-08-13 05:22:12 --> Language Class Initialized
+INFO - 2020-08-13 05:22:12 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:12 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:12 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:12 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:12 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:12 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:12 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:12 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:12 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:12 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:12 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:12 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:12 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:12 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:12 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:12 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:12 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:12 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:12 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:12 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:12 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:12 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:12 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:12 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:12 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:12 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:12 --> Total execution time: 0.2145
+INFO - 2020-08-13 05:22:12 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:12 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:12 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:12 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:12 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:12 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:12 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:12 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:12 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:12 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:12 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:12 --> Total execution time: 0.2802
+INFO - 2020-08-13 05:22:13 --> Config Class Initialized
+INFO - 2020-08-13 05:22:13 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:13 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:13 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:13 --> URI Class Initialized
+INFO - 2020-08-13 05:22:13 --> Router Class Initialized
+INFO - 2020-08-13 05:22:13 --> Output Class Initialized
+INFO - 2020-08-13 05:22:13 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:13 --> Input Class Initialized
+INFO - 2020-08-13 05:22:13 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:13 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:22:13 --> Config Class Initialized
+INFO - 2020-08-13 05:22:13 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:13 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:13 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:13 --> URI Class Initialized
+INFO - 2020-08-13 05:22:13 --> Router Class Initialized
+INFO - 2020-08-13 05:22:13 --> Output Class Initialized
+INFO - 2020-08-13 05:22:13 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:13 --> Input Class Initialized
+INFO - 2020-08-13 05:22:13 --> Language Class Initialized
+INFO - 2020-08-13 05:22:13 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:13 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:13 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:13 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:13 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:13 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:13 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:13 --> Config Class Initialized
+INFO - 2020-08-13 05:22:13 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:13 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:13 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:13 --> URI Class Initialized
+INFO - 2020-08-13 05:22:13 --> Router Class Initialized
+INFO - 2020-08-13 05:22:13 --> Output Class Initialized
+INFO - 2020-08-13 05:22:13 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:13 --> Input Class Initialized
+INFO - 2020-08-13 05:22:13 --> Language Class Initialized
+INFO - 2020-08-13 05:22:13 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:13 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:13 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:13 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:13 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:13 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:13 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:13 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:13 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:13 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:13 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:13 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:13 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:13 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:13 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:13 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:13 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:13 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:13 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:13 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:13 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:13 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:13 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:13 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:13 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:13 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:13 --> Total execution time: 0.2183
+INFO - 2020-08-13 05:22:13 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:13 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:13 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:13 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:13 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:13 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:13 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:13 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:13 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:13 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:13 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:13 --> Total execution time: 0.2484
+INFO - 2020-08-13 05:22:13 --> Config Class Initialized
+INFO - 2020-08-13 05:22:13 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:13 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:13 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:13 --> URI Class Initialized
+INFO - 2020-08-13 05:22:13 --> Router Class Initialized
+INFO - 2020-08-13 05:22:13 --> Output Class Initialized
+INFO - 2020-08-13 05:22:13 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:13 --> Input Class Initialized
+INFO - 2020-08-13 05:22:13 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:13 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:22:13 --> Config Class Initialized
+INFO - 2020-08-13 05:22:13 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:13 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:13 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:13 --> URI Class Initialized
+INFO - 2020-08-13 05:22:13 --> Router Class Initialized
+INFO - 2020-08-13 05:22:13 --> Output Class Initialized
+INFO - 2020-08-13 05:22:13 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:13 --> Input Class Initialized
+INFO - 2020-08-13 05:22:13 --> Language Class Initialized
+INFO - 2020-08-13 05:22:13 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:13 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:13 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:13 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:13 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:13 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:13 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:13 --> Config Class Initialized
+INFO - 2020-08-13 05:22:13 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:13 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:13 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:13 --> URI Class Initialized
+INFO - 2020-08-13 05:22:13 --> Router Class Initialized
+INFO - 2020-08-13 05:22:13 --> Output Class Initialized
+INFO - 2020-08-13 05:22:13 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:13 --> Input Class Initialized
+INFO - 2020-08-13 05:22:13 --> Language Class Initialized
+INFO - 2020-08-13 05:22:13 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:13 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:13 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:13 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:13 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:13 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:13 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:13 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:13 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:13 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:13 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:13 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:13 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:13 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:13 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:13 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:13 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:13 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:13 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:13 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:13 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:13 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:13 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:13 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:13 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:13 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:13 --> Total execution time: 0.2140
+INFO - 2020-08-13 05:22:14 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:14 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:14 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:14 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:14 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:14 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:14 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:14 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:14 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:14 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:14 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:14 --> Total execution time: 0.2811
+INFO - 2020-08-13 05:22:14 --> Config Class Initialized
+INFO - 2020-08-13 05:22:14 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:14 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:14 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:14 --> URI Class Initialized
+INFO - 2020-08-13 05:22:14 --> Router Class Initialized
+INFO - 2020-08-13 05:22:14 --> Output Class Initialized
+INFO - 2020-08-13 05:22:14 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:14 --> Input Class Initialized
+INFO - 2020-08-13 05:22:14 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:14 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:22:14 --> Config Class Initialized
+INFO - 2020-08-13 05:22:14 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:14 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:14 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:14 --> URI Class Initialized
+INFO - 2020-08-13 05:22:14 --> Router Class Initialized
+INFO - 2020-08-13 05:22:14 --> Output Class Initialized
+INFO - 2020-08-13 05:22:14 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:14 --> Input Class Initialized
+INFO - 2020-08-13 05:22:14 --> Language Class Initialized
+INFO - 2020-08-13 05:22:14 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:14 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:14 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:14 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:14 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:14 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:14 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:14 --> Config Class Initialized
+INFO - 2020-08-13 05:22:14 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:14 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:14 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:14 --> URI Class Initialized
+INFO - 2020-08-13 05:22:14 --> Router Class Initialized
+INFO - 2020-08-13 05:22:14 --> Output Class Initialized
+INFO - 2020-08-13 05:22:14 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:14 --> Input Class Initialized
+INFO - 2020-08-13 05:22:14 --> Language Class Initialized
+INFO - 2020-08-13 05:22:14 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:14 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:14 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:14 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:14 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:14 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:14 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:14 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:14 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:14 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:14 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:14 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:14 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:14 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:14 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:14 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:14 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:14 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:14 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:14 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:14 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:14 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:14 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:14 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:14 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:14 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:14 --> Total execution time: 0.2443
+INFO - 2020-08-13 05:22:14 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:14 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:14 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:14 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:14 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:14 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:14 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:14 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:14 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:14 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:14 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:14 --> Total execution time: 0.2547
+INFO - 2020-08-13 05:22:15 --> Config Class Initialized
+INFO - 2020-08-13 05:22:15 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:15 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:15 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:15 --> URI Class Initialized
+INFO - 2020-08-13 05:22:15 --> Router Class Initialized
+INFO - 2020-08-13 05:22:15 --> Output Class Initialized
+INFO - 2020-08-13 05:22:15 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:15 --> Input Class Initialized
+INFO - 2020-08-13 05:22:15 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:15 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:22:15 --> Config Class Initialized
+INFO - 2020-08-13 05:22:15 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:15 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:15 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:15 --> URI Class Initialized
+INFO - 2020-08-13 05:22:15 --> Router Class Initialized
+INFO - 2020-08-13 05:22:15 --> Output Class Initialized
+INFO - 2020-08-13 05:22:15 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:15 --> Input Class Initialized
+INFO - 2020-08-13 05:22:15 --> Language Class Initialized
+INFO - 2020-08-13 05:22:15 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:15 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:15 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:15 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:15 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:15 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:15 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:15 --> Config Class Initialized
+INFO - 2020-08-13 05:22:15 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:15 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:15 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:15 --> URI Class Initialized
+INFO - 2020-08-13 05:22:15 --> Router Class Initialized
+INFO - 2020-08-13 05:22:15 --> Output Class Initialized
+INFO - 2020-08-13 05:22:15 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:15 --> Input Class Initialized
+INFO - 2020-08-13 05:22:15 --> Language Class Initialized
+INFO - 2020-08-13 05:22:15 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:15 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:15 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:15 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:15 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:15 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:15 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:15 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:15 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:15 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:15 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:15 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:15 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:15 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:15 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:15 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:15 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:15 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:15 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:15 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:15 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:15 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:15 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:15 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:15 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:15 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:15 --> Total execution time: 0.2475
+INFO - 2020-08-13 05:22:15 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:15 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:15 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:15 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:15 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:15 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:15 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:15 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:15 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:15 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:15 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:15 --> Total execution time: 0.2762
+INFO - 2020-08-13 05:22:15 --> Config Class Initialized
+INFO - 2020-08-13 05:22:15 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:15 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:15 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:15 --> URI Class Initialized
+INFO - 2020-08-13 05:22:15 --> Router Class Initialized
+INFO - 2020-08-13 05:22:15 --> Output Class Initialized
+INFO - 2020-08-13 05:22:15 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:15 --> Input Class Initialized
+INFO - 2020-08-13 05:22:15 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:15 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:22:15 --> Config Class Initialized
+INFO - 2020-08-13 05:22:15 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:15 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:15 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:15 --> URI Class Initialized
+INFO - 2020-08-13 05:22:15 --> Router Class Initialized
+INFO - 2020-08-13 05:22:15 --> Output Class Initialized
+INFO - 2020-08-13 05:22:15 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:15 --> Input Class Initialized
+INFO - 2020-08-13 05:22:15 --> Language Class Initialized
+INFO - 2020-08-13 05:22:15 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:15 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:15 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:15 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:15 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:15 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:15 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:16 --> Config Class Initialized
+INFO - 2020-08-13 05:22:16 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:16 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:16 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:16 --> URI Class Initialized
+INFO - 2020-08-13 05:22:16 --> Router Class Initialized
+INFO - 2020-08-13 05:22:16 --> Output Class Initialized
+INFO - 2020-08-13 05:22:16 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:16 --> Input Class Initialized
+INFO - 2020-08-13 05:22:16 --> Language Class Initialized
+INFO - 2020-08-13 05:22:16 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:16 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:16 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:16 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:16 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:16 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:16 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:16 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:16 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:16 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:16 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:16 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:16 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:16 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:16 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:16 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:16 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:16 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:16 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:16 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:16 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:16 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:16 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:16 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:16 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:16 --> Total execution time: 0.2237
+INFO - 2020-08-13 05:22:16 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:16 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:16 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:16 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:16 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:16 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:16 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:16 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:16 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:16 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:16 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:16 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:16 --> Total execution time: 0.2765
+INFO - 2020-08-13 05:22:16 --> Config Class Initialized
+INFO - 2020-08-13 05:22:16 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:16 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:16 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:16 --> URI Class Initialized
+INFO - 2020-08-13 05:22:16 --> Router Class Initialized
+INFO - 2020-08-13 05:22:16 --> Output Class Initialized
+INFO - 2020-08-13 05:22:16 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:16 --> Input Class Initialized
+INFO - 2020-08-13 05:22:16 --> Language Class Initialized
+INFO - 2020-08-13 05:22:16 --> Config Class Initialized
+ERROR - 2020-08-13 05:22:16 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:22:16 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:16 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:16 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:16 --> URI Class Initialized
+INFO - 2020-08-13 05:22:16 --> Router Class Initialized
+INFO - 2020-08-13 05:22:16 --> Output Class Initialized
+INFO - 2020-08-13 05:22:16 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:16 --> Input Class Initialized
+INFO - 2020-08-13 05:22:16 --> Language Class Initialized
+INFO - 2020-08-13 05:22:16 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:16 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:16 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:16 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:16 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:16 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:16 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:16 --> Config Class Initialized
+INFO - 2020-08-13 05:22:16 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:16 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:16 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:16 --> URI Class Initialized
+INFO - 2020-08-13 05:22:16 --> Router Class Initialized
+INFO - 2020-08-13 05:22:16 --> Output Class Initialized
+INFO - 2020-08-13 05:22:16 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:16 --> Input Class Initialized
+INFO - 2020-08-13 05:22:16 --> Language Class Initialized
+INFO - 2020-08-13 05:22:16 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:16 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:16 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:16 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:16 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:16 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:16 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:16 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:16 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:16 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:16 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:16 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:16 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:16 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:16 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:16 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:16 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:16 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:16 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:16 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:16 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:16 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:16 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:16 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:16 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:16 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:16 --> Total execution time: 0.2187
+INFO - 2020-08-13 05:22:17 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:17 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:17 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:17 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:17 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:17 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:17 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:17 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:17 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:17 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:17 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:17 --> Total execution time: 0.2535
+INFO - 2020-08-13 05:22:17 --> Config Class Initialized
+INFO - 2020-08-13 05:22:17 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:17 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:17 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:17 --> URI Class Initialized
+INFO - 2020-08-13 05:22:17 --> Router Class Initialized
+INFO - 2020-08-13 05:22:17 --> Output Class Initialized
+INFO - 2020-08-13 05:22:17 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:17 --> Input Class Initialized
+INFO - 2020-08-13 05:22:17 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:17 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:22:17 --> Config Class Initialized
+INFO - 2020-08-13 05:22:17 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:17 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:17 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:17 --> URI Class Initialized
+INFO - 2020-08-13 05:22:17 --> Router Class Initialized
+INFO - 2020-08-13 05:22:17 --> Output Class Initialized
+INFO - 2020-08-13 05:22:17 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:17 --> Input Class Initialized
+INFO - 2020-08-13 05:22:17 --> Language Class Initialized
+INFO - 2020-08-13 05:22:17 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:17 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:17 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:17 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:17 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:17 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:17 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:17 --> Config Class Initialized
+INFO - 2020-08-13 05:22:17 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:17 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:17 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:17 --> URI Class Initialized
+INFO - 2020-08-13 05:22:17 --> Router Class Initialized
+INFO - 2020-08-13 05:22:17 --> Output Class Initialized
+INFO - 2020-08-13 05:22:17 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:17 --> Input Class Initialized
+INFO - 2020-08-13 05:22:17 --> Language Class Initialized
+INFO - 2020-08-13 05:22:17 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:17 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:17 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:17 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:17 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:17 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:17 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:17 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:17 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:17 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:17 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:17 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:17 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:17 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:17 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:17 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:17 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:17 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:17 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:17 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:17 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:17 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:17 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:17 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:17 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:17 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:17 --> Total execution time: 0.2576
+INFO - 2020-08-13 05:22:17 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:17 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:17 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:17 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:17 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:17 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:17 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:17 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:17 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:17 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:17 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:17 --> Total execution time: 0.2700
+INFO - 2020-08-13 05:22:18 --> Config Class Initialized
+INFO - 2020-08-13 05:22:18 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:18 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:18 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:18 --> URI Class Initialized
+INFO - 2020-08-13 05:22:18 --> Router Class Initialized
+INFO - 2020-08-13 05:22:18 --> Output Class Initialized
+INFO - 2020-08-13 05:22:18 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:18 --> Input Class Initialized
+INFO - 2020-08-13 05:22:18 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:18 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:22:18 --> Config Class Initialized
+INFO - 2020-08-13 05:22:18 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:18 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:18 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:18 --> URI Class Initialized
+INFO - 2020-08-13 05:22:18 --> Router Class Initialized
+INFO - 2020-08-13 05:22:18 --> Output Class Initialized
+INFO - 2020-08-13 05:22:18 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:18 --> Input Class Initialized
+INFO - 2020-08-13 05:22:18 --> Language Class Initialized
+INFO - 2020-08-13 05:22:18 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:18 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:18 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:18 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:18 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:18 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:18 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:18 --> Config Class Initialized
+INFO - 2020-08-13 05:22:18 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:18 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:18 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:18 --> URI Class Initialized
+INFO - 2020-08-13 05:22:18 --> Router Class Initialized
+INFO - 2020-08-13 05:22:18 --> Output Class Initialized
+INFO - 2020-08-13 05:22:18 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:18 --> Input Class Initialized
+INFO - 2020-08-13 05:22:18 --> Language Class Initialized
+INFO - 2020-08-13 05:22:18 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:18 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:18 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:18 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:18 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:18 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:18 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:18 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:18 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:18 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:18 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:18 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:18 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:18 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:18 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:18 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:18 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:18 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:18 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:18 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:18 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:18 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:18 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:18 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:18 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:18 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:18 --> Total execution time: 0.2420
+INFO - 2020-08-13 05:22:18 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:18 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:18 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:18 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:18 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:18 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:18 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:18 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:18 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:18 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:18 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:18 --> Total execution time: 0.2680
+INFO - 2020-08-13 05:22:18 --> Config Class Initialized
+INFO - 2020-08-13 05:22:18 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:18 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:18 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:18 --> URI Class Initialized
+INFO - 2020-08-13 05:22:18 --> Router Class Initialized
+INFO - 2020-08-13 05:22:18 --> Output Class Initialized
+INFO - 2020-08-13 05:22:18 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:18 --> Input Class Initialized
+INFO - 2020-08-13 05:22:18 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:18 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:22:18 --> Config Class Initialized
+INFO - 2020-08-13 05:22:18 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:18 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:18 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:18 --> URI Class Initialized
+INFO - 2020-08-13 05:22:18 --> Router Class Initialized
+INFO - 2020-08-13 05:22:18 --> Output Class Initialized
+INFO - 2020-08-13 05:22:18 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:18 --> Input Class Initialized
+INFO - 2020-08-13 05:22:18 --> Language Class Initialized
+INFO - 2020-08-13 05:22:18 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:18 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:18 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:18 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:18 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:18 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:18 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:18 --> Config Class Initialized
+INFO - 2020-08-13 05:22:18 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:18 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:18 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:18 --> URI Class Initialized
+INFO - 2020-08-13 05:22:18 --> Router Class Initialized
+INFO - 2020-08-13 05:22:18 --> Output Class Initialized
+INFO - 2020-08-13 05:22:18 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:18 --> Input Class Initialized
+INFO - 2020-08-13 05:22:18 --> Language Class Initialized
+INFO - 2020-08-13 05:22:19 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:19 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:19 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:19 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:19 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:19 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:19 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:19 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:19 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:19 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:19 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:19 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:19 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:19 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:19 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:19 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:19 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:19 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:19 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:19 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:19 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:19 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:19 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:19 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:19 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:19 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:19 --> Total execution time: 0.2196
+INFO - 2020-08-13 05:22:19 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:19 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:19 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:19 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:19 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:19 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:19 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:19 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:19 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:19 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:19 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:19 --> Total execution time: 0.2674
+INFO - 2020-08-13 05:22:19 --> Config Class Initialized
+INFO - 2020-08-13 05:22:19 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:19 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:19 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:19 --> URI Class Initialized
+INFO - 2020-08-13 05:22:19 --> Router Class Initialized
+INFO - 2020-08-13 05:22:19 --> Output Class Initialized
+INFO - 2020-08-13 05:22:19 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:19 --> Input Class Initialized
+INFO - 2020-08-13 05:22:19 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:19 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:22:19 --> Config Class Initialized
+INFO - 2020-08-13 05:22:19 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:19 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:19 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:19 --> URI Class Initialized
+INFO - 2020-08-13 05:22:19 --> Router Class Initialized
+INFO - 2020-08-13 05:22:19 --> Output Class Initialized
+INFO - 2020-08-13 05:22:19 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:19 --> Input Class Initialized
+INFO - 2020-08-13 05:22:19 --> Language Class Initialized
+INFO - 2020-08-13 05:22:19 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:19 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:19 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:19 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:19 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:19 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:19 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:19 --> Config Class Initialized
+INFO - 2020-08-13 05:22:19 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:19 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:19 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:19 --> URI Class Initialized
+INFO - 2020-08-13 05:22:19 --> Router Class Initialized
+INFO - 2020-08-13 05:22:19 --> Output Class Initialized
+INFO - 2020-08-13 05:22:19 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:19 --> Input Class Initialized
+INFO - 2020-08-13 05:22:19 --> Language Class Initialized
+INFO - 2020-08-13 05:22:19 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:19 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:19 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:19 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:19 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:19 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:19 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:19 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:19 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:19 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:19 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:19 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:19 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:19 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:19 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:19 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:19 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:19 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:19 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:19 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:19 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:19 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:19 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:19 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:19 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:19 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:19 --> Total execution time: 0.2254
+INFO - 2020-08-13 05:22:19 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:19 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:19 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:19 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:19 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:19 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:19 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:19 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:19 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:19 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:19 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:19 --> Total execution time: 0.2448
+INFO - 2020-08-13 05:22:20 --> Config Class Initialized
+INFO - 2020-08-13 05:22:20 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:20 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:20 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:20 --> URI Class Initialized
+INFO - 2020-08-13 05:22:20 --> Router Class Initialized
+INFO - 2020-08-13 05:22:20 --> Output Class Initialized
+INFO - 2020-08-13 05:22:20 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:20 --> Input Class Initialized
+INFO - 2020-08-13 05:22:20 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:20 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:22:20 --> Config Class Initialized
+INFO - 2020-08-13 05:22:20 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:20 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:20 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:20 --> URI Class Initialized
+INFO - 2020-08-13 05:22:20 --> Router Class Initialized
+INFO - 2020-08-13 05:22:20 --> Output Class Initialized
+INFO - 2020-08-13 05:22:20 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:20 --> Input Class Initialized
+INFO - 2020-08-13 05:22:20 --> Language Class Initialized
+INFO - 2020-08-13 05:22:20 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:20 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:20 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:20 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:20 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:20 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:20 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:20 --> Config Class Initialized
+INFO - 2020-08-13 05:22:20 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:20 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:20 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:20 --> URI Class Initialized
+INFO - 2020-08-13 05:22:20 --> Router Class Initialized
+INFO - 2020-08-13 05:22:20 --> Output Class Initialized
+INFO - 2020-08-13 05:22:20 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:20 --> Input Class Initialized
+INFO - 2020-08-13 05:22:20 --> Language Class Initialized
+INFO - 2020-08-13 05:22:20 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:20 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:20 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:20 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:20 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:20 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:20 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:20 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:20 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:20 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:20 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:20 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:20 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:20 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:20 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:20 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:20 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:20 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:20 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:20 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:20 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:20 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:20 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:20 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:20 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:20 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:20 --> Total execution time: 0.2195
+INFO - 2020-08-13 05:22:20 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:20 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:20 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:20 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:20 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:20 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:20 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:20 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:20 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:20 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:20 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:20 --> Total execution time: 0.2588
+INFO - 2020-08-13 05:22:21 --> Config Class Initialized
+INFO - 2020-08-13 05:22:21 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:21 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:21 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:21 --> URI Class Initialized
+INFO - 2020-08-13 05:22:21 --> Router Class Initialized
+INFO - 2020-08-13 05:22:21 --> Output Class Initialized
+INFO - 2020-08-13 05:22:21 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:21 --> Input Class Initialized
+INFO - 2020-08-13 05:22:21 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:21 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:22:21 --> Config Class Initialized
+INFO - 2020-08-13 05:22:21 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:21 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:21 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:21 --> URI Class Initialized
+INFO - 2020-08-13 05:22:21 --> Router Class Initialized
+INFO - 2020-08-13 05:22:21 --> Output Class Initialized
+INFO - 2020-08-13 05:22:21 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:21 --> Input Class Initialized
+INFO - 2020-08-13 05:22:21 --> Language Class Initialized
+INFO - 2020-08-13 05:22:21 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:21 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:21 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:21 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:21 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:21 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:21 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:21 --> Config Class Initialized
+INFO - 2020-08-13 05:22:21 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:21 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:21 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:21 --> URI Class Initialized
+INFO - 2020-08-13 05:22:21 --> Router Class Initialized
+INFO - 2020-08-13 05:22:21 --> Output Class Initialized
+INFO - 2020-08-13 05:22:21 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:21 --> Input Class Initialized
+INFO - 2020-08-13 05:22:21 --> Language Class Initialized
+INFO - 2020-08-13 05:22:21 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:21 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:21 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:21 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:21 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:21 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:21 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:21 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:21 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:21 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:21 --> Email Class Initialized
+INFO - 2020-08-13 05:22:21 --> Database Driver Class Initialized
+DEBUG - 2020-08-13 05:22:21 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:21 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:21 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:21 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:21 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:21 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:21 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:21 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:21 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:21 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:21 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:21 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:21 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:21 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:21 --> Total execution time: 0.2359
+INFO - 2020-08-13 05:22:21 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:21 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:21 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:21 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:21 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:21 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:21 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:21 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:21 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:21 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:21 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:21 --> Total execution time: 0.2930
+INFO - 2020-08-13 05:22:21 --> Config Class Initialized
+INFO - 2020-08-13 05:22:21 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:21 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:21 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:21 --> URI Class Initialized
+INFO - 2020-08-13 05:22:21 --> Router Class Initialized
+INFO - 2020-08-13 05:22:21 --> Output Class Initialized
+INFO - 2020-08-13 05:22:21 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:21 --> Input Class Initialized
+INFO - 2020-08-13 05:22:21 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:21 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:22:21 --> Config Class Initialized
+INFO - 2020-08-13 05:22:21 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:21 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:21 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:21 --> URI Class Initialized
+INFO - 2020-08-13 05:22:21 --> Router Class Initialized
+INFO - 2020-08-13 05:22:21 --> Output Class Initialized
+INFO - 2020-08-13 05:22:21 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:21 --> Input Class Initialized
+INFO - 2020-08-13 05:22:21 --> Language Class Initialized
+INFO - 2020-08-13 05:22:21 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:21 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:21 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:21 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:21 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:21 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:21 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:22 --> Config Class Initialized
+INFO - 2020-08-13 05:22:22 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:22 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:22 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:22 --> URI Class Initialized
+INFO - 2020-08-13 05:22:22 --> Router Class Initialized
+INFO - 2020-08-13 05:22:22 --> Output Class Initialized
+INFO - 2020-08-13 05:22:22 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:22 --> Input Class Initialized
+INFO - 2020-08-13 05:22:22 --> Language Class Initialized
+INFO - 2020-08-13 05:22:22 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:22 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:22 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:22 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:22 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:22 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:22 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:22 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:22 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:22 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:22 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:22 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:22 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:22 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:22 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:22 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:22 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:22 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:22 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:22 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:22 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:22 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:22 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:22 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:22 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:22 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:22 --> Total execution time: 0.2223
+INFO - 2020-08-13 05:22:22 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:22 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:22 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:22 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:22 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:22 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:22 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:22 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:22 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:22 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:22 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:22 --> Total execution time: 0.2697
+INFO - 2020-08-13 05:22:22 --> Config Class Initialized
+INFO - 2020-08-13 05:22:22 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:22 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:22 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:22 --> URI Class Initialized
+INFO - 2020-08-13 05:22:22 --> Router Class Initialized
+INFO - 2020-08-13 05:22:22 --> Output Class Initialized
+INFO - 2020-08-13 05:22:22 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:22 --> Input Class Initialized
+INFO - 2020-08-13 05:22:22 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:22 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:22:22 --> Config Class Initialized
+INFO - 2020-08-13 05:22:22 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:22 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:22 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:22 --> URI Class Initialized
+INFO - 2020-08-13 05:22:22 --> Router Class Initialized
+INFO - 2020-08-13 05:22:22 --> Output Class Initialized
+INFO - 2020-08-13 05:22:22 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:22 --> Input Class Initialized
+INFO - 2020-08-13 05:22:22 --> Language Class Initialized
+INFO - 2020-08-13 05:22:22 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:22 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:22 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:22 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:22 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:22 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:22 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:22 --> Config Class Initialized
+INFO - 2020-08-13 05:22:22 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:22 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:22 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:22 --> URI Class Initialized
+INFO - 2020-08-13 05:22:22 --> Router Class Initialized
+INFO - 2020-08-13 05:22:22 --> Output Class Initialized
+INFO - 2020-08-13 05:22:22 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:22 --> Input Class Initialized
+INFO - 2020-08-13 05:22:22 --> Language Class Initialized
+INFO - 2020-08-13 05:22:22 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:22 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:22 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:22 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:22 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:22 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:22 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:22 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:23 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:23 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:23 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:23 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:23 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:23 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:23 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:23 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:23 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:23 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:23 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:23 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:23 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:23 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:23 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:23 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:23 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:23 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:23 --> Total execution time: 0.2360
+INFO - 2020-08-13 05:22:23 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:23 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:23 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:23 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:23 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:23 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:23 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:23 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:23 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:23 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:23 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:23 --> Total execution time: 0.2720
+INFO - 2020-08-13 05:22:23 --> Config Class Initialized
+INFO - 2020-08-13 05:22:23 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:23 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:23 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:23 --> URI Class Initialized
+INFO - 2020-08-13 05:22:23 --> Router Class Initialized
+INFO - 2020-08-13 05:22:23 --> Output Class Initialized
+INFO - 2020-08-13 05:22:23 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:23 --> Input Class Initialized
+INFO - 2020-08-13 05:22:23 --> Language Class Initialized
+INFO - 2020-08-13 05:22:23 --> Config Class Initialized
+INFO - 2020-08-13 05:22:23 --> Hooks Class Initialized
+ERROR - 2020-08-13 05:22:23 --> 404 Page Not Found: Assets/global
+DEBUG - 2020-08-13 05:22:23 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:23 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:23 --> URI Class Initialized
+INFO - 2020-08-13 05:22:23 --> Router Class Initialized
+INFO - 2020-08-13 05:22:23 --> Output Class Initialized
+INFO - 2020-08-13 05:22:23 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:23 --> Input Class Initialized
+INFO - 2020-08-13 05:22:23 --> Language Class Initialized
+INFO - 2020-08-13 05:22:23 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:23 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:23 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:23 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:23 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:23 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:23 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:23 --> Config Class Initialized
+INFO - 2020-08-13 05:22:23 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:23 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:23 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:23 --> URI Class Initialized
+INFO - 2020-08-13 05:22:23 --> Router Class Initialized
+INFO - 2020-08-13 05:22:23 --> Output Class Initialized
+INFO - 2020-08-13 05:22:23 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:23 --> Input Class Initialized
+INFO - 2020-08-13 05:22:23 --> Language Class Initialized
+INFO - 2020-08-13 05:22:23 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:23 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:23 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:23 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:23 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:23 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:23 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:23 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:23 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:23 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:23 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:23 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:23 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:23 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:23 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:23 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:23 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:23 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:23 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:23 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:23 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:23 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:23 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:23 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:23 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:23 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:23 --> Total execution time: 0.2429
+INFO - 2020-08-13 05:22:23 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:23 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:23 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:23 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:23 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:23 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:23 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:23 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:23 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:23 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:23 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:23 --> Total execution time: 0.2668
+INFO - 2020-08-13 05:22:24 --> Config Class Initialized
+INFO - 2020-08-13 05:22:24 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:24 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:24 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:24 --> URI Class Initialized
+INFO - 2020-08-13 05:22:24 --> Router Class Initialized
+INFO - 2020-08-13 05:22:24 --> Output Class Initialized
+INFO - 2020-08-13 05:22:24 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:24 --> Input Class Initialized
+INFO - 2020-08-13 05:22:24 --> Language Class Initialized
+INFO - 2020-08-13 05:22:24 --> Config Class Initialized
+INFO - 2020-08-13 05:22:24 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:24 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:24 --> Utf8 Class Initialized
+ERROR - 2020-08-13 05:22:24 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:22:24 --> URI Class Initialized
+INFO - 2020-08-13 05:22:24 --> Router Class Initialized
+INFO - 2020-08-13 05:22:24 --> Output Class Initialized
+INFO - 2020-08-13 05:22:24 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:24 --> Input Class Initialized
+INFO - 2020-08-13 05:22:24 --> Language Class Initialized
+INFO - 2020-08-13 05:22:24 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:24 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:24 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:24 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:24 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:24 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:24 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:24 --> Config Class Initialized
+INFO - 2020-08-13 05:22:24 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:24 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:24 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:24 --> URI Class Initialized
+INFO - 2020-08-13 05:22:24 --> Router Class Initialized
+INFO - 2020-08-13 05:22:24 --> Output Class Initialized
+INFO - 2020-08-13 05:22:24 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:24 --> Input Class Initialized
+INFO - 2020-08-13 05:22:24 --> Language Class Initialized
+INFO - 2020-08-13 05:22:24 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:24 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:24 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:24 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:24 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:24 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:24 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:24 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:24 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:24 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:24 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:24 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:24 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:24 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:24 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:24 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:24 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:24 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:24 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:24 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:24 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:24 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:24 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:24 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:24 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:24 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:24 --> Total execution time: 0.2307
+INFO - 2020-08-13 05:22:24 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:24 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:24 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:24 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:24 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:24 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:24 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:24 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:24 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:24 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:24 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:24 --> Total execution time: 0.2830
+INFO - 2020-08-13 05:22:25 --> Config Class Initialized
+INFO - 2020-08-13 05:22:25 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:25 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:25 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:25 --> URI Class Initialized
+INFO - 2020-08-13 05:22:25 --> Router Class Initialized
+INFO - 2020-08-13 05:22:25 --> Output Class Initialized
+INFO - 2020-08-13 05:22:25 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:25 --> Input Class Initialized
+INFO - 2020-08-13 05:22:25 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:25 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:22:25 --> Config Class Initialized
+INFO - 2020-08-13 05:22:25 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:25 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:25 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:25 --> URI Class Initialized
+INFO - 2020-08-13 05:22:25 --> Router Class Initialized
+INFO - 2020-08-13 05:22:25 --> Output Class Initialized
+INFO - 2020-08-13 05:22:25 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:25 --> Input Class Initialized
+INFO - 2020-08-13 05:22:25 --> Language Class Initialized
+INFO - 2020-08-13 05:22:25 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:25 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:25 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:25 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:25 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:25 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:25 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:25 --> Config Class Initialized
+INFO - 2020-08-13 05:22:25 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:25 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:25 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:25 --> URI Class Initialized
+INFO - 2020-08-13 05:22:25 --> Router Class Initialized
+INFO - 2020-08-13 05:22:25 --> Output Class Initialized
+INFO - 2020-08-13 05:22:25 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:25 --> Input Class Initialized
+INFO - 2020-08-13 05:22:25 --> Language Class Initialized
+INFO - 2020-08-13 05:22:25 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:25 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:25 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:25 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:25 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:25 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:25 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:25 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:25 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:25 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:25 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:25 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:25 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:25 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:25 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:25 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:25 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:25 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:25 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:25 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:25 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:25 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:25 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:25 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:25 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:25 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:25 --> Total execution time: 0.2556
+INFO - 2020-08-13 05:22:25 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:25 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:25 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:25 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:25 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:25 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:25 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:25 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:25 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:25 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:25 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:25 --> Total execution time: 0.2673
+INFO - 2020-08-13 05:22:25 --> Config Class Initialized
+INFO - 2020-08-13 05:22:25 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:25 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:25 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:25 --> URI Class Initialized
+INFO - 2020-08-13 05:22:25 --> Router Class Initialized
+INFO - 2020-08-13 05:22:25 --> Output Class Initialized
+INFO - 2020-08-13 05:22:25 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:25 --> Input Class Initialized
+INFO - 2020-08-13 05:22:25 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:26 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:22:26 --> Config Class Initialized
+INFO - 2020-08-13 05:22:26 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:26 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:26 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:26 --> URI Class Initialized
+INFO - 2020-08-13 05:22:26 --> Router Class Initialized
+INFO - 2020-08-13 05:22:26 --> Output Class Initialized
+INFO - 2020-08-13 05:22:26 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:26 --> Input Class Initialized
+INFO - 2020-08-13 05:22:26 --> Language Class Initialized
+INFO - 2020-08-13 05:22:26 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:26 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:26 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:26 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:26 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:26 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:26 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:26 --> Config Class Initialized
+INFO - 2020-08-13 05:22:26 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:26 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:26 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:26 --> URI Class Initialized
+INFO - 2020-08-13 05:22:26 --> Router Class Initialized
+INFO - 2020-08-13 05:22:26 --> Output Class Initialized
+INFO - 2020-08-13 05:22:26 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:26 --> Input Class Initialized
+INFO - 2020-08-13 05:22:26 --> Language Class Initialized
+INFO - 2020-08-13 05:22:26 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:26 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:26 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:26 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:26 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:26 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:26 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:26 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:26 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:26 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:26 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:26 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:26 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:26 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:26 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:26 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:26 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:26 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:26 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:26 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:26 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:26 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:26 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:26 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:26 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:26 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:26 --> Total execution time: 0.2466
+INFO - 2020-08-13 05:22:26 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:26 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:26 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:26 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:26 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:26 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:26 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:26 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:26 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:26 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:26 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:26 --> Total execution time: 0.2534
+INFO - 2020-08-13 05:22:26 --> Config Class Initialized
+INFO - 2020-08-13 05:22:26 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:26 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:26 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:26 --> URI Class Initialized
+INFO - 2020-08-13 05:22:26 --> Router Class Initialized
+INFO - 2020-08-13 05:22:26 --> Output Class Initialized
+INFO - 2020-08-13 05:22:26 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:26 --> Input Class Initialized
+INFO - 2020-08-13 05:22:26 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:26 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:22:26 --> Config Class Initialized
+INFO - 2020-08-13 05:22:26 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:26 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:26 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:26 --> URI Class Initialized
+INFO - 2020-08-13 05:22:26 --> Router Class Initialized
+INFO - 2020-08-13 05:22:26 --> Output Class Initialized
+INFO - 2020-08-13 05:22:26 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:26 --> Input Class Initialized
+INFO - 2020-08-13 05:22:26 --> Language Class Initialized
+INFO - 2020-08-13 05:22:26 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:26 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:26 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:26 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:26 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:26 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:26 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:26 --> Config Class Initialized
+INFO - 2020-08-13 05:22:26 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:26 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:26 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:26 --> URI Class Initialized
+INFO - 2020-08-13 05:22:26 --> Router Class Initialized
+INFO - 2020-08-13 05:22:26 --> Output Class Initialized
+INFO - 2020-08-13 05:22:26 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:26 --> Input Class Initialized
+INFO - 2020-08-13 05:22:26 --> Language Class Initialized
+INFO - 2020-08-13 05:22:26 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:27 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:27 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:27 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:27 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:27 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:27 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:27 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:27 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:27 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:27 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:27 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:27 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:27 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:27 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:27 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:27 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:27 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:27 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:27 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:27 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:27 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:27 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:27 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:27 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:27 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:27 --> Total execution time: 0.2556
+INFO - 2020-08-13 05:22:27 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:27 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:27 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:27 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:27 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:27 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:27 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:27 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:27 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:27 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:27 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:27 --> Total execution time: 0.3101
+INFO - 2020-08-13 05:22:27 --> Config Class Initialized
+INFO - 2020-08-13 05:22:27 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:27 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:27 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:27 --> URI Class Initialized
+INFO - 2020-08-13 05:22:27 --> Router Class Initialized
+INFO - 2020-08-13 05:22:27 --> Output Class Initialized
+INFO - 2020-08-13 05:22:27 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:27 --> Input Class Initialized
+INFO - 2020-08-13 05:22:27 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:27 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:22:27 --> Config Class Initialized
+INFO - 2020-08-13 05:22:27 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:27 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:27 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:27 --> URI Class Initialized
+INFO - 2020-08-13 05:22:27 --> Router Class Initialized
+INFO - 2020-08-13 05:22:27 --> Output Class Initialized
+INFO - 2020-08-13 05:22:27 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:27 --> Input Class Initialized
+INFO - 2020-08-13 05:22:27 --> Language Class Initialized
+INFO - 2020-08-13 05:22:27 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:27 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:27 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:27 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:27 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:27 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:27 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:27 --> Config Class Initialized
+INFO - 2020-08-13 05:22:27 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:27 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:27 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:27 --> URI Class Initialized
+INFO - 2020-08-13 05:22:27 --> Router Class Initialized
+INFO - 2020-08-13 05:22:27 --> Output Class Initialized
+INFO - 2020-08-13 05:22:27 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:27 --> Input Class Initialized
+INFO - 2020-08-13 05:22:27 --> Language Class Initialized
+INFO - 2020-08-13 05:22:27 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:27 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:27 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:27 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:27 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:27 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:27 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:27 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:27 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:27 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:27 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:27 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:27 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:27 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:27 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:27 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:27 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:27 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:27 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:27 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:27 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:27 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:27 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:27 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:27 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:27 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:27 --> Total execution time: 0.2307
+INFO - 2020-08-13 05:22:28 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:28 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:28 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:28 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:28 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:28 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:28 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:28 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:28 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:28 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:28 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:28 --> Total execution time: 0.2811
+INFO - 2020-08-13 05:22:28 --> Config Class Initialized
+INFO - 2020-08-13 05:22:28 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:28 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:28 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:28 --> URI Class Initialized
+INFO - 2020-08-13 05:22:28 --> Router Class Initialized
+INFO - 2020-08-13 05:22:28 --> Output Class Initialized
+INFO - 2020-08-13 05:22:28 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:28 --> Input Class Initialized
+INFO - 2020-08-13 05:22:28 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:28 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:22:28 --> Config Class Initialized
+INFO - 2020-08-13 05:22:28 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:28 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:28 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:28 --> URI Class Initialized
+INFO - 2020-08-13 05:22:28 --> Router Class Initialized
+INFO - 2020-08-13 05:22:28 --> Output Class Initialized
+INFO - 2020-08-13 05:22:28 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:28 --> Input Class Initialized
+INFO - 2020-08-13 05:22:28 --> Language Class Initialized
+INFO - 2020-08-13 05:22:28 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:28 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:28 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:28 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:28 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:28 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:28 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:28 --> Config Class Initialized
+INFO - 2020-08-13 05:22:28 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:28 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:28 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:28 --> URI Class Initialized
+INFO - 2020-08-13 05:22:28 --> Router Class Initialized
+INFO - 2020-08-13 05:22:28 --> Output Class Initialized
+INFO - 2020-08-13 05:22:28 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:28 --> Input Class Initialized
+INFO - 2020-08-13 05:22:28 --> Language Class Initialized
+INFO - 2020-08-13 05:22:28 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:28 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:28 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:28 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:28 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:28 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:28 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:28 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:28 --> Email Class Initialized
+INFO - 2020-08-13 05:22:28 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:28 --> Helper loaded: encpass_helper
+DEBUG - 2020-08-13 05:22:28 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:28 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:28 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:28 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:28 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:28 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:28 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:28 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:28 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:28 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:28 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:28 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:28 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:28 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:28 --> Total execution time: 0.2455
+INFO - 2020-08-13 05:22:28 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:28 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:28 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:28 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:28 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:28 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:28 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:28 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:28 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:28 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:28 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:29 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:29 --> Total execution time: 0.2994
+INFO - 2020-08-13 05:22:29 --> Config Class Initialized
+INFO - 2020-08-13 05:22:29 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:29 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:29 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:29 --> URI Class Initialized
+INFO - 2020-08-13 05:22:29 --> Router Class Initialized
+INFO - 2020-08-13 05:22:29 --> Output Class Initialized
+INFO - 2020-08-13 05:22:29 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:29 --> Input Class Initialized
+INFO - 2020-08-13 05:22:29 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:29 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:22:29 --> Config Class Initialized
+INFO - 2020-08-13 05:22:29 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:29 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:29 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:29 --> URI Class Initialized
+INFO - 2020-08-13 05:22:29 --> Router Class Initialized
+INFO - 2020-08-13 05:22:29 --> Output Class Initialized
+INFO - 2020-08-13 05:22:29 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:29 --> Input Class Initialized
+INFO - 2020-08-13 05:22:29 --> Language Class Initialized
+INFO - 2020-08-13 05:22:29 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:29 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:29 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:29 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:29 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:29 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:29 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:29 --> Config Class Initialized
+INFO - 2020-08-13 05:22:29 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:29 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:29 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:29 --> URI Class Initialized
+INFO - 2020-08-13 05:22:29 --> Router Class Initialized
+INFO - 2020-08-13 05:22:29 --> Output Class Initialized
+INFO - 2020-08-13 05:22:29 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:29 --> Input Class Initialized
+INFO - 2020-08-13 05:22:29 --> Language Class Initialized
+INFO - 2020-08-13 05:22:29 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:29 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:29 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:29 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:29 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:29 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:29 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:29 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:29 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:29 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:29 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:29 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:29 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:29 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:29 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:29 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:29 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:29 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:29 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:29 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:29 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:29 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:29 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:29 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:29 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:29 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:29 --> Total execution time: 0.2423
+INFO - 2020-08-13 05:22:29 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:29 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:29 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:29 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:29 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:29 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:29 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:29 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:29 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:29 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:29 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:29 --> Total execution time: 0.2683
+INFO - 2020-08-13 05:22:30 --> Config Class Initialized
+INFO - 2020-08-13 05:22:30 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:30 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:30 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:30 --> URI Class Initialized
+INFO - 2020-08-13 05:22:30 --> Router Class Initialized
+INFO - 2020-08-13 05:22:30 --> Output Class Initialized
+INFO - 2020-08-13 05:22:30 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:30 --> Input Class Initialized
+INFO - 2020-08-13 05:22:30 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:30 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:22:30 --> Config Class Initialized
+INFO - 2020-08-13 05:22:30 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:30 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:30 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:30 --> URI Class Initialized
+INFO - 2020-08-13 05:22:30 --> Router Class Initialized
+INFO - 2020-08-13 05:22:30 --> Output Class Initialized
+INFO - 2020-08-13 05:22:30 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:30 --> Input Class Initialized
+INFO - 2020-08-13 05:22:30 --> Language Class Initialized
+INFO - 2020-08-13 05:22:30 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:30 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:30 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:30 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:30 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:30 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:30 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:30 --> Config Class Initialized
+INFO - 2020-08-13 05:22:30 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:30 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:30 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:30 --> URI Class Initialized
+INFO - 2020-08-13 05:22:30 --> Router Class Initialized
+INFO - 2020-08-13 05:22:30 --> Output Class Initialized
+INFO - 2020-08-13 05:22:30 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:30 --> Input Class Initialized
+INFO - 2020-08-13 05:22:30 --> Language Class Initialized
+INFO - 2020-08-13 05:22:30 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:30 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:30 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:30 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:30 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:30 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:30 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:30 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:30 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:30 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:30 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:30 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:30 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:30 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:30 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:30 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:30 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:30 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:30 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:30 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:30 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:30 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:30 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:30 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:30 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:30 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:30 --> Total execution time: 0.3378
+INFO - 2020-08-13 05:22:30 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:30 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:30 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:30 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:30 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:30 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:30 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:30 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:30 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:30 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:30 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:30 --> Total execution time: 0.3073
+INFO - 2020-08-13 05:22:31 --> Config Class Initialized
+INFO - 2020-08-13 05:22:31 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:31 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:31 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:31 --> URI Class Initialized
+INFO - 2020-08-13 05:22:31 --> Router Class Initialized
+INFO - 2020-08-13 05:22:31 --> Output Class Initialized
+INFO - 2020-08-13 05:22:31 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:31 --> Input Class Initialized
+INFO - 2020-08-13 05:22:31 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:31 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:22:31 --> Config Class Initialized
+INFO - 2020-08-13 05:22:31 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:31 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:31 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:31 --> URI Class Initialized
+INFO - 2020-08-13 05:22:31 --> Router Class Initialized
+INFO - 2020-08-13 05:22:31 --> Output Class Initialized
+INFO - 2020-08-13 05:22:31 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:31 --> Input Class Initialized
+INFO - 2020-08-13 05:22:31 --> Language Class Initialized
+INFO - 2020-08-13 05:22:31 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:31 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:31 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:31 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:31 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:31 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:31 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:31 --> Config Class Initialized
+INFO - 2020-08-13 05:22:31 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:31 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:31 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:31 --> URI Class Initialized
+INFO - 2020-08-13 05:22:31 --> Router Class Initialized
+INFO - 2020-08-13 05:22:31 --> Output Class Initialized
+INFO - 2020-08-13 05:22:31 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:31 --> Input Class Initialized
+INFO - 2020-08-13 05:22:31 --> Language Class Initialized
+INFO - 2020-08-13 05:22:31 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:31 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:31 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:31 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:31 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:31 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:31 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:31 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:31 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:31 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:31 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:31 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:31 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:31 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:31 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:31 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:31 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:31 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:31 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:31 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:31 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:31 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:31 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:31 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:31 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:31 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:31 --> Total execution time: 0.2668
+INFO - 2020-08-13 05:22:31 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:31 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:31 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:31 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:31 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:31 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:31 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:31 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:31 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:31 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:31 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:31 --> Total execution time: 0.2890
+INFO - 2020-08-13 05:22:32 --> Config Class Initialized
+INFO - 2020-08-13 05:22:32 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:32 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:32 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:32 --> URI Class Initialized
+INFO - 2020-08-13 05:22:32 --> Router Class Initialized
+INFO - 2020-08-13 05:22:32 --> Output Class Initialized
+INFO - 2020-08-13 05:22:32 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:32 --> Input Class Initialized
+INFO - 2020-08-13 05:22:32 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:32 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:22:32 --> Config Class Initialized
+INFO - 2020-08-13 05:22:32 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:32 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:32 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:32 --> URI Class Initialized
+INFO - 2020-08-13 05:22:32 --> Router Class Initialized
+INFO - 2020-08-13 05:22:32 --> Output Class Initialized
+INFO - 2020-08-13 05:22:32 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:32 --> Input Class Initialized
+INFO - 2020-08-13 05:22:32 --> Language Class Initialized
+INFO - 2020-08-13 05:22:32 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:32 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:32 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:32 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:32 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:32 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:32 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:32 --> Config Class Initialized
+INFO - 2020-08-13 05:22:32 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:32 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:32 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:32 --> URI Class Initialized
+INFO - 2020-08-13 05:22:32 --> Router Class Initialized
+INFO - 2020-08-13 05:22:32 --> Output Class Initialized
+INFO - 2020-08-13 05:22:32 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:32 --> Input Class Initialized
+INFO - 2020-08-13 05:22:32 --> Language Class Initialized
+INFO - 2020-08-13 05:22:32 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:32 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:32 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:32 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:32 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:32 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:32 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:32 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:32 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:32 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:32 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:32 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:32 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:32 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:32 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:32 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:32 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:32 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:32 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:32 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:32 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:32 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:32 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:32 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:32 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:32 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:32 --> Total execution time: 0.3236
+INFO - 2020-08-13 05:22:32 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:32 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:32 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:32 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:32 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:32 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:32 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:32 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:32 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:32 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:32 --> Config Class Initialized
+INFO - 2020-08-13 05:22:32 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:32 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:32 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:32 --> URI Class Initialized
+INFO - 2020-08-13 05:22:32 --> Router Class Initialized
+INFO - 2020-08-13 05:22:32 --> Output Class Initialized
+INFO - 2020-08-13 05:22:32 --> Security Class Initialized
+INFO - 2020-08-13 05:22:32 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-08-13 05:22:32 --> Total execution time: 0.3727
+INFO - 2020-08-13 05:22:32 --> Input Class Initialized
+INFO - 2020-08-13 05:22:32 --> Language Class Initialized
+INFO - 2020-08-13 05:22:32 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:32 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:32 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:32 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:32 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:32 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:32 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:32 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:32 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:32 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:32 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:32 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:32 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:32 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:32 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:32 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:32 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:32 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:32 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:32 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:32 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:32 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:32 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:32 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:32 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:32 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:32 --> Total execution time: 0.2572
+INFO - 2020-08-13 05:22:33 --> Config Class Initialized
+INFO - 2020-08-13 05:22:33 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:33 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:33 --> URI Class Initialized
+INFO - 2020-08-13 05:22:33 --> Router Class Initialized
+INFO - 2020-08-13 05:22:33 --> Output Class Initialized
+INFO - 2020-08-13 05:22:33 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:33 --> Input Class Initialized
+INFO - 2020-08-13 05:22:33 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:33 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:22:33 --> Config Class Initialized
+INFO - 2020-08-13 05:22:33 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:33 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:33 --> URI Class Initialized
+INFO - 2020-08-13 05:22:33 --> Router Class Initialized
+INFO - 2020-08-13 05:22:33 --> Output Class Initialized
+INFO - 2020-08-13 05:22:33 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:33 --> Input Class Initialized
+INFO - 2020-08-13 05:22:33 --> Language Class Initialized
+INFO - 2020-08-13 05:22:33 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:33 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:33 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:33 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:33 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:33 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:33 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:33 --> Config Class Initialized
+INFO - 2020-08-13 05:22:33 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:33 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:33 --> URI Class Initialized
+INFO - 2020-08-13 05:22:33 --> Router Class Initialized
+INFO - 2020-08-13 05:22:33 --> Output Class Initialized
+INFO - 2020-08-13 05:22:33 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:33 --> Input Class Initialized
+INFO - 2020-08-13 05:22:33 --> Language Class Initialized
+INFO - 2020-08-13 05:22:33 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:33 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:33 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:33 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:33 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:33 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:33 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:33 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:33 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:33 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:33 --> Email Class Initialized
+INFO - 2020-08-13 05:22:33 --> Database Driver Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:33 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:33 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:33 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:33 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:33 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:33 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:33 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:33 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:33 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:33 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:33 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:33 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:33 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:33 --> Total execution time: 0.2439
+INFO - 2020-08-13 05:22:33 --> Config Class Initialized
+INFO - 2020-08-13 05:22:33 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:33 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:33 --> Config Class Initialized
+INFO - 2020-08-13 05:22:33 --> URI Class Initialized
+INFO - 2020-08-13 05:22:33 --> Router Class Initialized
+INFO - 2020-08-13 05:22:33 --> Hooks Class Initialized
+INFO - 2020-08-13 05:22:33 --> Config Class Initialized
+INFO - 2020-08-13 05:22:33 --> Output Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:33 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:33 --> Config Class Initialized
+INFO - 2020-08-13 05:22:33 --> Hooks Class Initialized
+INFO - 2020-08-13 05:22:33 --> URI Class Initialized
+INFO - 2020-08-13 05:22:33 --> Hooks Class Initialized
+INFO - 2020-08-13 05:22:33 --> Config Class Initialized
+INFO - 2020-08-13 05:22:33 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:33 --> Utf8 Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:33 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:33 --> URI Class Initialized
+INFO - 2020-08-13 05:22:33 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:33 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:33 --> URI Class Initialized
+INFO - 2020-08-13 05:22:33 --> Router Class Initialized
+INFO - 2020-08-13 05:22:33 --> URI Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:33 --> Input Class Initialized
+INFO - 2020-08-13 05:22:33 --> Router Class Initialized
+INFO - 2020-08-13 05:22:33 --> Language Class Initialized
+INFO - 2020-08-13 05:22:33 --> Router Class Initialized
+INFO - 2020-08-13 05:22:33 --> Output Class Initialized
+INFO - 2020-08-13 05:22:33 --> Config Class Initialized
+INFO - 2020-08-13 05:22:33 --> Hooks Class Initialized
+INFO - 2020-08-13 05:22:33 --> Router Class Initialized
+INFO - 2020-08-13 05:22:33 --> Security Class Initialized
+INFO - 2020-08-13 05:22:33 --> Output Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:33 --> Utf8 Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:33 --> Input Class Initialized
+INFO - 2020-08-13 05:22:33 --> Language Class Initialized
+INFO - 2020-08-13 05:22:33 --> Security Class Initialized
+INFO - 2020-08-13 05:22:33 --> URI Class Initialized
+INFO - 2020-08-13 05:22:33 --> Output Class Initialized
+INFO - 2020-08-13 05:22:33 --> Router Class Initialized
+INFO - 2020-08-13 05:22:33 --> Output Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:33 --> Input Class Initialized
+INFO - 2020-08-13 05:22:33 --> Security Class Initialized
+INFO - 2020-08-13 05:22:33 --> Language Class Initialized
+INFO - 2020-08-13 05:22:33 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:33 --> Input Class Initialized
+INFO - 2020-08-13 05:22:33 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:33 --> 404 Page Not Found: Provinsi/assets
+DEBUG - 2020-08-13 05:22:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:33 --> Input Class Initialized
+INFO - 2020-08-13 05:22:33 --> Language Class Initialized
+INFO - 2020-08-13 05:22:33 --> Output Class Initialized
+INFO - 2020-08-13 05:22:33 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:33 --> Input Class Initialized
+INFO - 2020-08-13 05:22:33 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:33 --> 404 Page Not Found: Provinsi/assets
+INFO - 2020-08-13 05:22:33 --> Config Class Initialized
+INFO - 2020-08-13 05:22:33 --> Hooks Class Initialized
+ERROR - 2020-08-13 05:22:33 --> 404 Page Not Found: Provinsi/assets
+ERROR - 2020-08-13 05:22:33 --> 404 Page Not Found: Provinsi/assets
+ERROR - 2020-08-13 05:22:33 --> 404 Page Not Found: Provinsi/assets
+DEBUG - 2020-08-13 05:22:33 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:33 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:33 --> Config Class Initialized
+INFO - 2020-08-13 05:22:33 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:33 --> URI Class Initialized
+INFO - 2020-08-13 05:22:33 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:33 --> Router Class Initialized
+INFO - 2020-08-13 05:22:33 --> URI Class Initialized
+INFO - 2020-08-13 05:22:33 --> Router Class Initialized
+INFO - 2020-08-13 05:22:33 --> Output Class Initialized
+INFO - 2020-08-13 05:22:33 --> Security Class Initialized
+INFO - 2020-08-13 05:22:33 --> Output Class Initialized
+INFO - 2020-08-13 05:22:33 --> Config Class Initialized
+INFO - 2020-08-13 05:22:33 --> Config Class Initialized
+INFO - 2020-08-13 05:22:33 --> Hooks Class Initialized
+INFO - 2020-08-13 05:22:33 --> Hooks Class Initialized
+ERROR - 2020-08-13 05:22:33 --> 404 Page Not Found: Provinsi/assets
+INFO - 2020-08-13 05:22:33 --> Security Class Initialized
+INFO - 2020-08-13 05:22:33 --> Config Class Initialized
+INFO - 2020-08-13 05:22:33 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:33 --> Utf8 Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:33 --> Input Class Initialized
+INFO - 2020-08-13 05:22:33 --> Language Class Initialized
+INFO - 2020-08-13 05:22:33 --> URI Class Initialized
+INFO - 2020-08-13 05:22:33 --> Router Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:33 --> Utf8 Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:33 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:33 --> URI Class Initialized
+INFO - 2020-08-13 05:22:33 --> Output Class Initialized
+INFO - 2020-08-13 05:22:33 --> URI Class Initialized
+INFO - 2020-08-13 05:22:33 --> Router Class Initialized
+INFO - 2020-08-13 05:22:33 --> Security Class Initialized
+INFO - 2020-08-13 05:22:33 --> Session: Class initialized using 'files' driver.
+DEBUG - 2020-08-13 05:22:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:33 --> Input Class Initialized
+INFO - 2020-08-13 05:22:33 --> Output Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:33 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:33 --> Language Class Initialized
+INFO - 2020-08-13 05:22:33 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:33 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:33 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:33 --> Input Class Initialized
+INFO - 2020-08-13 05:22:33 --> Input Class Initialized
+INFO - 2020-08-13 05:22:33 --> Router Class Initialized
+INFO - 2020-08-13 05:22:33 --> Config Class Initialized
+INFO - 2020-08-13 05:22:33 --> Email Class Initialized
+INFO - 2020-08-13 05:22:33 --> Hooks Class Initialized
+INFO - 2020-08-13 05:22:33 --> Language Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:33 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:33 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:33 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:33 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:33 --> Output Class Initialized
+INFO - 2020-08-13 05:22:33 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:33 --> Utf8 Class Initialized
+ERROR - 2020-08-13 05:22:33 --> 404 Page Not Found: Provinsi/assets
+INFO - 2020-08-13 05:22:33 --> URI Class Initialized
+INFO - 2020-08-13 05:22:33 --> Router Class Initialized
+INFO - 2020-08-13 05:22:33 --> Output Class Initialized
+ERROR - 2020-08-13 05:22:33 --> 404 Page Not Found: Provinsi/assets
+INFO - 2020-08-13 05:22:33 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:33 --> Total execution time: 0.3467
+DEBUG - 2020-08-13 05:22:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:33 --> Input Class Initialized
+INFO - 2020-08-13 05:22:33 --> Language Class Initialized
+INFO - 2020-08-13 05:22:33 --> Language Class Initialized
+INFO - 2020-08-13 05:22:33 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:33 --> Input Class Initialized
+INFO - 2020-08-13 05:22:33 --> Language Class Initialized
+INFO - 2020-08-13 05:22:33 --> Config Class Initialized
+ERROR - 2020-08-13 05:22:33 --> 404 Page Not Found: Provinsi/assets
+INFO - 2020-08-13 05:22:33 --> Hooks Class Initialized
+ERROR - 2020-08-13 05:22:33 --> 404 Page Not Found: Provinsi/assets
+DEBUG - 2020-08-13 05:22:33 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:33 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:33 --> URI Class Initialized
+ERROR - 2020-08-13 05:22:33 --> 404 Page Not Found: Provinsi/assets
+INFO - 2020-08-13 05:22:33 --> Config Class Initialized
+INFO - 2020-08-13 05:22:33 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:33 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:33 --> Router Class Initialized
+INFO - 2020-08-13 05:22:33 --> URI Class Initialized
+INFO - 2020-08-13 05:22:33 --> Router Class Initialized
+INFO - 2020-08-13 05:22:33 --> Config Class Initialized
+INFO - 2020-08-13 05:22:33 --> Hooks Class Initialized
+ERROR - 2020-08-13 05:22:33 --> 404 Page Not Found: Provinsi/assets
+DEBUG - 2020-08-13 05:22:33 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:33 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:33 --> URI Class Initialized
+INFO - 2020-08-13 05:22:33 --> Output Class Initialized
+INFO - 2020-08-13 05:22:33 --> Output Class Initialized
+INFO - 2020-08-13 05:22:33 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:33 --> Input Class Initialized
+INFO - 2020-08-13 05:22:33 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:33 --> Input Class Initialized
+INFO - 2020-08-13 05:22:33 --> Language Class Initialized
+INFO - 2020-08-13 05:22:33 --> Config Class Initialized
+INFO - 2020-08-13 05:22:33 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:33 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:33 --> Config Class Initialized
+INFO - 2020-08-13 05:22:33 --> Hooks Class Initialized
+INFO - 2020-08-13 05:22:33 --> Router Class Initialized
+INFO - 2020-08-13 05:22:33 --> URI Class Initialized
+INFO - 2020-08-13 05:22:33 --> Config Class Initialized
+INFO - 2020-08-13 05:22:33 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:33 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:33 --> Output Class Initialized
+INFO - 2020-08-13 05:22:33 --> URI Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:33 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:33 --> Security Class Initialized
+INFO - 2020-08-13 05:22:33 --> Router Class Initialized
+INFO - 2020-08-13 05:22:33 --> URI Class Initialized
+INFO - 2020-08-13 05:22:33 --> Language Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:33 --> Input Class Initialized
+INFO - 2020-08-13 05:22:33 --> Language Class Initialized
+INFO - 2020-08-13 05:22:33 --> Router Class Initialized
+INFO - 2020-08-13 05:22:33 --> Router Class Initialized
+INFO - 2020-08-13 05:22:33 --> Output Class Initialized
+INFO - 2020-08-13 05:22:33 --> Output Class Initialized
+INFO - 2020-08-13 05:22:33 --> Security Class Initialized
+INFO - 2020-08-13 05:22:33 --> Security Class Initialized
+INFO - 2020-08-13 05:22:33 --> Output Class Initialized
+ERROR - 2020-08-13 05:22:33 --> 404 Page Not Found: Provinsi/assets
+DEBUG - 2020-08-13 05:22:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:33 --> Security Class Initialized
+ERROR - 2020-08-13 05:22:33 --> 404 Page Not Found: Provinsi/assets
+DEBUG - 2020-08-13 05:22:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:33 --> Input Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:33 --> Language Class Initialized
+INFO - 2020-08-13 05:22:33 --> Input Class Initialized
+INFO - 2020-08-13 05:22:33 --> Language Class Initialized
+INFO - 2020-08-13 05:22:33 --> Config Class Initialized
+INFO - 2020-08-13 05:22:33 --> Hooks Class Initialized
+INFO - 2020-08-13 05:22:33 --> Input Class Initialized
+INFO - 2020-08-13 05:22:33 --> Config Class Initialized
+ERROR - 2020-08-13 05:22:33 --> 404 Page Not Found: Provinsi/assets
+INFO - 2020-08-13 05:22:33 --> Hooks Class Initialized
+INFO - 2020-08-13 05:22:33 --> Language Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:33 --> Utf8 Class Initialized
+ERROR - 2020-08-13 05:22:33 --> 404 Page Not Found: Provinsi/assets
+INFO - 2020-08-13 05:22:33 --> URI Class Initialized
+INFO - 2020-08-13 05:22:33 --> Router Class Initialized
+INFO - 2020-08-13 05:22:33 --> Output Class Initialized
+ERROR - 2020-08-13 05:22:33 --> 404 Page Not Found: Provinsi/assets
+INFO - 2020-08-13 05:22:33 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:33 --> Input Class Initialized
+INFO - 2020-08-13 05:22:33 --> Language Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:33 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:33 --> Config Class Initialized
+INFO - 2020-08-13 05:22:33 --> Hooks Class Initialized
+INFO - 2020-08-13 05:22:33 --> URI Class Initialized
+INFO - 2020-08-13 05:22:33 --> Router Class Initialized
+ERROR - 2020-08-13 05:22:33 --> 404 Page Not Found: Provinsi/assets
+DEBUG - 2020-08-13 05:22:33 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:33 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:33 --> URI Class Initialized
+INFO - 2020-08-13 05:22:33 --> Output Class Initialized
+INFO - 2020-08-13 05:22:33 --> Router Class Initialized
+INFO - 2020-08-13 05:22:33 --> Config Class Initialized
+INFO - 2020-08-13 05:22:33 --> Hooks Class Initialized
+INFO - 2020-08-13 05:22:33 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:33 --> Utf8 Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:33 --> Input Class Initialized
+INFO - 2020-08-13 05:22:33 --> Language Class Initialized
+INFO - 2020-08-13 05:22:33 --> URI Class Initialized
+INFO - 2020-08-13 05:22:33 --> Config Class Initialized
+INFO - 2020-08-13 05:22:33 --> Hooks Class Initialized
+INFO - 2020-08-13 05:22:33 --> Output Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:33 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:33 --> URI Class Initialized
+INFO - 2020-08-13 05:22:33 --> Router Class Initialized
+INFO - 2020-08-13 05:22:33 --> Security Class Initialized
+ERROR - 2020-08-13 05:22:33 --> 404 Page Not Found: Provinsi/assets
+DEBUG - 2020-08-13 05:22:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:33 --> Input Class Initialized
+INFO - 2020-08-13 05:22:33 --> Language Class Initialized
+INFO - 2020-08-13 05:22:33 --> Config Class Initialized
+INFO - 2020-08-13 05:22:33 --> Hooks Class Initialized
+INFO - 2020-08-13 05:22:33 --> Router Class Initialized
+INFO - 2020-08-13 05:22:33 --> Output Class Initialized
+ERROR - 2020-08-13 05:22:33 --> 404 Page Not Found: Provinsi/assets
+DEBUG - 2020-08-13 05:22:33 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:33 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:33 --> Output Class Initialized
+INFO - 2020-08-13 05:22:33 --> Security Class Initialized
+INFO - 2020-08-13 05:22:33 --> Security Class Initialized
+INFO - 2020-08-13 05:22:33 --> URI Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:33 --> Router Class Initialized
+INFO - 2020-08-13 05:22:33 --> Input Class Initialized
+INFO - 2020-08-13 05:22:33 --> Language Class Initialized
+INFO - 2020-08-13 05:22:33 --> Output Class Initialized
+INFO - 2020-08-13 05:22:33 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:33 --> Input Class Initialized
+INFO - 2020-08-13 05:22:33 --> Language Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:33 --> Input Class Initialized
+INFO - 2020-08-13 05:22:33 --> Config Class Initialized
+INFO - 2020-08-13 05:22:33 --> Hooks Class Initialized
+INFO - 2020-08-13 05:22:33 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:33 --> 404 Page Not Found: Provinsi/assets
+DEBUG - 2020-08-13 05:22:33 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:33 --> Utf8 Class Initialized
+ERROR - 2020-08-13 05:22:33 --> 404 Page Not Found: Provinsi/assets
+INFO - 2020-08-13 05:22:33 --> URI Class Initialized
+INFO - 2020-08-13 05:22:33 --> Router Class Initialized
+INFO - 2020-08-13 05:22:33 --> Config Class Initialized
+INFO - 2020-08-13 05:22:33 --> Hooks Class Initialized
+INFO - 2020-08-13 05:22:33 --> Output Class Initialized
+ERROR - 2020-08-13 05:22:33 --> 404 Page Not Found: Provinsi/assets
+DEBUG - 2020-08-13 05:22:33 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:33 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:33 --> Security Class Initialized
+INFO - 2020-08-13 05:22:33 --> URI Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:33 --> Router Class Initialized
+ERROR - 2020-08-13 05:22:33 --> 404 Page Not Found: Provinsi/assets
+INFO - 2020-08-13 05:22:33 --> Output Class Initialized
+INFO - 2020-08-13 05:22:33 --> Config Class Initialized
+INFO - 2020-08-13 05:22:33 --> Hooks Class Initialized
+INFO - 2020-08-13 05:22:33 --> Security Class Initialized
+INFO - 2020-08-13 05:22:33 --> Config Class Initialized
+INFO - 2020-08-13 05:22:33 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:33 --> Input Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:33 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:33 --> Input Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:33 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:33 --> Config Class Initialized
+INFO - 2020-08-13 05:22:33 --> Hooks Class Initialized
+INFO - 2020-08-13 05:22:33 --> URI Class Initialized
+INFO - 2020-08-13 05:22:33 --> URI Class Initialized
+INFO - 2020-08-13 05:22:33 --> Language Class Initialized
+INFO - 2020-08-13 05:22:33 --> Router Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:33 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:33 --> Config Class Initialized
+INFO - 2020-08-13 05:22:33 --> Hooks Class Initialized
+INFO - 2020-08-13 05:22:33 --> URI Class Initialized
+INFO - 2020-08-13 05:22:33 --> Output Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:33 --> Security Class Initialized
+INFO - 2020-08-13 05:22:33 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:33 --> Language Class Initialized
+INFO - 2020-08-13 05:22:33 --> Router Class Initialized
+INFO - 2020-08-13 05:22:33 --> URI Class Initialized
+ERROR - 2020-08-13 05:22:33 --> 404 Page Not Found: Provinsi/assets
+INFO - 2020-08-13 05:22:33 --> Router Class Initialized
+INFO - 2020-08-13 05:22:33 --> Output Class Initialized
+INFO - 2020-08-13 05:22:33 --> Output Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:33 --> Input Class Initialized
+INFO - 2020-08-13 05:22:33 --> Language Class Initialized
+INFO - 2020-08-13 05:22:33 --> Security Class Initialized
+INFO - 2020-08-13 05:22:33 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:33 --> Input Class Initialized
+INFO - 2020-08-13 05:22:33 --> Language Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:33 --> Input Class Initialized
+ERROR - 2020-08-13 05:22:33 --> 404 Page Not Found: Provinsi/assets
+INFO - 2020-08-13 05:22:33 --> Router Class Initialized
+INFO - 2020-08-13 05:22:33 --> Language Class Initialized
+INFO - 2020-08-13 05:22:33 --> Output Class Initialized
+INFO - 2020-08-13 05:22:33 --> Security Class Initialized
+INFO - 2020-08-13 05:22:33 --> Config Class Initialized
+INFO - 2020-08-13 05:22:33 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:33 --> Input Class Initialized
+INFO - 2020-08-13 05:22:33 --> Config Class Initialized
+INFO - 2020-08-13 05:22:33 --> Hooks Class Initialized
+INFO - 2020-08-13 05:22:33 --> Language Class Initialized
+DEBUG - 2020-08-13 05:22:33 --> UTF-8 Support Enabled
+ERROR - 2020-08-13 05:22:33 --> 404 Page Not Found: Provinsi/assets
+INFO - 2020-08-13 05:22:33 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:34 --> URI Class Initialized
+INFO - 2020-08-13 05:22:34 --> Router Class Initialized
+INFO - 2020-08-13 05:22:34 --> Output Class Initialized
+ERROR - 2020-08-13 05:22:34 --> 404 Page Not Found: Provinsi/assets
+ERROR - 2020-08-13 05:22:34 --> 404 Page Not Found: Provinsi/assets
+INFO - 2020-08-13 05:22:34 --> Config Class Initialized
+INFO - 2020-08-13 05:22:34 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:34 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:34 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:34 --> URI Class Initialized
+DEBUG - 2020-08-13 05:22:34 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:34 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:34 --> URI Class Initialized
+INFO - 2020-08-13 05:22:34 --> Config Class Initialized
+INFO - 2020-08-13 05:22:34 --> Config Class Initialized
+INFO - 2020-08-13 05:22:34 --> Hooks Class Initialized
+INFO - 2020-08-13 05:22:34 --> Router Class Initialized
+INFO - 2020-08-13 05:22:34 --> Hooks Class Initialized
+ERROR - 2020-08-13 05:22:34 --> 404 Page Not Found: Provinsi/assets
+DEBUG - 2020-08-13 05:22:34 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:34 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:34 --> Output Class Initialized
+INFO - 2020-08-13 05:22:34 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:34 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:34 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:34 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:34 --> URI Class Initialized
+INFO - 2020-08-13 05:22:34 --> Input Class Initialized
+INFO - 2020-08-13 05:22:34 --> Language Class Initialized
+INFO - 2020-08-13 05:22:34 --> Router Class Initialized
+DEBUG - 2020-08-13 05:22:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:34 --> Input Class Initialized
+INFO - 2020-08-13 05:22:34 --> Language Class Initialized
+INFO - 2020-08-13 05:22:34 --> Config Class Initialized
+INFO - 2020-08-13 05:22:34 --> Hooks Class Initialized
+INFO - 2020-08-13 05:22:34 --> Router Class Initialized
+DEBUG - 2020-08-13 05:22:34 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:34 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:34 --> Output Class Initialized
+INFO - 2020-08-13 05:22:34 --> URI Class Initialized
+INFO - 2020-08-13 05:22:34 --> Output Class Initialized
+INFO - 2020-08-13 05:22:34 --> Security Class Initialized
+INFO - 2020-08-13 05:22:34 --> Router Class Initialized
+DEBUG - 2020-08-13 05:22:34 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-08-13 05:22:34 --> 404 Page Not Found: Provinsi/assets
+INFO - 2020-08-13 05:22:34 --> Security Class Initialized
+INFO - 2020-08-13 05:22:34 --> Input Class Initialized
+INFO - 2020-08-13 05:22:34 --> Output Class Initialized
+INFO - 2020-08-13 05:22:34 --> URI Class Initialized
+INFO - 2020-08-13 05:22:34 --> Language Class Initialized
+DEBUG - 2020-08-13 05:22:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:34 --> Router Class Initialized
+INFO - 2020-08-13 05:22:34 --> Input Class Initialized
+INFO - 2020-08-13 05:22:34 --> Security Class Initialized
+INFO - 2020-08-13 05:22:34 --> Language Class Initialized
+DEBUG - 2020-08-13 05:22:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:34 --> Input Class Initialized
+INFO - 2020-08-13 05:22:34 --> Output Class Initialized
+INFO - 2020-08-13 05:22:34 --> Language Class Initialized
+INFO - 2020-08-13 05:22:34 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:34 --> Input Class Initialized
+INFO - 2020-08-13 05:22:34 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:34 --> 404 Page Not Found: Provinsi/assets
+INFO - 2020-08-13 05:22:34 --> Config Class Initialized
+INFO - 2020-08-13 05:22:34 --> Hooks Class Initialized
+ERROR - 2020-08-13 05:22:34 --> 404 Page Not Found: Provinsi/assets
+DEBUG - 2020-08-13 05:22:34 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:34 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:34 --> Config Class Initialized
+INFO - 2020-08-13 05:22:34 --> URI Class Initialized
+INFO - 2020-08-13 05:22:34 --> Hooks Class Initialized
+ERROR - 2020-08-13 05:22:34 --> 404 Page Not Found: Provinsi/assets
+ERROR - 2020-08-13 05:22:34 --> 404 Page Not Found: Provinsi/assets
+INFO - 2020-08-13 05:22:34 --> Router Class Initialized
+DEBUG - 2020-08-13 05:22:34 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:34 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:34 --> URI Class Initialized
+INFO - 2020-08-13 05:22:34 --> Router Class Initialized
+ERROR - 2020-08-13 05:22:34 --> 404 Page Not Found: Provinsi/assets
+INFO - 2020-08-13 05:22:34 --> Config Class Initialized
+INFO - 2020-08-13 05:22:34 --> Hooks Class Initialized
+INFO - 2020-08-13 05:22:34 --> Output Class Initialized
+INFO - 2020-08-13 05:22:34 --> Output Class Initialized
+DEBUG - 2020-08-13 05:22:34 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:34 --> Security Class Initialized
+INFO - 2020-08-13 05:22:34 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:34 --> URI Class Initialized
+INFO - 2020-08-13 05:22:34 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:34 --> Input Class Initialized
+INFO - 2020-08-13 05:22:34 --> Language Class Initialized
+DEBUG - 2020-08-13 05:22:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:34 --> Input Class Initialized
+INFO - 2020-08-13 05:22:34 --> Language Class Initialized
+INFO - 2020-08-13 05:22:34 --> Router Class Initialized
+INFO - 2020-08-13 05:22:34 --> Output Class Initialized
+ERROR - 2020-08-13 05:22:34 --> 404 Page Not Found: Provinsi/assets
+INFO - 2020-08-13 05:22:34 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:34 --> Input Class Initialized
+INFO - 2020-08-13 05:22:34 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:34 --> 404 Page Not Found: Provinsi/assets
+ERROR - 2020-08-13 05:22:34 --> 404 Page Not Found: Provinsi/assets
+INFO - 2020-08-13 05:22:34 --> Config Class Initialized
+INFO - 2020-08-13 05:22:34 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:34 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:34 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:34 --> URI Class Initialized
+INFO - 2020-08-13 05:22:34 --> Router Class Initialized
+INFO - 2020-08-13 05:22:34 --> Output Class Initialized
+INFO - 2020-08-13 05:22:34 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:34 --> Input Class Initialized
+INFO - 2020-08-13 05:22:34 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:34 --> 404 Page Not Found: Provinsi/assets
+INFO - 2020-08-13 05:22:34 --> Config Class Initialized
+INFO - 2020-08-13 05:22:34 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:34 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:34 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:34 --> URI Class Initialized
+INFO - 2020-08-13 05:22:34 --> Router Class Initialized
+INFO - 2020-08-13 05:22:34 --> Output Class Initialized
+INFO - 2020-08-13 05:22:34 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:34 --> Input Class Initialized
+INFO - 2020-08-13 05:22:34 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:34 --> 404 Page Not Found: Provinsi/assets
+INFO - 2020-08-13 05:22:34 --> Config Class Initialized
+INFO - 2020-08-13 05:22:34 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:34 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:34 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:34 --> URI Class Initialized
+INFO - 2020-08-13 05:22:34 --> Router Class Initialized
+INFO - 2020-08-13 05:22:34 --> Output Class Initialized
+INFO - 2020-08-13 05:22:34 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:34 --> Input Class Initialized
+INFO - 2020-08-13 05:22:34 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:34 --> 404 Page Not Found: Provinsi/assets
+INFO - 2020-08-13 05:22:34 --> Config Class Initialized
+INFO - 2020-08-13 05:22:34 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:34 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:34 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:34 --> URI Class Initialized
+INFO - 2020-08-13 05:22:34 --> Router Class Initialized
+INFO - 2020-08-13 05:22:34 --> Output Class Initialized
+INFO - 2020-08-13 05:22:34 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:34 --> Input Class Initialized
+INFO - 2020-08-13 05:22:34 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:34 --> 404 Page Not Found: Provinsi/assets
+INFO - 2020-08-13 05:22:34 --> Config Class Initialized
+INFO - 2020-08-13 05:22:34 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:34 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:34 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:34 --> URI Class Initialized
+INFO - 2020-08-13 05:22:34 --> Router Class Initialized
+INFO - 2020-08-13 05:22:34 --> Output Class Initialized
+INFO - 2020-08-13 05:22:34 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:34 --> Input Class Initialized
+INFO - 2020-08-13 05:22:34 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:34 --> 404 Page Not Found: Provinsi/assets
+INFO - 2020-08-13 05:22:34 --> Config Class Initialized
+INFO - 2020-08-13 05:22:34 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:34 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:34 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:34 --> URI Class Initialized
+INFO - 2020-08-13 05:22:34 --> Router Class Initialized
+INFO - 2020-08-13 05:22:34 --> Output Class Initialized
+INFO - 2020-08-13 05:22:34 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:34 --> Input Class Initialized
+INFO - 2020-08-13 05:22:34 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:34 --> 404 Page Not Found: Provinsi/assets
+INFO - 2020-08-13 05:22:34 --> Config Class Initialized
+INFO - 2020-08-13 05:22:34 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:34 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:34 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:34 --> URI Class Initialized
+INFO - 2020-08-13 05:22:34 --> Router Class Initialized
+INFO - 2020-08-13 05:22:34 --> Output Class Initialized
+INFO - 2020-08-13 05:22:34 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:34 --> Input Class Initialized
+INFO - 2020-08-13 05:22:34 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:34 --> 404 Page Not Found: Provinsi/assets
+INFO - 2020-08-13 05:22:34 --> Config Class Initialized
+INFO - 2020-08-13 05:22:34 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:34 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:34 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:34 --> URI Class Initialized
+INFO - 2020-08-13 05:22:34 --> Router Class Initialized
+INFO - 2020-08-13 05:22:34 --> Output Class Initialized
+INFO - 2020-08-13 05:22:34 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:34 --> Input Class Initialized
+INFO - 2020-08-13 05:22:34 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:34 --> 404 Page Not Found: Provinsi/assets
+INFO - 2020-08-13 05:22:34 --> Config Class Initialized
+INFO - 2020-08-13 05:22:34 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:34 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:34 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:34 --> URI Class Initialized
+INFO - 2020-08-13 05:22:34 --> Router Class Initialized
+INFO - 2020-08-13 05:22:34 --> Output Class Initialized
+INFO - 2020-08-13 05:22:34 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:34 --> Input Class Initialized
+INFO - 2020-08-13 05:22:34 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:34 --> 404 Page Not Found: Provinsi/assets
+INFO - 2020-08-13 05:22:34 --> Config Class Initialized
+INFO - 2020-08-13 05:22:34 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:34 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:34 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:34 --> URI Class Initialized
+INFO - 2020-08-13 05:22:34 --> Router Class Initialized
+INFO - 2020-08-13 05:22:34 --> Output Class Initialized
+INFO - 2020-08-13 05:22:34 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:34 --> Input Class Initialized
+INFO - 2020-08-13 05:22:34 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:34 --> 404 Page Not Found: Provinsi/assets
+INFO - 2020-08-13 05:22:34 --> Config Class Initialized
+INFO - 2020-08-13 05:22:34 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:34 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:34 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:34 --> URI Class Initialized
+INFO - 2020-08-13 05:22:34 --> Router Class Initialized
+INFO - 2020-08-13 05:22:34 --> Output Class Initialized
+INFO - 2020-08-13 05:22:34 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:34 --> Input Class Initialized
+INFO - 2020-08-13 05:22:34 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:34 --> 404 Page Not Found: Provinsi/assets
+INFO - 2020-08-13 05:22:34 --> Config Class Initialized
+INFO - 2020-08-13 05:22:34 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:34 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:34 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:34 --> URI Class Initialized
+INFO - 2020-08-13 05:22:34 --> Router Class Initialized
+INFO - 2020-08-13 05:22:34 --> Output Class Initialized
+INFO - 2020-08-13 05:22:34 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:34 --> Input Class Initialized
+INFO - 2020-08-13 05:22:34 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:35 --> 404 Page Not Found: Provinsi/assets
+INFO - 2020-08-13 05:22:35 --> Config Class Initialized
+INFO - 2020-08-13 05:22:35 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:35 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:35 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:35 --> URI Class Initialized
+INFO - 2020-08-13 05:22:35 --> Router Class Initialized
+INFO - 2020-08-13 05:22:35 --> Output Class Initialized
+INFO - 2020-08-13 05:22:35 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:35 --> Input Class Initialized
+INFO - 2020-08-13 05:22:35 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:35 --> 404 Page Not Found: Provinsi/assets
+INFO - 2020-08-13 05:22:35 --> Config Class Initialized
+INFO - 2020-08-13 05:22:35 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:35 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:35 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:35 --> URI Class Initialized
+INFO - 2020-08-13 05:22:35 --> Router Class Initialized
+INFO - 2020-08-13 05:22:35 --> Output Class Initialized
+INFO - 2020-08-13 05:22:35 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:35 --> Input Class Initialized
+INFO - 2020-08-13 05:22:35 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:35 --> 404 Page Not Found: Provinsi/assets
+INFO - 2020-08-13 05:22:35 --> Config Class Initialized
+INFO - 2020-08-13 05:22:35 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:35 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:35 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:35 --> URI Class Initialized
+INFO - 2020-08-13 05:22:35 --> Router Class Initialized
+INFO - 2020-08-13 05:22:35 --> Output Class Initialized
+INFO - 2020-08-13 05:22:35 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:35 --> Input Class Initialized
+INFO - 2020-08-13 05:22:35 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:35 --> 404 Page Not Found: Provinsi/assets
+INFO - 2020-08-13 05:22:35 --> Config Class Initialized
+INFO - 2020-08-13 05:22:35 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:35 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:35 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:35 --> URI Class Initialized
+INFO - 2020-08-13 05:22:35 --> Router Class Initialized
+INFO - 2020-08-13 05:22:35 --> Output Class Initialized
+INFO - 2020-08-13 05:22:35 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:35 --> Input Class Initialized
+INFO - 2020-08-13 05:22:35 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:35 --> 404 Page Not Found: Provinsi/assets
+INFO - 2020-08-13 05:22:38 --> Config Class Initialized
+INFO - 2020-08-13 05:22:38 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:38 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:38 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:38 --> URI Class Initialized
+INFO - 2020-08-13 05:22:38 --> Router Class Initialized
+INFO - 2020-08-13 05:22:38 --> Output Class Initialized
+INFO - 2020-08-13 05:22:38 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:38 --> Input Class Initialized
+INFO - 2020-08-13 05:22:38 --> Language Class Initialized
+INFO - 2020-08-13 05:22:38 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:38 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:38 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:38 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:38 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:38 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:38 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:38 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:38 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:38 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:38 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:38 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:38 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:38 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:38 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:38 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:38 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:38 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:38 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:38 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:38 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:38 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:38 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:38 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:38 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:38 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:38 --> Total execution time: 0.2856
+INFO - 2020-08-13 05:22:38 --> Config Class Initialized
+INFO - 2020-08-13 05:22:38 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:38 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:38 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:38 --> URI Class Initialized
+INFO - 2020-08-13 05:22:38 --> Router Class Initialized
+INFO - 2020-08-13 05:22:38 --> Output Class Initialized
+INFO - 2020-08-13 05:22:38 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:38 --> Input Class Initialized
+INFO - 2020-08-13 05:22:38 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:38 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:22:38 --> Config Class Initialized
+INFO - 2020-08-13 05:22:38 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:38 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:38 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:38 --> URI Class Initialized
+INFO - 2020-08-13 05:22:38 --> Router Class Initialized
+INFO - 2020-08-13 05:22:38 --> Output Class Initialized
+INFO - 2020-08-13 05:22:38 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:38 --> Input Class Initialized
+INFO - 2020-08-13 05:22:38 --> Language Class Initialized
+INFO - 2020-08-13 05:22:38 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:38 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:38 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:38 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:38 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:38 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:39 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:39 --> Config Class Initialized
+INFO - 2020-08-13 05:22:39 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:39 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:39 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:39 --> URI Class Initialized
+INFO - 2020-08-13 05:22:39 --> Router Class Initialized
+INFO - 2020-08-13 05:22:39 --> Output Class Initialized
+INFO - 2020-08-13 05:22:39 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:39 --> Input Class Initialized
+INFO - 2020-08-13 05:22:39 --> Language Class Initialized
+INFO - 2020-08-13 05:22:39 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:39 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:39 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:39 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:39 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:39 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:39 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:39 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:39 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:39 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:39 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:39 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:39 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:39 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:39 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:39 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:39 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:39 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:39 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:39 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:39 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:39 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:39 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:39 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:39 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:39 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:39 --> Total execution time: 0.2885
+INFO - 2020-08-13 05:22:39 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:39 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:39 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:39 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:39 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:39 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:39 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:39 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:39 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:39 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:39 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:39 --> Total execution time: 0.3556
+INFO - 2020-08-13 05:22:39 --> Config Class Initialized
+INFO - 2020-08-13 05:22:39 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:39 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:39 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:39 --> URI Class Initialized
+INFO - 2020-08-13 05:22:39 --> Router Class Initialized
+INFO - 2020-08-13 05:22:39 --> Output Class Initialized
+INFO - 2020-08-13 05:22:39 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:39 --> Input Class Initialized
+INFO - 2020-08-13 05:22:39 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:39 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:22:39 --> Config Class Initialized
+INFO - 2020-08-13 05:22:39 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:39 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:39 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:39 --> URI Class Initialized
+INFO - 2020-08-13 05:22:39 --> Router Class Initialized
+INFO - 2020-08-13 05:22:39 --> Output Class Initialized
+INFO - 2020-08-13 05:22:39 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:39 --> Input Class Initialized
+INFO - 2020-08-13 05:22:39 --> Language Class Initialized
+INFO - 2020-08-13 05:22:39 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:39 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:39 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:39 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:39 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:39 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:39 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:39 --> Config Class Initialized
+INFO - 2020-08-13 05:22:39 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:39 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:39 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:39 --> URI Class Initialized
+INFO - 2020-08-13 05:22:39 --> Router Class Initialized
+INFO - 2020-08-13 05:22:39 --> Output Class Initialized
+INFO - 2020-08-13 05:22:39 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:39 --> Input Class Initialized
+INFO - 2020-08-13 05:22:39 --> Language Class Initialized
+INFO - 2020-08-13 05:22:39 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:39 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:39 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:39 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:39 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:39 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:39 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:39 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:39 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:39 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:39 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:39 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:39 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:39 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:39 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:39 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:39 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:39 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:39 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:39 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:39 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:39 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:39 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:39 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:39 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:39 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:39 --> Total execution time: 0.2792
+INFO - 2020-08-13 05:22:39 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:39 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:40 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:40 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:40 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:40 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:40 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:40 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:40 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:40 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:40 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:40 --> Total execution time: 0.3658
+INFO - 2020-08-13 05:22:40 --> Config Class Initialized
+INFO - 2020-08-13 05:22:40 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:40 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:40 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:40 --> URI Class Initialized
+INFO - 2020-08-13 05:22:40 --> Router Class Initialized
+INFO - 2020-08-13 05:22:40 --> Output Class Initialized
+INFO - 2020-08-13 05:22:40 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:40 --> Input Class Initialized
+INFO - 2020-08-13 05:22:40 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:40 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:22:40 --> Config Class Initialized
+INFO - 2020-08-13 05:22:40 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:40 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:40 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:40 --> URI Class Initialized
+INFO - 2020-08-13 05:22:40 --> Router Class Initialized
+INFO - 2020-08-13 05:22:40 --> Output Class Initialized
+INFO - 2020-08-13 05:22:40 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:40 --> Input Class Initialized
+INFO - 2020-08-13 05:22:40 --> Language Class Initialized
+INFO - 2020-08-13 05:22:40 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:40 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:40 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:40 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:40 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:40 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:40 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:40 --> Config Class Initialized
+INFO - 2020-08-13 05:22:40 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:40 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:40 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:40 --> URI Class Initialized
+INFO - 2020-08-13 05:22:40 --> Router Class Initialized
+INFO - 2020-08-13 05:22:40 --> Output Class Initialized
+INFO - 2020-08-13 05:22:40 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:40 --> Input Class Initialized
+INFO - 2020-08-13 05:22:40 --> Language Class Initialized
+INFO - 2020-08-13 05:22:40 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:40 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:40 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:40 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:40 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:40 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:40 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:40 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:40 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:40 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:40 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:40 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:40 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:40 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:40 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:40 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:40 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:40 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:40 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:40 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:40 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:40 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:40 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:40 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:40 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:40 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:40 --> Total execution time: 0.3266
+INFO - 2020-08-13 05:22:40 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:40 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:40 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:40 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:40 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:40 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:40 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:40 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:40 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:40 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:41 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:41 --> Total execution time: 0.3786
+INFO - 2020-08-13 05:22:41 --> Config Class Initialized
+INFO - 2020-08-13 05:22:41 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:41 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:41 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:41 --> URI Class Initialized
+INFO - 2020-08-13 05:22:41 --> Router Class Initialized
+INFO - 2020-08-13 05:22:41 --> Output Class Initialized
+INFO - 2020-08-13 05:22:41 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:41 --> Input Class Initialized
+INFO - 2020-08-13 05:22:41 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:41 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:22:41 --> Config Class Initialized
+INFO - 2020-08-13 05:22:41 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:41 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:41 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:41 --> URI Class Initialized
+INFO - 2020-08-13 05:22:41 --> Router Class Initialized
+INFO - 2020-08-13 05:22:41 --> Output Class Initialized
+INFO - 2020-08-13 05:22:41 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:41 --> Input Class Initialized
+INFO - 2020-08-13 05:22:41 --> Language Class Initialized
+INFO - 2020-08-13 05:22:41 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:41 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:41 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:41 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:41 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:41 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:41 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:41 --> Config Class Initialized
+INFO - 2020-08-13 05:22:41 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:41 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:41 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:41 --> URI Class Initialized
+INFO - 2020-08-13 05:22:41 --> Router Class Initialized
+INFO - 2020-08-13 05:22:41 --> Output Class Initialized
+INFO - 2020-08-13 05:22:41 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:41 --> Input Class Initialized
+INFO - 2020-08-13 05:22:41 --> Language Class Initialized
+INFO - 2020-08-13 05:22:41 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:41 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:41 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:41 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:41 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:41 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:41 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:41 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:41 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:41 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:41 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:41 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:41 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:41 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:41 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:41 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:41 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:41 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:41 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:41 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:41 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:41 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:41 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:41 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:41 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:41 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:41 --> Total execution time: 0.3167
+INFO - 2020-08-13 05:22:42 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:42 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:42 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:42 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:42 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:42 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:42 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:42 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:42 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:42 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:42 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:42 --> Total execution time: 0.5499
+INFO - 2020-08-13 05:22:42 --> Config Class Initialized
+INFO - 2020-08-13 05:22:42 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:42 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:42 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:42 --> URI Class Initialized
+INFO - 2020-08-13 05:22:42 --> Router Class Initialized
+INFO - 2020-08-13 05:22:42 --> Output Class Initialized
+INFO - 2020-08-13 05:22:42 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:42 --> Input Class Initialized
+INFO - 2020-08-13 05:22:42 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:42 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:22:42 --> Config Class Initialized
+INFO - 2020-08-13 05:22:42 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:42 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:42 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:42 --> URI Class Initialized
+INFO - 2020-08-13 05:22:42 --> Router Class Initialized
+INFO - 2020-08-13 05:22:42 --> Output Class Initialized
+INFO - 2020-08-13 05:22:42 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:42 --> Input Class Initialized
+INFO - 2020-08-13 05:22:42 --> Language Class Initialized
+INFO - 2020-08-13 05:22:42 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:42 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:42 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:42 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:42 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:42 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:42 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:42 --> Config Class Initialized
+INFO - 2020-08-13 05:22:42 --> Hooks Class Initialized
+INFO - 2020-08-13 05:22:42 --> Session: Class initialized using 'files' driver.
+DEBUG - 2020-08-13 05:22:42 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:42 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:42 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:42 --> URI Class Initialized
+INFO - 2020-08-13 05:22:42 --> Router Class Initialized
+INFO - 2020-08-13 05:22:42 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:42 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:42 --> Output Class Initialized
+INFO - 2020-08-13 05:22:42 --> Security Class Initialized
+INFO - 2020-08-13 05:22:42 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-08-13 05:22:43 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:43 --> Input Class Initialized
+INFO - 2020-08-13 05:22:43 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:43 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:43 --> Language Class Initialized
+INFO - 2020-08-13 05:22:43 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:43 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:43 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:43 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:43 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:43 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:43 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:43 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:43 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:43 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:43 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:43 --> Total execution time: 0.2955
+INFO - 2020-08-13 05:22:43 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:43 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:43 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:43 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:43 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:43 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:43 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:43 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:43 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:43 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:43 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:43 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:43 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:43 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:43 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:43 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:43 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:43 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:43 --> Total execution time: 0.3341
+INFO - 2020-08-13 05:22:43 --> Config Class Initialized
+INFO - 2020-08-13 05:22:43 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:43 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:43 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:43 --> URI Class Initialized
+INFO - 2020-08-13 05:22:43 --> Router Class Initialized
+INFO - 2020-08-13 05:22:43 --> Output Class Initialized
+INFO - 2020-08-13 05:22:43 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:43 --> Input Class Initialized
+INFO - 2020-08-13 05:22:43 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:43 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:22:43 --> Config Class Initialized
+INFO - 2020-08-13 05:22:43 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:43 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:43 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:43 --> URI Class Initialized
+INFO - 2020-08-13 05:22:43 --> Router Class Initialized
+INFO - 2020-08-13 05:22:43 --> Output Class Initialized
+INFO - 2020-08-13 05:22:43 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:43 --> Input Class Initialized
+INFO - 2020-08-13 05:22:43 --> Language Class Initialized
+INFO - 2020-08-13 05:22:43 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:43 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:43 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:43 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:43 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:43 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:43 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:43 --> Config Class Initialized
+INFO - 2020-08-13 05:22:43 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:43 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:43 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:43 --> URI Class Initialized
+INFO - 2020-08-13 05:22:43 --> Router Class Initialized
+INFO - 2020-08-13 05:22:43 --> Output Class Initialized
+INFO - 2020-08-13 05:22:43 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:43 --> Input Class Initialized
+INFO - 2020-08-13 05:22:43 --> Language Class Initialized
+INFO - 2020-08-13 05:22:43 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:43 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:43 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:43 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:43 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:43 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:43 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:44 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:44 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:44 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:44 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:44 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:44 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:44 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:44 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:44 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:44 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:44 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:44 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:44 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:44 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:44 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:44 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:44 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:44 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:44 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:44 --> Total execution time: 0.3548
+INFO - 2020-08-13 05:22:44 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:44 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:44 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:44 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:44 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:44 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:44 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:44 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:44 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:44 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:44 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:44 --> Total execution time: 0.3945
+INFO - 2020-08-13 05:22:44 --> Config Class Initialized
+INFO - 2020-08-13 05:22:44 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:44 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:44 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:44 --> URI Class Initialized
+INFO - 2020-08-13 05:22:44 --> Router Class Initialized
+INFO - 2020-08-13 05:22:44 --> Output Class Initialized
+INFO - 2020-08-13 05:22:44 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:44 --> Input Class Initialized
+INFO - 2020-08-13 05:22:44 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:44 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:22:45 --> Config Class Initialized
+INFO - 2020-08-13 05:22:45 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:45 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:45 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:45 --> URI Class Initialized
+INFO - 2020-08-13 05:22:45 --> Router Class Initialized
+INFO - 2020-08-13 05:22:45 --> Output Class Initialized
+INFO - 2020-08-13 05:22:45 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:45 --> Input Class Initialized
+INFO - 2020-08-13 05:22:45 --> Language Class Initialized
+INFO - 2020-08-13 05:22:45 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:45 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:45 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:45 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:45 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:45 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:45 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:45 --> Config Class Initialized
+INFO - 2020-08-13 05:22:45 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:45 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:45 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:45 --> URI Class Initialized
+INFO - 2020-08-13 05:22:45 --> Router Class Initialized
+INFO - 2020-08-13 05:22:45 --> Output Class Initialized
+INFO - 2020-08-13 05:22:45 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:45 --> Input Class Initialized
+INFO - 2020-08-13 05:22:45 --> Language Class Initialized
+INFO - 2020-08-13 05:22:45 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:45 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:45 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:45 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:45 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:45 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:45 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:45 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:45 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:45 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:45 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:45 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:45 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:45 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:45 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:45 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:45 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:45 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:45 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:45 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:45 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:45 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:45 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:45 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:45 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:45 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:45 --> Total execution time: 0.2658
+INFO - 2020-08-13 05:22:45 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:45 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:45 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:45 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:45 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:45 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:45 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:45 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:45 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:45 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:45 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:45 --> Total execution time: 0.2845
+INFO - 2020-08-13 05:22:46 --> Config Class Initialized
+INFO - 2020-08-13 05:22:46 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:46 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:46 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:46 --> URI Class Initialized
+INFO - 2020-08-13 05:22:46 --> Router Class Initialized
+INFO - 2020-08-13 05:22:46 --> Output Class Initialized
+INFO - 2020-08-13 05:22:46 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:46 --> Input Class Initialized
+INFO - 2020-08-13 05:22:46 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:46 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:22:46 --> Config Class Initialized
+INFO - 2020-08-13 05:22:46 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:46 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:46 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:46 --> URI Class Initialized
+INFO - 2020-08-13 05:22:46 --> Router Class Initialized
+INFO - 2020-08-13 05:22:46 --> Output Class Initialized
+INFO - 2020-08-13 05:22:46 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:46 --> Input Class Initialized
+INFO - 2020-08-13 05:22:46 --> Language Class Initialized
+INFO - 2020-08-13 05:22:46 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:46 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:46 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:46 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:46 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:46 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:46 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:46 --> Config Class Initialized
+INFO - 2020-08-13 05:22:46 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:46 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:46 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:46 --> URI Class Initialized
+INFO - 2020-08-13 05:22:46 --> Router Class Initialized
+INFO - 2020-08-13 05:22:46 --> Output Class Initialized
+INFO - 2020-08-13 05:22:46 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:46 --> Input Class Initialized
+INFO - 2020-08-13 05:22:46 --> Language Class Initialized
+INFO - 2020-08-13 05:22:46 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:46 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:46 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:46 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:46 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:46 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:46 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:46 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:46 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:46 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:46 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:46 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:46 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:46 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:46 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:46 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:46 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:46 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:46 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:46 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:46 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:46 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:46 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:46 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:46 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:46 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:46 --> Total execution time: 0.3527
+INFO - 2020-08-13 05:22:46 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:46 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:46 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:46 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:46 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:46 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:46 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:46 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:46 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:46 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:46 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:46 --> Total execution time: 0.3055
+INFO - 2020-08-13 05:22:47 --> Config Class Initialized
+INFO - 2020-08-13 05:22:47 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:47 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:47 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:47 --> URI Class Initialized
+INFO - 2020-08-13 05:22:47 --> Router Class Initialized
+INFO - 2020-08-13 05:22:47 --> Output Class Initialized
+INFO - 2020-08-13 05:22:47 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:47 --> Input Class Initialized
+INFO - 2020-08-13 05:22:47 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:47 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:22:47 --> Config Class Initialized
+INFO - 2020-08-13 05:22:47 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:47 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:47 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:47 --> URI Class Initialized
+INFO - 2020-08-13 05:22:47 --> Router Class Initialized
+INFO - 2020-08-13 05:22:47 --> Output Class Initialized
+INFO - 2020-08-13 05:22:47 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:47 --> Input Class Initialized
+INFO - 2020-08-13 05:22:47 --> Language Class Initialized
+INFO - 2020-08-13 05:22:47 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:47 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:47 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:47 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:47 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:47 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:47 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:47 --> Config Class Initialized
+INFO - 2020-08-13 05:22:47 --> Hooks Class Initialized
+INFO - 2020-08-13 05:22:47 --> Session: Class initialized using 'files' driver.
+DEBUG - 2020-08-13 05:22:47 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:47 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:47 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:47 --> URI Class Initialized
+INFO - 2020-08-13 05:22:47 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:47 --> Router Class Initialized
+INFO - 2020-08-13 05:22:47 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:47 --> Output Class Initialized
+INFO - 2020-08-13 05:22:47 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:47 --> Email Class Initialized
+INFO - 2020-08-13 05:22:47 --> Input Class Initialized
+INFO - 2020-08-13 05:22:47 --> Language Class Initialized
+DEBUG - 2020-08-13 05:22:47 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:47 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:47 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:47 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:47 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:47 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:47 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:47 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:47 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:47 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:47 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:47 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:47 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:47 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:47 --> Total execution time: 0.2436
+INFO - 2020-08-13 05:22:47 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:47 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:47 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:47 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:47 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:47 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:47 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:47 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:47 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:47 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:47 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:47 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:47 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:47 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:47 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:47 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:47 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:47 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:47 --> Total execution time: 0.2825
+INFO - 2020-08-13 05:22:48 --> Config Class Initialized
+INFO - 2020-08-13 05:22:48 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:48 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:48 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:48 --> URI Class Initialized
+INFO - 2020-08-13 05:22:48 --> Router Class Initialized
+INFO - 2020-08-13 05:22:48 --> Output Class Initialized
+INFO - 2020-08-13 05:22:48 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:48 --> Input Class Initialized
+INFO - 2020-08-13 05:22:48 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:48 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:22:48 --> Config Class Initialized
+INFO - 2020-08-13 05:22:48 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:48 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:48 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:48 --> URI Class Initialized
+INFO - 2020-08-13 05:22:48 --> Router Class Initialized
+INFO - 2020-08-13 05:22:48 --> Output Class Initialized
+INFO - 2020-08-13 05:22:48 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:48 --> Input Class Initialized
+INFO - 2020-08-13 05:22:48 --> Language Class Initialized
+INFO - 2020-08-13 05:22:48 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:48 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:48 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:48 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:48 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:48 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:48 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:48 --> Config Class Initialized
+INFO - 2020-08-13 05:22:48 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:48 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:48 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:48 --> URI Class Initialized
+INFO - 2020-08-13 05:22:48 --> Router Class Initialized
+INFO - 2020-08-13 05:22:48 --> Output Class Initialized
+INFO - 2020-08-13 05:22:48 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:48 --> Input Class Initialized
+INFO - 2020-08-13 05:22:48 --> Language Class Initialized
+INFO - 2020-08-13 05:22:48 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:48 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:48 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:48 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:48 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:48 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:48 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:48 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:48 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:48 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:48 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:48 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:48 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:48 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:48 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:48 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:48 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:48 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:48 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:48 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:48 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:48 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:48 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:48 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:48 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:48 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:48 --> Total execution time: 0.2416
+INFO - 2020-08-13 05:22:48 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:48 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:48 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:48 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:48 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:48 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:48 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:48 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:48 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:48 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:48 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:48 --> Total execution time: 0.2605
+INFO - 2020-08-13 05:22:49 --> Config Class Initialized
+INFO - 2020-08-13 05:22:49 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:49 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:49 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:49 --> URI Class Initialized
+INFO - 2020-08-13 05:22:49 --> Router Class Initialized
+INFO - 2020-08-13 05:22:49 --> Output Class Initialized
+INFO - 2020-08-13 05:22:49 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:49 --> Input Class Initialized
+INFO - 2020-08-13 05:22:49 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:49 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:22:49 --> Config Class Initialized
+INFO - 2020-08-13 05:22:49 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:49 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:49 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:49 --> URI Class Initialized
+INFO - 2020-08-13 05:22:49 --> Router Class Initialized
+INFO - 2020-08-13 05:22:49 --> Output Class Initialized
+INFO - 2020-08-13 05:22:49 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:49 --> Input Class Initialized
+INFO - 2020-08-13 05:22:49 --> Language Class Initialized
+INFO - 2020-08-13 05:22:49 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:49 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:49 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:49 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:49 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:49 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:49 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:49 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:49 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:49 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:49 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:49 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:49 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:49 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:49 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:49 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:49 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:49 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:49 --> Total execution time: 0.2624
+INFO - 2020-08-13 05:22:50 --> Config Class Initialized
+INFO - 2020-08-13 05:22:50 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:50 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:50 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:50 --> URI Class Initialized
+INFO - 2020-08-13 05:22:50 --> Router Class Initialized
+INFO - 2020-08-13 05:22:50 --> Output Class Initialized
+INFO - 2020-08-13 05:22:50 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:50 --> Input Class Initialized
+INFO - 2020-08-13 05:22:50 --> Language Class Initialized
+INFO - 2020-08-13 05:22:50 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:50 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:50 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:50 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:50 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:50 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:50 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:50 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:50 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:50 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:50 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:50 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:50 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:50 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:50 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:50 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:50 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:50 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:50 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:50 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:50 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:50 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:50 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:50 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:50 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:50 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:50 --> Total execution time: 0.2127
+INFO - 2020-08-13 05:22:51 --> Config Class Initialized
+INFO - 2020-08-13 05:22:51 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:51 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:51 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:51 --> URI Class Initialized
+INFO - 2020-08-13 05:22:51 --> Router Class Initialized
+INFO - 2020-08-13 05:22:51 --> Output Class Initialized
+INFO - 2020-08-13 05:22:51 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:51 --> Input Class Initialized
+INFO - 2020-08-13 05:22:51 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:51 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:22:51 --> Config Class Initialized
+INFO - 2020-08-13 05:22:51 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:51 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:51 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:51 --> URI Class Initialized
+INFO - 2020-08-13 05:22:51 --> Router Class Initialized
+INFO - 2020-08-13 05:22:51 --> Output Class Initialized
+INFO - 2020-08-13 05:22:51 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:51 --> Input Class Initialized
+INFO - 2020-08-13 05:22:51 --> Language Class Initialized
+INFO - 2020-08-13 05:22:51 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:51 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:51 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:51 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:51 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:51 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:51 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:51 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:51 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:51 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:51 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:51 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:51 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:51 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:51 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:51 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:51 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:51 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:51 --> Total execution time: 0.2697
+INFO - 2020-08-13 05:22:55 --> Config Class Initialized
+INFO - 2020-08-13 05:22:55 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:55 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:55 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:55 --> URI Class Initialized
+DEBUG - 2020-08-13 05:22:55 --> No URI present. Default controller set.
+INFO - 2020-08-13 05:22:55 --> Router Class Initialized
+INFO - 2020-08-13 05:22:55 --> Output Class Initialized
+INFO - 2020-08-13 05:22:55 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:55 --> Input Class Initialized
+INFO - 2020-08-13 05:22:55 --> Language Class Initialized
+INFO - 2020-08-13 05:22:55 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:55 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:55 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:55 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:55 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:55 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:55 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:55 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:55 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:55 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:55 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:55 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:55 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:55 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:55 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:55 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:55 --> Model "Kategori_M" initialized
+INFO - 2020-08-13 05:22:55 --> Model "Ongkir_M" initialized
+INFO - 2020-08-13 05:22:55 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/errors/html/error_404.php
+INFO - 2020-08-13 05:22:55 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:55 --> Total execution time: 0.2038
+INFO - 2020-08-13 05:22:59 --> Config Class Initialized
+INFO - 2020-08-13 05:22:59 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:59 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:59 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:59 --> URI Class Initialized
+INFO - 2020-08-13 05:22:59 --> Router Class Initialized
+INFO - 2020-08-13 05:22:59 --> Output Class Initialized
+INFO - 2020-08-13 05:22:59 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:59 --> Input Class Initialized
+INFO - 2020-08-13 05:22:59 --> Language Class Initialized
+INFO - 2020-08-13 05:22:59 --> Loader Class Initialized
+INFO - 2020-08-13 05:22:59 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:22:59 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:22:59 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:22:59 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:22:59 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:22:59 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:22:59 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:22:59 --> User Agent Class Initialized
+INFO - 2020-08-13 05:22:59 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:22:59 --> Pagination Class Initialized
+INFO - 2020-08-13 05:22:59 --> Email Class Initialized
+DEBUG - 2020-08-13 05:22:59 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:22:59 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:22:59 --> Encryption Class Initialized
+INFO - 2020-08-13 05:22:59 --> Controller Class Initialized
+INFO - 2020-08-13 05:22:59 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:22:59 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:22:59 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:22:59 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:22:59 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:22:59 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:22:59 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:22:59 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:22:59 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:22:59 --> Final output sent to browser
+DEBUG - 2020-08-13 05:22:59 --> Total execution time: 0.2770
+INFO - 2020-08-13 05:22:59 --> Config Class Initialized
+INFO - 2020-08-13 05:22:59 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:22:59 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:22:59 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:22:59 --> URI Class Initialized
+INFO - 2020-08-13 05:22:59 --> Router Class Initialized
+INFO - 2020-08-13 05:22:59 --> Output Class Initialized
+INFO - 2020-08-13 05:22:59 --> Security Class Initialized
+DEBUG - 2020-08-13 05:22:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:22:59 --> Input Class Initialized
+INFO - 2020-08-13 05:22:59 --> Language Class Initialized
+ERROR - 2020-08-13 05:22:59 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:23:00 --> Config Class Initialized
+INFO - 2020-08-13 05:23:00 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:23:00 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:23:00 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:23:00 --> URI Class Initialized
+INFO - 2020-08-13 05:23:00 --> Router Class Initialized
+INFO - 2020-08-13 05:23:00 --> Output Class Initialized
+INFO - 2020-08-13 05:23:00 --> Security Class Initialized
+DEBUG - 2020-08-13 05:23:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:23:00 --> Input Class Initialized
+INFO - 2020-08-13 05:23:00 --> Language Class Initialized
+INFO - 2020-08-13 05:23:00 --> Loader Class Initialized
+INFO - 2020-08-13 05:23:00 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:23:00 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:23:00 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:23:00 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:23:00 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:23:00 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:23:00 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:23:00 --> User Agent Class Initialized
+INFO - 2020-08-13 05:23:00 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:23:00 --> Pagination Class Initialized
+INFO - 2020-08-13 05:23:00 --> Email Class Initialized
+DEBUG - 2020-08-13 05:23:00 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:23:00 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:23:00 --> Encryption Class Initialized
+INFO - 2020-08-13 05:23:00 --> Controller Class Initialized
+INFO - 2020-08-13 05:23:00 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:23:00 --> Final output sent to browser
+DEBUG - 2020-08-13 05:23:00 --> Total execution time: 0.3085
+INFO - 2020-08-13 05:23:13 --> Config Class Initialized
+INFO - 2020-08-13 05:23:13 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:23:13 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:23:13 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:23:13 --> URI Class Initialized
+INFO - 2020-08-13 05:23:13 --> Router Class Initialized
+INFO - 2020-08-13 05:23:13 --> Output Class Initialized
+INFO - 2020-08-13 05:23:13 --> Security Class Initialized
+DEBUG - 2020-08-13 05:23:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:23:13 --> Input Class Initialized
+INFO - 2020-08-13 05:23:13 --> Language Class Initialized
+INFO - 2020-08-13 05:23:13 --> Loader Class Initialized
+INFO - 2020-08-13 05:23:13 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:23:13 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:23:13 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:23:13 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:23:13 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:23:13 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:23:13 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:23:13 --> User Agent Class Initialized
+INFO - 2020-08-13 05:23:13 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:23:13 --> Pagination Class Initialized
+INFO - 2020-08-13 05:23:13 --> Email Class Initialized
+DEBUG - 2020-08-13 05:23:13 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:23:13 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:23:13 --> Encryption Class Initialized
+INFO - 2020-08-13 05:23:13 --> Controller Class Initialized
+INFO - 2020-08-13 05:23:13 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:23:13 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:23:13 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:23:13 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:23:13 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:23:13 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:23:13 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:23:13 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:23:13 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:23:13 --> Final output sent to browser
+DEBUG - 2020-08-13 05:23:13 --> Total execution time: 0.2908
+INFO - 2020-08-13 05:23:14 --> Config Class Initialized
+INFO - 2020-08-13 05:23:14 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:23:14 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:23:14 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:23:14 --> URI Class Initialized
+INFO - 2020-08-13 05:23:14 --> Router Class Initialized
+INFO - 2020-08-13 05:23:14 --> Output Class Initialized
+INFO - 2020-08-13 05:23:14 --> Security Class Initialized
+DEBUG - 2020-08-13 05:23:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:23:14 --> Input Class Initialized
+INFO - 2020-08-13 05:23:14 --> Language Class Initialized
+ERROR - 2020-08-13 05:23:14 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:23:22 --> Config Class Initialized
+INFO - 2020-08-13 05:23:22 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:23:22 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:23:22 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:23:22 --> URI Class Initialized
+INFO - 2020-08-13 05:23:22 --> Router Class Initialized
+INFO - 2020-08-13 05:23:22 --> Output Class Initialized
+INFO - 2020-08-13 05:23:22 --> Security Class Initialized
+DEBUG - 2020-08-13 05:23:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:23:22 --> Input Class Initialized
+INFO - 2020-08-13 05:23:22 --> Language Class Initialized
+INFO - 2020-08-13 05:23:22 --> Loader Class Initialized
+INFO - 2020-08-13 05:23:22 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:23:22 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:23:22 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:23:22 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:23:22 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:23:22 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:23:22 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:23:22 --> User Agent Class Initialized
+INFO - 2020-08-13 05:23:22 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:23:22 --> Pagination Class Initialized
+INFO - 2020-08-13 05:23:22 --> Email Class Initialized
+DEBUG - 2020-08-13 05:23:22 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:23:22 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:23:22 --> Encryption Class Initialized
+INFO - 2020-08-13 05:23:22 --> Controller Class Initialized
+INFO - 2020-08-13 05:23:22 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:23:22 --> Final output sent to browser
+DEBUG - 2020-08-13 05:23:22 --> Total execution time: 0.3007
+INFO - 2020-08-13 05:23:33 --> Config Class Initialized
+INFO - 2020-08-13 05:23:33 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:23:33 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:23:33 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:23:33 --> URI Class Initialized
+INFO - 2020-08-13 05:23:33 --> Router Class Initialized
+INFO - 2020-08-13 05:23:33 --> Output Class Initialized
+INFO - 2020-08-13 05:23:33 --> Security Class Initialized
+DEBUG - 2020-08-13 05:23:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:23:33 --> Input Class Initialized
+INFO - 2020-08-13 05:23:33 --> Language Class Initialized
+INFO - 2020-08-13 05:23:33 --> Loader Class Initialized
+INFO - 2020-08-13 05:23:33 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:23:33 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:23:33 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:23:33 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:23:33 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:23:33 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:23:33 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:23:33 --> User Agent Class Initialized
+INFO - 2020-08-13 05:23:33 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:23:33 --> Pagination Class Initialized
+INFO - 2020-08-13 05:23:33 --> Email Class Initialized
+DEBUG - 2020-08-13 05:23:33 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:23:33 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:23:33 --> Encryption Class Initialized
+INFO - 2020-08-13 05:23:33 --> Controller Class Initialized
+INFO - 2020-08-13 05:23:33 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:23:33 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:23:33 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:23:33 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:23:33 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:23:33 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:23:33 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:23:33 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:23:33 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:23:33 --> Final output sent to browser
+DEBUG - 2020-08-13 05:23:33 --> Total execution time: 0.3044
+INFO - 2020-08-13 05:23:34 --> Config Class Initialized
+INFO - 2020-08-13 05:23:34 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:23:34 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:23:34 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:23:34 --> URI Class Initialized
+INFO - 2020-08-13 05:23:34 --> Router Class Initialized
+INFO - 2020-08-13 05:23:34 --> Output Class Initialized
+INFO - 2020-08-13 05:23:34 --> Security Class Initialized
+DEBUG - 2020-08-13 05:23:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:23:34 --> Input Class Initialized
+INFO - 2020-08-13 05:23:34 --> Language Class Initialized
+ERROR - 2020-08-13 05:23:34 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:23:37 --> Config Class Initialized
+INFO - 2020-08-13 05:23:37 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:23:37 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:23:37 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:23:37 --> URI Class Initialized
+INFO - 2020-08-13 05:23:37 --> Router Class Initialized
+INFO - 2020-08-13 05:23:37 --> Output Class Initialized
+INFO - 2020-08-13 05:23:37 --> Security Class Initialized
+DEBUG - 2020-08-13 05:23:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:23:37 --> Input Class Initialized
+INFO - 2020-08-13 05:23:37 --> Language Class Initialized
+INFO - 2020-08-13 05:23:37 --> Loader Class Initialized
+INFO - 2020-08-13 05:23:37 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:23:37 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:23:37 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:23:37 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:23:37 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:23:37 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:23:37 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:23:37 --> User Agent Class Initialized
+INFO - 2020-08-13 05:23:37 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:23:37 --> Pagination Class Initialized
+INFO - 2020-08-13 05:23:37 --> Email Class Initialized
+DEBUG - 2020-08-13 05:23:37 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:23:37 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:23:37 --> Encryption Class Initialized
+INFO - 2020-08-13 05:23:37 --> Controller Class Initialized
+INFO - 2020-08-13 05:23:37 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:23:37 --> Final output sent to browser
+DEBUG - 2020-08-13 05:23:37 --> Total execution time: 0.2965
+INFO - 2020-08-13 05:29:28 --> Config Class Initialized
+INFO - 2020-08-13 05:29:28 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:29:28 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:29:28 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:29:28 --> URI Class Initialized
+DEBUG - 2020-08-13 05:29:28 --> No URI present. Default controller set.
+INFO - 2020-08-13 05:29:28 --> Router Class Initialized
+INFO - 2020-08-13 05:29:28 --> Output Class Initialized
+INFO - 2020-08-13 05:29:28 --> Security Class Initialized
+DEBUG - 2020-08-13 05:29:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:29:28 --> Input Class Initialized
+INFO - 2020-08-13 05:29:28 --> Language Class Initialized
+INFO - 2020-08-13 05:29:28 --> Loader Class Initialized
+INFO - 2020-08-13 05:29:28 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:29:28 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:29:28 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:29:28 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:29:28 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:29:28 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:29:28 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:29:28 --> User Agent Class Initialized
+INFO - 2020-08-13 05:29:28 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:29:28 --> Pagination Class Initialized
+INFO - 2020-08-13 05:29:28 --> Email Class Initialized
+DEBUG - 2020-08-13 05:29:28 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:29:28 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:29:28 --> Encryption Class Initialized
+INFO - 2020-08-13 05:29:28 --> Controller Class Initialized
+INFO - 2020-08-13 05:29:28 --> Model "Kategori_M" initialized
+INFO - 2020-08-13 05:29:28 --> Model "Ongkir_M" initialized
+INFO - 2020-08-13 05:29:28 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/errors/html/error_404.php
+INFO - 2020-08-13 05:29:28 --> Final output sent to browser
+DEBUG - 2020-08-13 05:29:28 --> Total execution time: 0.2944
+INFO - 2020-08-13 05:29:31 --> Config Class Initialized
+INFO - 2020-08-13 05:29:31 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:29:31 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:29:31 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:29:31 --> URI Class Initialized
+INFO - 2020-08-13 05:29:31 --> Router Class Initialized
+INFO - 2020-08-13 05:29:31 --> Output Class Initialized
+INFO - 2020-08-13 05:29:31 --> Security Class Initialized
+DEBUG - 2020-08-13 05:29:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:29:31 --> Input Class Initialized
+INFO - 2020-08-13 05:29:31 --> Language Class Initialized
+INFO - 2020-08-13 05:29:31 --> Loader Class Initialized
+INFO - 2020-08-13 05:29:31 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:29:31 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:29:31 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:29:31 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:29:31 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:29:31 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:29:32 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:29:32 --> User Agent Class Initialized
+INFO - 2020-08-13 05:29:32 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:29:32 --> Pagination Class Initialized
+INFO - 2020-08-13 05:29:32 --> Email Class Initialized
+DEBUG - 2020-08-13 05:29:32 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:29:32 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:29:32 --> Encryption Class Initialized
+INFO - 2020-08-13 05:29:32 --> Controller Class Initialized
+INFO - 2020-08-13 05:29:32 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:29:32 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:29:32 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:29:32 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:29:32 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:29:32 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:29:32 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:29:32 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:29:32 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:29:32 --> Final output sent to browser
+DEBUG - 2020-08-13 05:29:32 --> Total execution time: 0.2360
+INFO - 2020-08-13 05:29:32 --> Config Class Initialized
+INFO - 2020-08-13 05:29:32 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:29:32 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:29:32 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:29:32 --> URI Class Initialized
+INFO - 2020-08-13 05:29:32 --> Router Class Initialized
+INFO - 2020-08-13 05:29:32 --> Output Class Initialized
+INFO - 2020-08-13 05:29:32 --> Security Class Initialized
+DEBUG - 2020-08-13 05:29:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:29:32 --> Input Class Initialized
+INFO - 2020-08-13 05:29:32 --> Language Class Initialized
+ERROR - 2020-08-13 05:29:32 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:29:32 --> Config Class Initialized
+INFO - 2020-08-13 05:29:32 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:29:32 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:29:32 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:29:32 --> URI Class Initialized
+INFO - 2020-08-13 05:29:32 --> Router Class Initialized
+INFO - 2020-08-13 05:29:32 --> Output Class Initialized
+INFO - 2020-08-13 05:29:32 --> Security Class Initialized
+DEBUG - 2020-08-13 05:29:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:29:32 --> Input Class Initialized
+INFO - 2020-08-13 05:29:32 --> Language Class Initialized
+INFO - 2020-08-13 05:29:32 --> Config Class Initialized
+INFO - 2020-08-13 05:29:32 --> Hooks Class Initialized
+INFO - 2020-08-13 05:29:32 --> Loader Class Initialized
+DEBUG - 2020-08-13 05:29:32 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:29:32 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:29:32 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:29:32 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:29:32 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:29:32 --> URI Class Initialized
+INFO - 2020-08-13 05:29:32 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:29:32 --> Helper loaded: encpass_helper
+DEBUG - 2020-08-13 05:29:32 --> No URI present. Default controller set.
+INFO - 2020-08-13 05:29:32 --> Router Class Initialized
+INFO - 2020-08-13 05:29:32 --> Output Class Initialized
+INFO - 2020-08-13 05:29:32 --> Security Class Initialized
+INFO - 2020-08-13 05:29:32 --> Database Driver Class Initialized
+DEBUG - 2020-08-13 05:29:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:29:32 --> Input Class Initialized
+INFO - 2020-08-13 05:29:32 --> Language Class Initialized
+INFO - 2020-08-13 05:29:32 --> Loader Class Initialized
+INFO - 2020-08-13 05:29:32 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:29:32 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:29:32 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:29:32 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:29:32 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:29:32 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:29:32 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:29:32 --> User Agent Class Initialized
+INFO - 2020-08-13 05:29:32 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:29:32 --> Pagination Class Initialized
+INFO - 2020-08-13 05:29:32 --> Email Class Initialized
+DEBUG - 2020-08-13 05:29:32 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:29:32 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:29:32 --> Encryption Class Initialized
+INFO - 2020-08-13 05:29:32 --> Controller Class Initialized
+INFO - 2020-08-13 05:29:32 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:29:32 --> Final output sent to browser
+DEBUG - 2020-08-13 05:29:32 --> Total execution time: 0.2568
+INFO - 2020-08-13 05:29:32 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:29:32 --> User Agent Class Initialized
+INFO - 2020-08-13 05:29:32 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:29:32 --> Pagination Class Initialized
+INFO - 2020-08-13 05:29:32 --> Email Class Initialized
+DEBUG - 2020-08-13 05:29:32 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:29:32 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:29:32 --> Encryption Class Initialized
+INFO - 2020-08-13 05:29:32 --> Controller Class Initialized
+INFO - 2020-08-13 05:29:32 --> Model "Kategori_M" initialized
+INFO - 2020-08-13 05:29:32 --> Model "Ongkir_M" initialized
+INFO - 2020-08-13 05:29:32 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/errors/html/error_404.php
+INFO - 2020-08-13 05:29:32 --> Final output sent to browser
+DEBUG - 2020-08-13 05:29:32 --> Total execution time: 0.2400
+INFO - 2020-08-13 05:29:42 --> Config Class Initialized
+INFO - 2020-08-13 05:29:42 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:29:42 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:29:42 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:29:42 --> URI Class Initialized
+INFO - 2020-08-13 05:29:42 --> Router Class Initialized
+INFO - 2020-08-13 05:29:42 --> Output Class Initialized
+INFO - 2020-08-13 05:29:42 --> Security Class Initialized
+DEBUG - 2020-08-13 05:29:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:29:42 --> Input Class Initialized
+INFO - 2020-08-13 05:29:42 --> Language Class Initialized
+INFO - 2020-08-13 05:29:42 --> Loader Class Initialized
+INFO - 2020-08-13 05:29:42 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:29:42 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:29:42 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:29:42 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:29:42 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:29:42 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:29:42 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:29:42 --> User Agent Class Initialized
+INFO - 2020-08-13 05:29:42 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:29:42 --> Pagination Class Initialized
+INFO - 2020-08-13 05:29:42 --> Email Class Initialized
+DEBUG - 2020-08-13 05:29:42 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:29:42 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:29:42 --> Encryption Class Initialized
+INFO - 2020-08-13 05:29:42 --> Controller Class Initialized
+INFO - 2020-08-13 05:29:42 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:29:42 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-13 05:29:42 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-13 05:29:42 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-13 05:29:42 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-13 05:29:42 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-13 05:29:42 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-13 05:29:42 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js_table.php
+INFO - 2020-08-13 05:29:42 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/master/provinsi_v.php
+INFO - 2020-08-13 05:29:42 --> Final output sent to browser
+DEBUG - 2020-08-13 05:29:42 --> Total execution time: 0.2158
+INFO - 2020-08-13 05:29:42 --> Config Class Initialized
+INFO - 2020-08-13 05:29:42 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:29:42 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:29:42 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:29:42 --> URI Class Initialized
+INFO - 2020-08-13 05:29:42 --> Router Class Initialized
+INFO - 2020-08-13 05:29:42 --> Output Class Initialized
+INFO - 2020-08-13 05:29:42 --> Security Class Initialized
+DEBUG - 2020-08-13 05:29:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:29:42 --> Input Class Initialized
+INFO - 2020-08-13 05:29:42 --> Language Class Initialized
+ERROR - 2020-08-13 05:29:42 --> 404 Page Not Found: Assets/global
+INFO - 2020-08-13 05:29:43 --> Config Class Initialized
+INFO - 2020-08-13 05:29:43 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:29:43 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:29:43 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:29:43 --> URI Class Initialized
+INFO - 2020-08-13 05:29:43 --> Router Class Initialized
+INFO - 2020-08-13 05:29:43 --> Output Class Initialized
+INFO - 2020-08-13 05:29:43 --> Security Class Initialized
+DEBUG - 2020-08-13 05:29:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:29:43 --> Input Class Initialized
+INFO - 2020-08-13 05:29:43 --> Language Class Initialized
+INFO - 2020-08-13 05:29:43 --> Loader Class Initialized
+INFO - 2020-08-13 05:29:43 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:29:43 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:29:43 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:29:43 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:29:43 --> Config Class Initialized
+INFO - 2020-08-13 05:29:43 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:29:43 --> Hooks Class Initialized
+DEBUG - 2020-08-13 05:29:43 --> UTF-8 Support Enabled
+INFO - 2020-08-13 05:29:43 --> Utf8 Class Initialized
+INFO - 2020-08-13 05:29:43 --> URI Class Initialized
+DEBUG - 2020-08-13 05:29:43 --> No URI present. Default controller set.
+INFO - 2020-08-13 05:29:43 --> Router Class Initialized
+INFO - 2020-08-13 05:29:43 --> Output Class Initialized
+INFO - 2020-08-13 05:29:43 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:29:43 --> Security Class Initialized
+DEBUG - 2020-08-13 05:29:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 05:29:43 --> Input Class Initialized
+INFO - 2020-08-13 05:29:43 --> Language Class Initialized
+INFO - 2020-08-13 05:29:43 --> Loader Class Initialized
+INFO - 2020-08-13 05:29:43 --> Helper loaded: url_helper
+INFO - 2020-08-13 05:29:43 --> Helper loaded: security_helper
+INFO - 2020-08-13 05:29:43 --> Helper loaded: string_helper
+INFO - 2020-08-13 05:29:43 --> Helper loaded: date_helper
+INFO - 2020-08-13 05:29:43 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 05:29:43 --> Database Driver Class Initialized
+INFO - 2020-08-13 05:29:43 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:29:43 --> User Agent Class Initialized
+INFO - 2020-08-13 05:29:43 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:29:43 --> Pagination Class Initialized
+INFO - 2020-08-13 05:29:43 --> Email Class Initialized
+DEBUG - 2020-08-13 05:29:43 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:29:43 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:29:43 --> Encryption Class Initialized
+INFO - 2020-08-13 05:29:43 --> Controller Class Initialized
+INFO - 2020-08-13 05:29:43 --> Model "Provinsi_M" initialized
+INFO - 2020-08-13 05:29:43 --> Final output sent to browser
+DEBUG - 2020-08-13 05:29:43 --> Total execution time: 0.2708
+INFO - 2020-08-13 05:29:43 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 05:29:43 --> User Agent Class Initialized
+INFO - 2020-08-13 05:29:43 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 05:29:43 --> Pagination Class Initialized
+INFO - 2020-08-13 05:29:43 --> Email Class Initialized
+DEBUG - 2020-08-13 05:29:43 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 05:29:43 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 05:29:43 --> Encryption Class Initialized
+INFO - 2020-08-13 05:29:43 --> Controller Class Initialized
+INFO - 2020-08-13 05:29:43 --> Model "Kategori_M" initialized
+INFO - 2020-08-13 05:29:43 --> Model "Ongkir_M" initialized
+INFO - 2020-08-13 05:29:43 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/errors/html/error_404.php
+INFO - 2020-08-13 05:29:43 --> Final output sent to browser
+DEBUG - 2020-08-13 05:29:43 --> Total execution time: 0.2358
