@@ -233,7 +233,8 @@ var FormWizard = function () {
                              
                             success.show();
                             error.hide();
-                             window.history.go(-1);
+                            window.location.href = 'welcome/success';
+//                             window.history.go(-1);
 //                            location.reload();
                         } else {
                             error.show();

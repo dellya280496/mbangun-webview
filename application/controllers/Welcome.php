@@ -23,6 +23,11 @@ class Welcome extends CI_Controller {
             $this->load->view('pengajuan', $data);
         }
     }
+    
+     public function success() {
+            $this->load->view('success');
+        
+    }
 
     public function getKota() {
         $id = $_POST['id_provinsi'];
