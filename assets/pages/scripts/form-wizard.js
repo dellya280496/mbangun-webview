@@ -230,10 +230,10 @@ var FormWizard = function () {
                     processData: false,
                     success: function (data) {
                         if (data.meta.status_code === 200) {
-                             
+
 //                            success.show();
 //                            error.hide();
-                            window.location.href = 'welcome/success';
+                            window.location.href = 'welcome/success/?email=' + data.email;
 //                             window.history.go(-1);
 //                            location.reload();
                         } else {

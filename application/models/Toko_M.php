@@ -59,7 +59,7 @@ class Toko_M extends CI_Model {
         $return = array();
 
         try {
-            $this->db->select("l.id");
+            $this->db->select("l.id,u.email");
             $this->db->where("u.email", $data['email']);
             $this->db->join("s_user_login l ", "l.id_user=u.id", "inner");
             $user = $this->db->get("m_user u")->row();
@@ -80,7 +80,7 @@ class Toko_M extends CI_Model {
                     );
                     $this->db->where("id", $user->id);
                     $this->db->update("m_user", $upd);
-
+                    $return["email"] = $user->email;
                     $return["meta"] = array(
                         "status_code" => 200,
                         "status_message" => "sukses !",

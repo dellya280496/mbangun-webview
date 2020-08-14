@@ -10998,3 +10998,41 @@ DEBUG - 2020-08-13 06:49:03 --> Global POST, GET and COOKIE data sanitized
 INFO - 2020-08-13 06:49:03 --> Input Class Initialized
 INFO - 2020-08-13 06:49:03 --> Language Class Initialized
 ERROR - 2020-08-13 06:49:03 --> 404 Page Not Found: Welcome/assets
+ERROR - 2020-08-13 07:11:17 --> Severity: Warning --> mysqli::real_connect(): MySQL server has gone away /Applications/MAMP/htdocs/mbangun/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-13 07:11:17 --> Severity: Warning --> mysqli::real_connect(): Error while reading greeting packet. PID=980 /Applications/MAMP/htdocs/mbangun/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-13 07:11:17 --> Severity: Warning --> mysqli::real_connect(): (HY000/2006): MySQL server has gone away /Applications/MAMP/htdocs/mbangun/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2020-08-13 07:11:17 --> Unable to connect to the database
+INFO - 2020-08-13 07:11:17 --> Language file loaded: language/english/db_lang.php
+INFO - 2020-08-13 23:57:08 --> Config Class Initialized
+INFO - 2020-08-13 23:57:08 --> Hooks Class Initialized
+DEBUG - 2020-08-13 23:57:08 --> UTF-8 Support Enabled
+INFO - 2020-08-13 23:57:08 --> Utf8 Class Initialized
+INFO - 2020-08-13 23:57:08 --> URI Class Initialized
+DEBUG - 2020-08-13 23:57:08 --> No URI present. Default controller set.
+INFO - 2020-08-13 23:57:08 --> Router Class Initialized
+INFO - 2020-08-13 23:57:08 --> Output Class Initialized
+INFO - 2020-08-13 23:57:08 --> Security Class Initialized
+DEBUG - 2020-08-13 23:57:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-13 23:57:08 --> Input Class Initialized
+INFO - 2020-08-13 23:57:08 --> Language Class Initialized
+INFO - 2020-08-13 23:57:08 --> Loader Class Initialized
+INFO - 2020-08-13 23:57:08 --> Helper loaded: url_helper
+INFO - 2020-08-13 23:57:08 --> Helper loaded: security_helper
+INFO - 2020-08-13 23:57:08 --> Helper loaded: string_helper
+INFO - 2020-08-13 23:57:08 --> Helper loaded: date_helper
+INFO - 2020-08-13 23:57:08 --> Helper loaded: encpass_helper
+INFO - 2020-08-13 23:57:08 --> Database Driver Class Initialized
+INFO - 2020-08-13 23:57:09 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-13 23:57:09 --> User Agent Class Initialized
+INFO - 2020-08-13 23:57:09 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-13 23:57:09 --> Pagination Class Initialized
+INFO - 2020-08-13 23:57:09 --> Email Class Initialized
+DEBUG - 2020-08-13 23:57:09 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-13 23:57:09 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-13 23:57:09 --> Encryption Class Initialized
+INFO - 2020-08-13 23:57:09 --> Controller Class Initialized
+INFO - 2020-08-13 23:57:09 --> Model "Kategori_M" initialized
+INFO - 2020-08-13 23:57:09 --> Model "Ongkir_M" initialized
+INFO - 2020-08-13 23:57:09 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/errors/html/error_404.php
+INFO - 2020-08-13 23:57:09 --> Final output sent to browser
+DEBUG - 2020-08-13 23:57:09 --> Total execution time: 0.7300

@@ -8,6 +8,7 @@ class Welcome extends CI_Controller {
         parent::__construct();
         $this->load->model('Kategori_M');
         $this->load->model('Ongkir_M');
+        $this->load->model('Email_M');
 //        $this->auth();
     }
 
@@ -15,18 +16,19 @@ class Welcome extends CI_Controller {
         $data['menu'] = 'Dashboard';
         $data['email'] = $this->input->get('email');
         if (empty($data['email'])) {
-        $data['heading'] = "Data Tidak ditemukan";
-        $data['message'] = "Email belum terdaftar";
-            $this->load->view('errors/html/error_404',$data);
+            $data['heading'] = "Data Tidak ditemukan";
+            $data['message'] = "Email belum terdaftar";
+            $this->load->view('errors/html/error_404', $data);
         } else {
             $data['provinces'] = $this->Ongkir_M->getProvince();
             $this->load->view('pengajuan', $data);
         }
     }
-    
-     public function success() {
-            $this->load->view('success');
-        
+
+    public function success() {
+        $email= $this->input->get('email');
+        $data=$this->Email_M->send_email($email);
+        $this->load->view('success');
     }
 
     public function getKota() {
