@@ -86,14 +86,16 @@ jQuery(document).ready(function () {
             showCancelButton: !0,
             confirmButtonText: "Hapus"
         }).then(function (e) {
+            console.log("isi:",e);
             if (e.value) {
 
                 $.ajax({
                     method: 'POST',
                     dataType: 'json',
-                    url: 'aspek/do_Hapus',
-                    data: {'id_aspek': id},
+                    url: 'provinsi/hapus',
+                    data: {'id': id},
                     success: function (data) {
+                        console.log("data: ",data);
                         if (data.success === true) {
                             $('#m_table_1').DataTable().ajax.reload(null, false);
                             e.value && swal("Terhapus!", data.msgServer, "success");
@@ -146,33 +148,33 @@ jQuery(document).ready(function () {
             icon.removeClass("fa-warning");
         },
         submitHandler: function (form) {
-            App.blockUI('#formku');
+            console.log("masuk");
             $.ajax({
                 method: 'POST',
                 dataType: 'json',
-                url: 'provinsi/do_Simpan',
+                url: 'provinsi/simpan',
                 data: $('#formku').serializeArray(),
                 success: function (data) {
-                    if (data.success === true) {
-                        toastr.success(data.msgServer);
+                    console.log("hasil : ",data);
+                    if (data.meta.success === true) {
+                        alert(data.meta.status_message);
+                        
                         $('#formku').each(function () {
                             this.reset();
                         });
                         $('#m_table_1').DataTable().ajax.reload(null, false);
                         $('#mode_form').val("Tambah");
-                        App.unblockUI('#formku');
+                        $('#draggable').modal('toggle');
+                       
                     } else {
-                        toastr.warning(data.msgServer);
-                        App.unblockUI('#formku');
+                        alert(data.meta.status_message);
                     }
                 },
                 fail: function (e) {
                     toastr.error(e);
-                    App.unblockUI('#formku');
                 }
             });
         }
     });
 
 });
-

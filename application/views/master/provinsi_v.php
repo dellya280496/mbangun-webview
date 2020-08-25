@@ -55,8 +55,9 @@
                                                         <button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
                                                         <h4 class="modal-title">Data <?php echo $menu ?></h4>
                                                     </div>
+                                                     <form name="formku" id="formku" method="POST" action="#">
                                                     <div class="modal-body" style="margin: 10px"> 
-                                                        <form name="formku" id="formku" method="POST" action="#">
+                                                       
                                                             <div class="row">
                                                                 <div class="form-group">
 
@@ -73,7 +74,7 @@
                                                     </div>
                                                     <div class="modal-footer">
                                                         <button type="button" class="btn dark btn-outline" data-dismiss="modal">Close</button>
-                                                        <button type="button" id="submit" class="btn green">Simpan</button>
+                                                        <button type="submit" id="submit" class="btn green">Simpan</button>
                                                     </div>
                                                     </form>
                                                 </div>
@@ -138,14 +139,14 @@
             <?php $this->load->view('component/footer') ?>
         </div>
         <?php $this->load->view('component/js_table') ?>
-         
-         <script type="text/javascript">
-        $(document).ready(function () {
-           
+
+        <script type="text/javascript">
+            $(document).ready(function () {
+
 //            window.location.replace(window.location.hash);
 
-        });
-    </script>
+            });
+        </script>
         <script src="assets/js/provinsi.js" type="text/javascript"></script>
     </body>
 

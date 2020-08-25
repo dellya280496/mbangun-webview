@@ -130,7 +130,7 @@ class Provinsi extends CI_Controller {
         echo json_encode($data);
     }
 
-    public function insert_post() {
+    public function simpan() {
         $param = $_POST;
         $error = FALSE;
         if (empty($_POST['nama'])) {
@@ -147,7 +147,7 @@ class Provinsi extends CI_Controller {
             $response = $this->Provinsi_M->insert($param);
         }
 
-        $this->response($response);
+        echo json_encode($response);
     }
 
     public function update_post() {
@@ -174,7 +174,7 @@ class Provinsi extends CI_Controller {
 
         $this->response($response);
     }
-    public function delete_post() {
+    public function hapus() {
         $error = FALSE;
         if (empty($_POST['id'])) {
             $error = TRUE;
