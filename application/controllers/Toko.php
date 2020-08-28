@@ -91,7 +91,29 @@ class Toko extends BD_Controller {
 
         $this->response($response);
     }
+ public function insert_projek_post() {
+        $param = $_POST;
+        $error = FALSE;
+        if (empty($_POST['nama'])) {
+            $error = TRUE;
+            $message = 'nama  tidak boleh kosong !';
+        };
+        if (empty($_POST['email'])) {
+            $error = TRUE;
+            $message = 'email tidak boleh kosong !';
+        };
+        if ($error) {
+            $response['meta'] = array(
+                "status_code" => 500,
+                "status_message" => $message,
+                "success" => false
+            );
+        } else {
+            $response = $this->Toko_M->insert_projek($param);
+        }
 
+        $this->response($response);
+    }
     public function update_post() {
         $param = $_POST;
         $error = FALSE;

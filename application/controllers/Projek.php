@@ -2,7 +2,7 @@
 
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Welcome extends CI_Controller {
+class Projek extends CI_Controller {
 
     function __construct() {
         parent::__construct();
@@ -20,8 +20,10 @@ class Welcome extends CI_Controller {
             $data['message'] = "Email belum terdaftar";
             $this->load->view('errors/html/error_404', $data);
         } else {
+
+            $data['jenis_layanan'] = $this->Ongkir_M->getJenisLayanan();
             $data['provinces'] = $this->Ongkir_M->getProvince();
-            $this->load->view('pengajuan', $data);
+            $this->load->view('pengajuan_projek', $data);
         }
     }
 
@@ -29,10 +31,6 @@ class Welcome extends CI_Controller {
         $email = $this->input->get('email');
         $data = $this->Email_M->send_email($email);
         $this->load->view('success');
-    }
-
-    public function success_projek() {
-        $this->load->view('success-projek');
     }
 
     public function getKota() {
@@ -47,6 +45,14 @@ class Welcome extends CI_Controller {
         $data['kecamatan'] = $this->Ongkir_M->getKecamatan($id);
 
         echo json_encode($data['kecamatan']);
+    }
+
+    public function insert() {
+        $param = $_POST;
+        $response = $this->Projek_M->insert($param);
+
+
+        $this->response($response);
     }
 
 }

@@ -172,5 +172,49 @@ class Toko_M extends CI_Model {
 
         return $return;
     }
+      function insert_projek($data) {
+        $return = array();
+
+        try {
+            $this->db->select("l.id,u.email");
+            $this->db->where("u.email", $data['email']);
+            $this->db->join("s_user_login l ", "l.id_user=u.id", "inner");
+            $user = $this->db->get("m_user u")->row();
+            if (!empty($user)) {
+                    unset($data['email']);
+                    $data['id_user_login'] = $user->id;
+                    $data['id_kota'] = $data['kota'];
+                    unset($data['kota']);
+                    $data['id_provinsi'] = $data['provinsi'];
+                    unset($data['provinsi']);
+                    $data['status']='baru';
+                    $survey= $this->db->get("s_sistem")->row();
+                    $data['biaya_survey']=$survey->biaya_survey;
+                    $data['komisi_survey']=$survey->komisi_survey;
+                    $this->db->insert("m_projek", $data);
+                    $return["email"] = $user->email;
+                    $return["meta"] = array(
+                        "status_code" => 200,
+                        "status_message" => "sukses !",
+                        "success" => true
+                    );
+             
+            } else {
+                $return["meta"] = array(
+                    "status_code" => 500,
+                    "status_message" => "email belum terdaftar",
+                    "success" => false
+                );
+            }
+        } catch (Exception $e) {
+            $return["meta"] = array(
+                "status_code" => 500,
+                "status_message" => $e->getMessage(),
+                "success" => false
+            );
+        }
+
+        return $return;
+    }
 
 }

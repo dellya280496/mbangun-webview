@@ -96,5 +96,8 @@ class Ongkir_M extends CI_Model {
             return json_decode($response)->rajaongkir->results;
         }
     }
-
+    public function getJenisLayanan() {
+        return $this->db->get("m_jenis_layanan")->result();
+        
+    }
 }
