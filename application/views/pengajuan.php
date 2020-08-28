@@ -118,6 +118,10 @@ License: You must have a valid license purchased only from themeforest(the above
                                                         </li>
 
                                                     </ul>
+                                                    <!--                                                    <div id="progress" >
+                                                                                                            <img style="width:100%" src="/images/spinner.gif"/>
+                                                                                                            <a href="https://icon-library.net/icon/spinner-icon-gif-10.html" title="Spinner Icon Gif #49761"><img src="https://icon-library.net//images/spinner-icon-gif/spinner-icon-gif-10.jpg" width="350" /></a>
+                                                                                                        </div>-->
                                                     <div id="bar" class="progress progress-striped" role="progressbar">
                                                         <div class="progress-bar progress-bar-success"> </div>
                                                     </div>
@@ -127,7 +131,6 @@ License: You must have a valid license purchased only from themeforest(the above
                                                         <div class="alert alert-success display-none">
                                                             <button class="close" data-dismiss="alert"></button> Sukses menyimpan data </div>
                                                         <div class="tab-pane active" id="tab1">
-
                                                             <div class="form-group">
                                                                 <label class="control-label col-md-3">Email
                                                                     <!--<span class="required"> * </span>-->
@@ -328,13 +331,17 @@ License: You must have a valid license purchased only from themeforest(the above
         <script src="assets/global/scripts/app.min.js" type="text/javascript"></script>
         <!-- END THEME GLOBAL SCRIPTS -->
         <!-- BEGIN PAGE LEVEL SCRIPTS -->
-        <script src="assets/pages/scripts/form-wizard.js?v=2" type="text/javascript"></script>
+        <script src="assets/pages/scripts/form-wizard.js?v=3" type="text/javascript"></script>
         <!-- END PAGE LEVEL SCRIPTS -->
         <!-- BEGIN THEME LAYOUT SCRIPTS -->
         <script src="assets/layouts/layout/scripts/layout.min.js" type="text/javascript"></script>
         <script src="assets/layouts/layout/scripts/demo.min.js" type="text/javascript"></script>
         <script src="assets/layouts/global/scripts/quick-sidebar.min.js" type="text/javascript"></script>
         <script src="assets/layouts/global/scripts/quick-nav.min.js" type="text/javascript"></script>
+        <script src="assets/js/scripts.bundle.js" type="text/javascript"></script>
+
+        <script src="assets/js/blockui.js" type="text/javascript"></script>
+
         <!-- END THEME LAYOUT SCRIPTS -->
         <script>
             $(document).ready(function ()

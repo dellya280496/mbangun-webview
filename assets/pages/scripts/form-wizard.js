@@ -216,7 +216,12 @@ var FormWizard = function () {
             $('#form_wizard_1').find('.button-previous').hide();
             $('#form_wizard_1 .button-submit').click(function (e) {
 //                console.log("data e :",form)
-
+                mApp.blockPage({
+                    overlayColor: "#000000",
+                    type: "loader",
+                    state: "success",
+                    message: "Tunggu Sebentar..."
+                });
                 var formData = new FormData(form[0]);
                 e.preventDefault();
 
@@ -229,19 +234,22 @@ var FormWizard = function () {
                     contentType: false,
                     processData: false,
                     success: function (data) {
-                        if (data.meta.status_code === 200) {
 
+                        if (data.meta.status_code === 200) {
+                            mApp.unblockPage();
 //                            success.show();
 //                            error.hide();
-                            window.location.href = 'welcome/success/?email=' + data.email;
+                            window.location.href = 'welcome/success?email=' + data.email;
 //                             window.history.go(-1);
 //                            location.reload();
                         } else {
+                            mApp.unblockPage();
                             error.show();
                             success.hide();
                         }
                     },
                     fail: function (e) {
+                        mApp.unblockPage();
                         toastr.error(e);
                     }
                 });
