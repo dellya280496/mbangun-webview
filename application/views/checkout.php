@@ -57,7 +57,7 @@ License: You must have a valid license purchased only from themeforest(the above
 				<img src="assets/img/2910750.png" alt="Girl in a jacket" width="100%">
                 </div>
             </div>
-            <div class="col-md-12 page-500">
+            <div class="col-md-12">
                 <div class=" details">
 				<center>
 					<h2>Tunggu ...</h2>
