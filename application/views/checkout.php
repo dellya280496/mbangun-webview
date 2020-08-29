@@ -52,7 +52,7 @@ License: You must have a valid license purchased only from themeforest(the above
 					<center><h2>Silahkan Tunggu<h2></center>
                 </div>
             </div>
-            <div class="col-md-12 page-500" style="margin-top: 40%">
+            <div class="col-md-12 page-500" style="margin-top: 30%">
                 <div class=" details">
 				<img src="assets/img/2910750.png" alt="Girl in a jacket" width="100%">
                 </div>
