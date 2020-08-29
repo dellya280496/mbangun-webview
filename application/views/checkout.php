@@ -47,7 +47,7 @@ License: You must have a valid license purchased only from themeforest(the above
 
     <body class=" page-500-full-page">
 		<div class="row" style="justify-content: center;">
-		<div class="col-md-12 page-500">
+		<div class="col-md-12">
                 <div class=" details">
 					<center><h2>Silahkan Tunggu<h2></center>
                 </div>
