@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <?php
 header('Access-Control-Allow-Origin: *');
-header("Access-Control-Allow-Methods: GET, OPTIONS");?>
+header("Access-Control-Allow-Methods: GET, OPTIONS"); ?>
 <!-- 
 Template Name: Metronic - Responsive Admin Dashboard Template build with Twitter Bootstrap 3.3.7
 Version: 4.7.5
@@ -92,6 +92,7 @@ License: You must have a valid license purchased only from themeforest(the above
 	<!-- END THEME LAYOUT SCRIPTS -->
 	<script>
 		$(document).ready(function() {
+			getStatusTransaksi();
 			$('#clickmewow').click(function() {
 				$('#radio1003').attr('checked', 'checked');
 			});
@@ -101,22 +102,11 @@ License: You must have a valid license purchased only from themeforest(the above
 			var order_id = getUrlVars(); // ORDER-105-1598750272
 			$.ajax({
 				type: "GET",
-				url: "https://api.midtrans.com/v2/"+order_id[order_id]+"/status",
-				headers: {
-					'Authorization': 'Basic TWlkLXNlcnZlci1BRm5oenFPWlZaY2hQSVB5TkYzQ29xcUM6bV9CYW5ndW4yMDIw',
-					'Accept': 'application/json',
-					"Access-Control-Allow-Origin":"*",
-					"Access-Control-Allow-Headers": "Origin, X-Requested-With, Content-Type, Accept"
-
-				},
+				url: "<?=base_url()?>/checkout_sukses/getStatusTransaction?order_id=ORDER-105-1598750272",
 				crossDomain: true,
 				// dataType: "jsonp",
-				success: function(f) {
-					$("#kota").append('<option value="" selected>Pilih Kota... </option>');
-					Print.postMessage(JSON.stringify(f[0]));
-					$.each(f, function(bb) {
-						$("#kota").append('<option  value="' + f[bb].city_id + '">' + f[bb].city_name + '  </option>');
-					});
+				success: function(result) {
+					Print.postMessage(result);
 				}
 			});
 		}
