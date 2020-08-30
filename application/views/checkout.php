@@ -81,7 +81,7 @@
 			var order_id = getUrlVars(); // ORDER-105-1598750272
 			$.ajax({
 				type: "GET",
-				url: "<?= base_url() ?>/checkout_sukses/getStatusTransaction?order_id=" + order_id[order_id],
+				url: "<?= base_url() ?>/checkout_sukses/getStatusTransaction?order_id=" + order_id['order_id'],
 				crossDomain: true,
 				// dataType: "jsonp",
 				success: function(result) {
