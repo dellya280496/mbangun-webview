@@ -1,26 +1,5 @@
 <!DOCTYPE html>
-<?php
-header('Access-Control-Allow-Origin: *');
-header("Access-Control-Allow-Methods: GET, OPTIONS"); ?>
-<!-- 
-Template Name: Metronic - Responsive Admin Dashboard Template build with Twitter Bootstrap 3.3.7
-Version: 4.7.5
-Author: KeenThemes
-Website: http://www.keenthemes.com/
-Contact: support@keenthemes.com
-Follow: www.twitter.com/keenthemes
-Dribbble: www.dribbble.com/keenthemes
-Like: www.facebook.com/keenthemes
-Purchase: https://1.envato.market/EA4JP
-Renew Support: https://1.envato.market/EA4JP
-License: You must have a valid license purchased only from themeforest(the above link) in order to legally use the theme for your project.
--->
-<!--[if IE 8]> <html lang="en" class="ie8 no-js"> <![endif]-->
-<!--[if IE 9]> <html lang="en" class="ie9 no-js"> <![endif]-->
-<!--[if !IE]><!-->
 <html lang="en">
-<!--<![endif]-->
-<!-- BEGIN HEAD -->
 
 <head>
 	<meta charset="utf-8" />
@@ -102,7 +81,7 @@ License: You must have a valid license purchased only from themeforest(the above
 			var order_id = getUrlVars(); // ORDER-105-1598750272
 			$.ajax({
 				type: "GET",
-				url: "<?=base_url()?>/checkout_sukses/getStatusTransaction?order_id="+order_id[order_id],
+				url: "<?= base_url() ?>/checkout_sukses/getStatusTransaction?order_id=" + order_id[order_id],
 				crossDomain: true,
 				// dataType: "jsonp",
 				success: function(result) {
