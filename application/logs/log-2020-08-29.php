@@ -560,3 +560,53 @@ INFO - 2020-08-29 03:13:37 --> Controller Class Initialized
 INFO - 2020-08-29 03:13:37 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/checkout.php
 INFO - 2020-08-29 03:13:37 --> Final output sent to browser
 DEBUG - 2020-08-29 03:13:37 --> Total execution time: 0.4050
+INFO - 2020-08-29 04:08:10 --> Config Class Initialized
+INFO - 2020-08-29 04:08:10 --> Hooks Class Initialized
+DEBUG - 2020-08-29 04:08:10 --> UTF-8 Support Enabled
+INFO - 2020-08-29 04:08:10 --> Utf8 Class Initialized
+INFO - 2020-08-29 04:08:10 --> URI Class Initialized
+INFO - 2020-08-29 04:08:10 --> Router Class Initialized
+INFO - 2020-08-29 04:08:10 --> Output Class Initialized
+INFO - 2020-08-29 04:08:10 --> Security Class Initialized
+DEBUG - 2020-08-29 04:08:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-29 04:08:10 --> Input Class Initialized
+INFO - 2020-08-29 04:08:10 --> Language Class Initialized
+ERROR - 2020-08-29 04:08:10 --> 404 Page Not Found: Jenis_layanan/index
+INFO - 2020-08-29 04:08:13 --> Config Class Initialized
+INFO - 2020-08-29 04:08:13 --> Hooks Class Initialized
+DEBUG - 2020-08-29 04:08:13 --> UTF-8 Support Enabled
+INFO - 2020-08-29 04:08:13 --> Utf8 Class Initialized
+INFO - 2020-08-29 04:08:13 --> URI Class Initialized
+DEBUG - 2020-08-29 04:08:13 --> No URI present. Default controller set.
+INFO - 2020-08-29 04:08:13 --> Router Class Initialized
+INFO - 2020-08-29 04:08:13 --> Output Class Initialized
+INFO - 2020-08-29 04:08:13 --> Security Class Initialized
+DEBUG - 2020-08-29 04:08:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-29 04:08:13 --> Input Class Initialized
+INFO - 2020-08-29 04:08:13 --> Language Class Initialized
+INFO - 2020-08-29 04:08:13 --> Loader Class Initialized
+INFO - 2020-08-29 04:08:13 --> Helper loaded: url_helper
+INFO - 2020-08-29 04:08:13 --> Helper loaded: security_helper
+INFO - 2020-08-29 04:08:13 --> Helper loaded: string_helper
+INFO - 2020-08-29 04:08:13 --> Helper loaded: date_helper
+INFO - 2020-08-29 04:08:13 --> Helper loaded: encpass_helper
+INFO - 2020-08-29 04:08:13 --> Database Driver Class Initialized
+INFO - 2020-08-29 04:08:13 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-29 04:08:13 --> User Agent Class Initialized
+INFO - 2020-08-29 04:08:13 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-29 04:08:13 --> Pagination Class Initialized
+INFO - 2020-08-29 04:08:13 --> Email Class Initialized
+DEBUG - 2020-08-29 04:08:13 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-29 04:08:13 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-29 04:08:13 --> Encryption Class Initialized
+INFO - 2020-08-29 04:08:13 --> Controller Class Initialized
+INFO - 2020-08-29 04:08:13 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/header.php
+INFO - 2020-08-29 04:08:13 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/top_menu.php
+INFO - 2020-08-29 04:08:13 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/navbar.php
+INFO - 2020-08-29 04:08:13 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/menu.php
+INFO - 2020-08-29 04:08:13 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/breadcumb.php
+INFO - 2020-08-29 04:08:13 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/footer.php
+INFO - 2020-08-29 04:08:13 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/component/js.php
+INFO - 2020-08-29 04:08:13 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/welcome_message.php
+INFO - 2020-08-29 04:08:13 --> Final output sent to browser
+DEBUG - 2020-08-29 04:08:13 --> Total execution time: 0.5282
