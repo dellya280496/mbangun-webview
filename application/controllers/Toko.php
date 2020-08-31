@@ -92,7 +92,11 @@ class Toko extends BD_Controller {
         $this->response($response);
     }
  public function insert_projek_post() {
+        $date = new DateTime();
         $param = $_POST;
+        $param['no_order'] = $date->getTimestamp();
+        $survey = $this->db->get("s_sistem")->row();
+        $param['biaya_survey'] = $survey->biaya_survey;
         $error = FALSE;
         if (empty($_POST['nama'])) {
             $error = TRUE;
@@ -109,10 +113,10 @@ class Toko extends BD_Controller {
                 "success" => false
             );
         } else {
-            $response = $this->Toko_M->insert_projek($param);
+            // $response = $this->Toko_M->insert_projek($param);
         }
 
-        $this->response($response);
+        $this->response($param);
     }
     public function update_post() {
         $param = $_POST;

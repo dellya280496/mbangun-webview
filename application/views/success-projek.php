@@ -1,218 +1,83 @@
 <!DOCTYPE html>
 <html lang="en">
 
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+<head>
+    <meta charset="utf-8" />
+    <title>Metronic Admin Theme #1 | 500 Page Option 2</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,width=device-width,height=device-height,target-densitydpi=device-dpi,user-scalable=yes" />
+    <meta content="Preview page of Metronic Admin Theme #1 for 500 page option 2" name="description" />
+    <meta content="" name="author" />
+    <!-- BEGIN GLOBAL MANDATORY STYLES -->
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700&subset=all" rel="stylesheet" type="text/css" />
+    <link href="../assets//global/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+    <link href="../assets//global/plugins/simple-line-icons/simple-line-icons.min.css" rel="stylesheet" type="text/css" />
+    <link href="../assets//global/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="../assets//global/plugins/bootstrap-switch/css/bootstrap-switch.min.css" rel="stylesheet" type="text/css" />
+    <!-- END GLOBAL MANDATORY STYLES -->
+    <!-- BEGIN THEME GLOBAL STYLES -->
+    <link href="../assets//global/css/components.min.css" rel="stylesheet" id="style_components" type="text/css" />
+    <link href="../assets//global/css/plugins.min.css" rel="stylesheet" type="text/css" />
+    <!-- END THEME GLOBAL STYLES -->
+    <!-- BEGIN PAGE LEVEL STYLES -->
+    <link href="../assets//pages/css/error.min.css" rel="stylesheet" type="text/css" />
+    <!-- END PAGE LEVEL STYLES -->
+    <!-- BEGIN THEME LAYOUT STYLES -->
+    <!-- END THEME LAYOUT STYLES -->
+    <link rel="shortcut icon" href="favicon.ico" />
+</head>
+<!-- END HEAD -->
 
-        <title>500</title>
-
-        <!-- Google font -->
-        <link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet">
-
-        <!-- Custom stlylesheet -->
-        <!--<link type="text/css" rel="stylesheet" href="css/style.css" />-->
-
-        <style type="text/css">
-            * {
-                -webkit-box-sizing: border-box;
-                box-sizing: border-box;
-            }
-
-            body {
-                padding: 0;
-                margin: 0;
-            }
-
-            #notfound {
-                position: relative;
-                height: 100vh;
-                background: #f6f6f6;
-            }
-
-            #notfound .notfound {
-                position: absolute;
-                left: 50%;
-                top: 50%;
-                -webkit-transform: translate(-50%, -50%);
-                -ms-transform: translate(-50%, -50%);
-                transform: translate(-50%, -50%);
-            }
-
-            .notfound {
-                max-width: 767px;
-                width: 100%;
-                line-height: 1.4;
-                padding: 110px 40px;
-                text-align: center;
-                background: #fff;
-                -webkit-box-shadow: 0 15px 15px -10px rgba(0, 0, 0, 0.1);
-                box-shadow: 0 15px 15px -10px rgba(0, 0, 0, 0.1);
-            }
-
-            .notfound .notfound-404 {
-                position: relative;
-                height: 180px;
-            }
-
-            .notfound .notfound-404 h1 {
-                font-family: 'Roboto', sans-serif;
-                position: absolute;
-                left: 50%;
-                top: 50%;
-                -webkit-transform: translate(-50%, -50%);
-                -ms-transform: translate(-50%, -50%);
-                transform: translate(-50%, -50%);
-                font-size: 100px;
-                font-weight: 700;
-                margin: 0px;
-                color: #262626;
-                text-transform: uppercase;
-            }
-
-            .notfound .notfound-404 h1>span {
-                color: #00b7ff;
-            }
-
-            .notfound h2 {
-                font-family: 'Roboto', sans-serif;
-                font-size: 22px;
-                font-weight: 400;
-                text-transform: uppercase;
-                color: #151515;
-                margin-top: 0px;
-                margin-bottom: 25px;
-            }
-
-            .notfound .notfound-search {
-                position: relative;
-                max-width: 320px;
-                width: 100%;
-                margin: auto;
-            }
-
-            .notfound .notfound-search>input {
-                font-family: 'Roboto', sans-serif;
-                width: 100%;
-                height: 50px;
-                padding: 3px 65px 3px 30px;
-                color: #151515;
-                font-size: 16px;
-                background: transparent;
-                border: 2px solid #c5c5c5;
-                border-radius: 40px;
-                -webkit-transition: 0.2s all;
-                transition: 0.2s all;
-            }
-
-            .notfound .notfound-search>input:focus {
-                border-color: #00b7ff;
-            }
-
-            .notfound .notfound-search>button {
-                position: absolute;
-                right: 15px;
-                top: 5px;
-                width: 40px;
-                height: 40px;
-                text-align: center;
-                border: none;
-                background: transparent;
-                padding: 0;
-                cursor: pointer;
-            }
-
-            .notfound .notfound-search>button>span {
-                width: 15px;
-                height: 15px;
-                position: absolute;
-                left: 50%;
-                top: 50%;
-                -webkit-transform: translate(-50%, -50%) rotate(-45deg);
-                -ms-transform: translate(-50%, -50%) rotate(-45deg);
-                transform: translate(-50%, -50%) rotate(-45deg);
-                margin-left: -3px;
-            }
-
-            .notfound .notfound-search>button>span:after {
-                position: absolute;
-                content: '';
-                width: 10px;
-                height: 10px;
-                left: 0px;
-                top: 0px;
-                border-radius: 50%;
-                border: 4px solid #c5c5c5;
-                -webkit-transition: 0.2s all;
-                transition: 0.2s all;
-            }
-
-            .notfound-search>button>span:before {
-                position: absolute;
-                content: '';
-                width: 4px;
-                height: 10px;
-                left: 7px;
-                top: 17px;
-                border-radius: 2px;
-                background: #c5c5c5;
-                -webkit-transition: 0.2s all;
-                transition: 0.2s all;
-            }
-
-            .notfound .notfound-search>button:hover>span:after {
-                border-color: #00b7ff;
-            }
-
-            .notfound .notfound-search>button:hover>span:before {
-                background-color: #00b7ff;
-            }
-
-            @media only screen and (max-width: 767px) {
-                .notfound h2 {
-                    font-size: 18px;
-                }
-            }
-
-            @media only screen and (max-width: 480px) {
-                .notfound .notfound-404 h1 {
-                    font-size: 70px;
-                }
-            }
-
-        </style>
-        <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-        <!--[if lt IE 9]>
-                  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-                  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-                <![endif]-->
-
-    </head>
-
-    <body>
-        <div id="notfound">
-            <div class="notfound">
-                <div class="notfound-404">
-                    <h1><span>Sukses</span></h1>
-                </div>
-                <h2>Projek Berhasil ditambahkan.<br>Kembali ke APP untuk melihat detail</h2>
-                <!--                <form class="notfound-search">
-                                    <input type="text" placeholder="Search...">
-                                    <button type="button"><span></span></button>
-                                </form>-->
+<body class=" page-500-full-page">
+    <div class="row" style="justify-content: center;padding-left: 20px;padding-right: 20px;">
+        <div class="col-md-12 page-500" style="margin-top: 25%">
+            <div class=" details">
+                <img src="../assets//img/etalase.png" alt="Girl in a jacket" width="70%">
             </div>
         </div>
-
-    </body><!-- This templates was made by Colorlib (https://colorlib.com) -->
-     <script src="assets/global/plugins/jquery.min.js" type="text/javascript"></script>
-       
-    <script type="text/javascript">
-        $(document).ready(function () {
-//            window.location.replace(window.location.hash);
-
+        <div class="col-md-12">
+            <div class=" details">
+                <center>
+                    <h3>Pengajuan anda berhasilter</h3>
+                    <p style="color: #afadad;">Klik lanjutkan untuk memproses pengajuan anda</p>
+                </center>
+            </div>
+        </div>
+        <div class="col-md-12">
+            <div class=" details">
+                <center>
+                    <button onclick="kelolaToko()" class="btn btn-success">Lanjutkan</button>
+                </center>
+            </div>
+        </div>
+    </div>
+    <!--[if lt IE 9]>
+<script src="../assets//global/plugins/respond.min.js"></script>
+<script src="../assets//global/plugins/excanvas.min.js"></script> 
+<script src="../assets//global/plugins/ie8.fix.min.js"></script> 
+<![endif]-->
+    <!-- BEGIN CORE PLUGINS -->
+    <script src="../assets//global/plugins/jquery.min.js" type="text/javascript"></script>
+    <script src="../assets//global/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="../assets//global/plugins/js.cookie.min.js" type="text/javascript"></script>
+    <script src="../assets//global/plugins/jquery-slimscroll/jquery.slimscroll.min.js" type="text/javascript"></script>
+    <script src="../assets//global/plugins/jquery.blockui.min.js" type="text/javascript"></script>
+    <script src="../assets//global/plugins/bootstrap-switch/js/bootstrap-switch.min.js" type="text/javascript"></script>
+    <!-- END CORE PLUGINS -->
+    <!-- BEGIN THEME GLOBAL SCRIPTS -->
+    <script src="../assets//global/scripts/app.min.js" type="text/javascript"></script>
+    <!-- END THEME GLOBAL SCRIPTS -->
+    <!-- BEGIN THEME LAYOUT SCRIPTS -->
+    <!-- END THEME LAYOUT SCRIPTS -->
+    <script>
+        $(document).ready(function() {
         });
+
+        function kelolaToko() {
+            Print.postMessage('kelolaToko');
+        }
     </script>
+</body>
+
+
 </html>
