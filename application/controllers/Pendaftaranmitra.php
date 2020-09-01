@@ -22,6 +22,7 @@ class Pendaftaranmitra extends CI_Controller {
             $data['message'] = "Email belum terdaftar";
             $this->load->view('errors/html/error_404', $data);
         } else {
+            $data['jenis_layanan'] = $this->Ongkir_M->getJenisLayanan();
             $data['provinces'] = $this->Ongkir_M->getProvince();
             $this->load->view('pendaftaran_mitra', $data);
         }

@@ -34,6 +34,9 @@ License: You must have a valid license purchased only from themeforest(the above
         <link href="assets/global/plugins/bootstrap-switch/css/bootstrap-switch.min.css" rel="stylesheet" type="text/css" />
         <!-- END GLOBAL MANDATORY STYLES -->
         <!-- BEGIN PAGE LEVEL PLUGINS -->
+        <link href="assets/global/plugins/bootstrap-select/css/bootstrap-select.css" rel="stylesheet" type="text/css" />
+        <link href="assets/global/plugins/jquery-multi-select/css/multi-select.css" rel="stylesheet" type="text/css" />
+
         <link href="assets/global/plugins/select2/css/select2.min.css" rel="stylesheet" type="text/css" />
         <link href="assets/global/plugins/select2/css/select2-bootstrap.min.css" rel="stylesheet" type="text/css" />
         <!-- END PAGE LEVEL PLUGINS -->
@@ -142,6 +145,38 @@ License: You must have a valid license purchased only from themeforest(the above
                                                                 </div>
                                                             </div>
                                                             <div class="form-group">
+                                                                <label class="control-label col-md-3">Keahlian
+                                                                </label>
+                                                                <div class="col-md-4">
+                                                                    <select multiple="multiple" class="multi-select" id="my_multi_select1" name="my_multi_select1[]">
+                                                                         <?php foreach ($jenis_layanan as $item): ?>
+                                                                        <option value="<?php echo $item->id ?>"><?php echo $item->nama ?></option>
+                                                                         <?php endforeach; ?>
+<!--                                                                        <option>New York Giants</option>
+                                                                        <option selected>Philadelphia Eagles</option>
+                                                                        <option selected>Washington Redskins</option>
+                                                                        <option>Chicago Bears</option>
+                                                                        <option>Detroit Lions</option>
+                                                                        <option>Green Bay Packers</option>
+                                                                        <option>Minnesota Vikings</option>
+                                                                        <option selected>Atlanta Falcons</option>
+                                                                        <option>Carolina Panthers</option>
+                                                                        <option>New Orleans Saints</option>
+                                                                        <option>Tampa Bay Buccaneers</option>
+                                                                        <option>Arizona Cardinals</option>
+                                                                        <option>St. Louis Rams</option>
+                                                                        <option>San Francisco 49ers</option>
+                                                                        <option>Seattle Seahawks</option>-->
+                                                                    </select>
+            <!--                                                                <select name="jenis_layanan"  id="jenis_layanan"  class="form-control" required>
+                                                                                    <option value="" selected>Pilih Keahlian...</option>
+                                                                    <?php foreach ($jenis_layanan as $item): ?>
+                                                                                            <option value="<?php echo $item->id ?>"><?php echo html_escape($item->nama); ?></option>
+                                                                    <?php endforeach; ?>
+                                                                            </select>-->
+                                                                </div>
+                                                            </div>
+                                                            <div class="form-group">
                                                                 <label class="control-label col-md-3">Nomor KTP
                                                                     <span class="required"> * </span>
                                                                 </label>
@@ -206,7 +241,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                                     <span class="required"> * </span>
                                                                 </label>
                                                                 <div class="col-md-4">
-                                                                   <textarea class="form-control"  id="tempat_lahir" name="tempat_lahir" required></textarea>
+                                                                    <textarea class="form-control"  id="tempat_lahir" name="tempat_lahir" required></textarea>
                                                                 </div>
                                                             </div>
 
@@ -215,7 +250,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                                     <span class="required"> * </span>
                                                                 </label>
                                                                 <div class="col-md-4">
-                                                                   <input type="text" name="password" id="password" class="form-control" required/>
+                                                                    <input type="text" name="password" id="password" class="form-control" required/>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -276,7 +311,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                         </div>
                                                         <div class="tab-pane" id="tab3">
 
-                                                        <div class="form-group">
+                                                            <div class="form-group">
                                                                 <label class="control-label col-md-3">Jenis Mitra
                                                                 </label>
                                                                 <div class="col-md-4">
@@ -289,6 +324,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                                     </select>
                                                                 </div>
                                                             </div>
+
                                                             <div class="form-group">
                                                                 <label class="control-label col-md-3">No SIUP
                                                                 </label>
@@ -315,8 +351,8 @@ License: You must have a valid license purchased only from themeforest(the above
                                                                 <label class="control-label col-md-3">Pengalaman Kerja
                                                                 </label>
                                                                 <div class="col-md-4">
-                                                                <textarea id="pengalaman_kerja" name="pengalaman_kerja" class="form-control" placeholder="ceritakan pengalaman kerja anda"></textarea>
-                                                                    </div>
+                                                                    <textarea id="pengalaman_kerja" name="pengalaman_kerja" class="form-control" placeholder="ceritakan pengalaman kerja anda"></textarea>
+                                                                </div>
                                                             </div>
                                                             <div class="form-group">
                                                                 <label class="control-label col-md-3">Alamat Pemilik
@@ -339,7 +375,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                                     <input type="file" class="form-control" name="foto_npwp"  id="foto_npwp" />
                                                                 </div>
                                                             </div>
-                                                            
+
 
 
 
@@ -401,6 +437,9 @@ License: You must have a valid license purchased only from themeforest(the above
         <script src="assets/global/plugins/bootstrap-switch/js/bootstrap-switch.min.js" type="text/javascript"></script>
         <!-- END CORE PLUGINS -->
         <!-- BEGIN PAGE LEVEL PLUGINS -->
+        <script src="assets/global/plugins/bootstrap-select/js/bootstrap-select.min.js" type="text/javascript"></script>
+        <script src="assets/global/plugins/jquery-multi-select/js/jquery.multi-select.js" type="text/javascript"></script>
+
         <script src="assets/global/plugins/select2/js/select2.full.min.js" type="text/javascript"></script>
         <script src="assets/global/plugins/jquery-validation/js/jquery.validate.min.js" type="text/javascript"></script>
         <script src="assets/global/plugins/jquery-validation/js/additional-methods.min.js" type="text/javascript"></script>
@@ -408,6 +447,8 @@ License: You must have a valid license purchased only from themeforest(the above
         <!-- END PAGE LEVEL PLUGINS -->
         <!-- BEGIN THEME GLOBAL SCRIPTS -->
         <script src="assets/global/scripts/app.min.js" type="text/javascript"></script>
+        <script src="assets/pages/scripts/components-multi-select.min.js" type="text/javascript"></script>
+
         <!-- END THEME GLOBAL SCRIPTS -->
         <!-- BEGIN PAGE LEVEL SCRIPTS -->
         <script src="assets/pages/scripts/form-wizard-mitra.js?v=3" type="text/javascript"></script>
