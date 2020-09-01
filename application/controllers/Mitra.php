@@ -63,18 +63,8 @@ class Mitra extends BD_Controller {
             $error = TRUE;
             $message = 'email tidak boleh kosong !';
         };
-        $jenis_layanan=$param['my_multi_select1'];
+         $jenis_layanan=$param['my_multi_select1'];
         unset($param['my_multi_select1']);
-         $param['jenis_layanan']="";
-        if (isset($jenis_layanan)) {
-            for ($i = 0; $i < count($jenis_layanan); $i++) {
-                if ($i == (count($jenis_layanan) - 1)) {
-                    $param['jenis_layanan'] .= $jenis_layanan[$i];
-                } else {
-                     $param['jenis_layanan'] .= $jenis_layanan[$i] . ',';
-                }
-            }
-        }
         
         
         $config['upload_path'] = "./assets/img/toko";
@@ -111,7 +101,7 @@ class Mitra extends BD_Controller {
                 "success" => false
             );
         } else {
-            $response = $this->Mitra_M->insert($param);
+            $response = $this->Mitra_M->insert($param,$jenis_layanan);
         }
 
         $this->response($response);
