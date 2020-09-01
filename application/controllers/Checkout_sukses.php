@@ -9,7 +9,7 @@ class Checkout_sukses extends CI_Controller
     {
         parent::__construct();
         //        $this->auth();
-        $params = array('server_key' => 'Mid-server-AFnhzqOZVZchPIPyNF3CoqqC', 'production' => true);
+        $params = array('server_key' => 'SB-Mid-server-wVejkOBosYfbSPkpUxPQVyJL', 'production' => false);
         $this->load->library('veritrans');
         $this->veritrans->config($params);
         $this->load->helper('url');
