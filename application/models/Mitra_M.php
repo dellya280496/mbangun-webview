@@ -15,7 +15,7 @@ class Mitra_M extends CI_Model {
     function insert($data, $jenis_layanan) {
         $return = array();
         $user = array(
-            "foto" => $data['foto'],
+            "foto" => $data['foto'] == null ? '' : $data['foto']    ,
             "password" => $this->EncryptPasswd($data['password']),
             "username" => $data['email'],
             "id_google" => $data['id_google'],

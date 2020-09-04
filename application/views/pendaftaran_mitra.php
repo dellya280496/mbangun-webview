@@ -195,7 +195,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                                 <label class="control-label col-md-3">Foto
                                                                 </label>
                                                                 <div class="col-md-4">
-                                                                    <input type="file" class="form-control" name="foto"  id="foto" />
+                                                                    <input type="file" class="form-control" name="foto"  id="foto" required/>
                                                                 </div>
                                                             </div>
                                                             <div class="form-group">

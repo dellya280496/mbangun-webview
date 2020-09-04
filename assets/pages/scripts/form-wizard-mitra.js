@@ -218,6 +218,7 @@ var FormWizard = function () {
                     contentType: false,
                     processData: false,
                     success: function (data) {
+                        console.log(data);
                         Print.postMessage(JSON.stringify(data).toString());
 
 //                         if (data.meta.status_code === 200) {
