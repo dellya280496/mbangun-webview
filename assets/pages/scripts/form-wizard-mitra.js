@@ -83,19 +83,19 @@ var FormWizard = function () {
 
                 highlight: function (element) { // hightlight error inputs
                     $(element)
-                            .closest('.form-group').removeClass('has-success').addClass('has-error'); // set error class to the control group
+                        .closest('.form-group').removeClass('has-success').addClass('has-error'); // set error class to the control group
                 },
 
                 unhighlight: function (element) { // revert the change done by hightlight
                     $(element)
-                            .closest('.form-group').removeClass('has-error'); // set error class to the control group
+                        .closest('.form-group').removeClass('has-error'); // set error class to the control group
                 },
 
                 success: function (label) {
                     // display success icon for other inputs
                     label
-                            .addClass('valid') // mark the current input as valid and display OK icon
-                            .closest('.form-group').removeClass('has-error').addClass('has-success'); // set success class to the control group
+                        .addClass('valid') // mark the current input as valid and display OK icon
+                        .closest('.form-group').removeClass('has-error').addClass('has-success'); // set success class to the control group
 
                 },
 
@@ -148,7 +148,7 @@ var FormWizard = function () {
                 if (current >= total) {
                     $('#form_wizard_1').find('.button-next').hide();
                     $('#form_wizard_1').find('.button-submit').show();
-//                    displayConfirm();
+                    //                    displayConfirm();
                 } else {
                     $('#form_wizard_1').find('.button-next').show();
                     $('#form_wizard_1').find('.button-submit').hide();
@@ -199,7 +199,7 @@ var FormWizard = function () {
 
             $('#form_wizard_1').find('.button-previous').hide();
             $('#form_wizard_1 .button-submit').click(function (e) {
-//                console.log("data e :",form)
+                //                console.log("data e :",form)
                 mApp.blockPage({
                     overlayColor: "#000000",
                     type: "loader",
@@ -218,21 +218,20 @@ var FormWizard = function () {
                     contentType: false,
                     processData: false,
                     success: function (data) {
-                        console.log(data);
-                        Print.postMessage(JSON.stringify(data).toString());
+                        Print.postMessage(JSON.stringify(data));
 
-//                         if (data.meta.status_code === 200) {
-                            mApp.unblockPage();
-// //                            success.show();
-// //                            error.hide();
-//                             window.location.href = 'welcome/success?email=' + data.email;
-// //                             window.history.go(-1);
-// //                            location.reload();
-//                         } else {
-//                             mApp.unblockPage();
-//                             error.show();
-//                             success.hide();
-//                         }
+                        //                         if (data.meta.status_code === 200) {
+                        // mApp.unblockPage();
+                        // //                            success.show();
+                        // //                            error.hide();
+                        //                             window.location.href = 'welcome/success?email=' + data.email;
+                        // //                             window.history.go(-1);
+                        // //                            location.reload();
+                        //                         } else {
+                        //                             mApp.unblockPage();
+                        //                             error.show();
+                        //                             success.hide();
+                        //                         }
                     },
                     fail: function (e) {
                         mApp.unblockPage();
