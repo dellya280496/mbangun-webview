@@ -1,6 +1,6 @@
 <style>
     @page {
-        margin: 1.5cm;
+        margin: 2.0cm;
         text-align: justify,
     }
 
@@ -59,23 +59,19 @@
     NILAI KERJASAMA
     </br>
 </center>
-
 <p>
     <?= strtoupper($kontrak['data']->nama) ?> dengan nilai Total <label style="font-weight: bold;">Rp <?= number_format($kontrak['data']->budget) ?></label>.
     <br>dengan spesifikasi : <?= $kontrak['data']->deskripsi_proyek ?></br>
 </p>
-
 <center style="font-weight: bold;">
     <label>PASAL 3</label>
     <br>
     CARA PEMBAYARAN
     </br>
 </center>
-
-
 <p>
-    Jumlah termin pembayaran <?= $kontrak['data']->termin ?> Kali dalam waktu pengerjaan <?= $kontrak['data']->waktu_pengerjaan ?> Hari dihitung dari per tanggal <?= date("d M Y") ?>.
-    <?= $kontrak['data']->termin3 ?>
+    Jumlah termin pembayaran <label style="font-weight: bold;"><?= $kontrak['data']->termin ?></label> kali dalam waktu pengerjaan<label style="font-weight: bold;">
+    <?= $kontrak['data']->waktu_pengerjaan ?></label> Hari dihitung dari per tanggal <label style="font-weight: bold;"><?= date("d M Y") ?></label>.
     <center>
         <table style="width: 100%;" border="1">
             <tr>
@@ -118,7 +114,7 @@
     </center>
 </p>
 
-<p>Surabaya, <?= date("d M Y") ?></p>
+<p>Surabaya, <?= date("d M Y") ?>.</p>
 
 
 <table style="width:100%">
