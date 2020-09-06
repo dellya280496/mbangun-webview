@@ -51,7 +51,7 @@ class Kontrak extends CI_Controller
         $this->pdf->filename = "kontrak.pdf";
         $this->pdf->load_view('kontrak', $data);
 
-        // $this->load->view('kontrak');
+        // $this->load->view('kontrak',$data);
         // return json_encode($notif);
     }
 
