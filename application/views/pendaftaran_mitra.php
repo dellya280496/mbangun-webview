@@ -144,38 +144,7 @@ License: You must have a valid license purchased only from themeforest(the above
 
                                                                 </div>
                                                             </div>
-                                                            <div class="form-group">
-                                                                <label class="control-label col-md-3">Keahlian
-                                                                </label>
-                                                                <div class="col-md-4">
-                                                                    <select multiple="multiple" class="multi-select" id="my_multi_select1" name="my_multi_select1[]">
-                                                                         <?php foreach ($jenis_layanan as $item): ?>
-                                                                        <option value="<?php echo $item->id ?>"><?php echo $item->nama ?></option>
-                                                                         <?php endforeach; ?>
-<!--                                                                        <option>New York Giants</option>
-                                                                        <option selected>Philadelphia Eagles</option>
-                                                                        <option selected>Washington Redskins</option>
-                                                                        <option>Chicago Bears</option>
-                                                                        <option>Detroit Lions</option>
-                                                                        <option>Green Bay Packers</option>
-                                                                        <option>Minnesota Vikings</option>
-                                                                        <option selected>Atlanta Falcons</option>
-                                                                        <option>Carolina Panthers</option>
-                                                                        <option>New Orleans Saints</option>
-                                                                        <option>Tampa Bay Buccaneers</option>
-                                                                        <option>Arizona Cardinals</option>
-                                                                        <option>St. Louis Rams</option>
-                                                                        <option>San Francisco 49ers</option>
-                                                                        <option>Seattle Seahawks</option>-->
-                                                                    </select>
-            <!--                                                                <select name="jenis_layanan"  id="jenis_layanan"  class="form-control" required>
-                                                                                    <option value="" selected>Pilih Keahlian...</option>
-                                                                    <?php foreach ($jenis_layanan as $item): ?>
-                                                                                            <option value="<?php echo $item->id ?>"><?php echo html_escape($item->nama); ?></option>
-                                                                    <?php endforeach; ?>
-                                                                            </select>-->
-                                                                </div>
-                                                            </div>
+
                                                             <div class="form-group">
                                                                 <label class="control-label col-md-3">Nomor KTP
                                                                     <span class="required"> * </span>
@@ -316,30 +285,42 @@ License: You must have a valid license purchased only from themeforest(the above
                                                                 </label>
                                                                 <div class="col-md-4">
                                                                     <select name="jenis_mitra" id="jenis_mitra" class="form-control" >
-                                                                        <option value="perorangan" selected>Perorangan</option>
-                                                                        <option value="ud" selected>UD</option>
-                                                                        <option value="cv" selected>CV</option>
-                                                                        <option value="pt" selected>PT</option>
+                                                                        
+                                                                        <option value="">Pilih Jenis Mitra...</option>
+                                                                        <option value="perorangan">Perorangan</option>
+                                                                        <option value="ud" >UD</option>
+                                                                        <option value="cv" >CV</option>
+                                                                        <option value="pt" >PT</option>
 
                                                                     </select>
                                                                 </div>
                                                             </div>
-
                                                             <div class="form-group">
+                                                                <label class="control-label col-md-3">Keahlian
+                                                                </label>
+                                                                <div class="col-md-4">
+                                                                    <select multiple="multiple" class="multi-select" id="my_multi_select1" name="my_multi_select1[]">
+                                                                        <?php foreach ($jenis_layanan as $item): ?>
+                                                                            <option value="<?php echo $item->id ?>"><?php echo $item->nama ?></option>
+                                                                        <?php endforeach; ?>
+                                                                    </select>
+                                                                </div>
+                                                            </div>
+                                                            <div class="form-group" id="1">
                                                                 <label class="control-label col-md-3">No SIUP
                                                                 </label>
                                                                 <div class="col-md-4">
                                                                     <input type="text" class="form-control" name="no_siup"  id="no_siup" />
                                                                 </div>
                                                             </div>
-                                                            <div class="form-group">
+                                                            <div class="form-group" id="2">
                                                                 <label class="control-label col-md-3">Foto SIUP
                                                                 </label>
                                                                 <div class="col-md-4">
                                                                     <input type="file" class="form-control" name="foto_siup"  id="foto_siup" />
                                                                 </div>
                                                             </div>
-                                                            <div class="form-group">
+                                                            <div class="form-group" id="3">
                                                                 <label class="control-label col-md-3">Nama Pemilik
                                                                 </label>
                                                                 <div class="col-md-4">
@@ -347,18 +328,19 @@ License: You must have a valid license purchased only from themeforest(the above
                                                                 </div>
                                                             </div>
 
+                                                            
+                                                            <div class="form-group" id="4">
+                                                                <label class="control-label col-md-3">Alamat Pemilik
+                                                                </label>
+                                                                <div class="col-md-4">
+                                                                    <input type="text" class="form-control" name="alamat_pemilik"  id="alamat_pemilik" />
+                                                                </div>
+                                                            </div>
                                                             <div class="form-group">
                                                                 <label class="control-label col-md-3">Pengalaman Kerja
                                                                 </label>
                                                                 <div class="col-md-4">
                                                                     <textarea id="pengalaman_kerja" name="pengalaman_kerja" class="form-control" placeholder="ceritakan pengalaman kerja anda"></textarea>
-                                                                </div>
-                                                            </div>
-                                                            <div class="form-group">
-                                                                <label class="control-label col-md-3">Alamat Pemilik
-                                                                </label>
-                                                                <div class="col-md-4">
-                                                                    <input type="text" class="form-control" name="alamat_pemilik"  id="alamat_pemilik" />
                                                                 </div>
                                                             </div>
                                                             <div class="form-group">
@@ -375,10 +357,6 @@ License: You must have a valid license purchased only from themeforest(the above
                                                                     <input type="file" class="form-control" name="foto_npwp"  id="foto_npwp" />
                                                                 </div>
                                                             </div>
-
-
-
-
                                                         </div>
 
                                                     </div>
@@ -466,6 +444,22 @@ License: You must have a valid license purchased only from themeforest(the above
         <script>
             $(document).ready(function ()
             {
+                
+                $("#jenis_mitra").on("change", function (event) {
+                    var jenis=$("#jenis_mitra").val();
+                    if(jenis=='perorangan'){
+                       $("#1").hide();
+                       $("#2").hide();
+                       $("#3").hide();
+                       $("#4").hide();
+                    }else{
+                       $("#1").show();
+                       $("#2").show();
+                       $("#3").show();
+                       $("#4").show();
+                    }
+                    
+                });
                 $('#clickmewow').click(function ()
                 {
                     $('#radio1003').attr('checked', 'checked');
