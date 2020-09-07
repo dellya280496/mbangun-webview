@@ -114,7 +114,7 @@
     </center>
 </p>
 
-<p>Surabaya, <?= date("d M Y") ?>.</p>
+<p>Surabaya, <?= date("d M Y") ?></p>
 
 
 <table style="width:100%">
