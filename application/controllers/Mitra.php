@@ -1,20 +1,24 @@
 <?php
 
-defined('BASEPATH') OR exit('No direct script access allowed');
+defined('BASEPATH') or exit('No direct script access allowed');
 
-class Mitra extends BD_Controller {
+class Mitra extends BD_Controller
+{
 
-    function __construct() {
+    function __construct()
+    {
         parent::__construct();
         $this->load->model('Mitra_M');
-//        $this->auth();
+        //        $this->auth();
     }
 
-    public function index() {
+    public function index()
+    {
         echo json_encode("ok");
     }
 
-    public function getAllByParam_get() {
+    public function getAllByParam_get()
+    {
         $param = $_GET;
         $query_array = array();
 
@@ -33,7 +37,8 @@ class Mitra extends BD_Controller {
         echo json_encode($data);
     }
 
-    public function getOfficialStore_get() {
+    public function getOfficialStore_get()
+    {
         $param = $_GET;
         $query_array = array();
 
@@ -52,7 +57,8 @@ class Mitra extends BD_Controller {
         echo json_encode($data);
     }
 
-    public function insert_post() {
+    public function insert_post()
+    {
         $param = $_POST;
         $error = FALSE;
         if (empty($_POST['nama'])) {
@@ -63,14 +69,21 @@ class Mitra extends BD_Controller {
             $error = TRUE;
             $message = 'email tidak boleh kosong !';
         };
-         $jenis_layanan=$param['my_multi_select1'];
+        $jenis_layanan = $param['my_multi_select1'];
         unset($param['my_multi_select1']);
-        
-        
+
+
         $config['upload_path'] = "./assets/img/toko";
         $config['allowed_types'] = 'jpeg|jpg|png';
         $config['encrypt_name'] = TRUE;
-        $config['max_size'] = 1024;
+        $config['create_thumb'] = FALSE;
+        $config['maintain_ratio'] = FALSE;
+        $config['quality'] = '60%';
+        $config['width'] = 200;
+        $config['height'] = 200;
+        $config['image_library'] = 'gd2';
+        $this->load->library('image_lib', $config);
+        $this->image_lib->resize();
 
         $this->load->library('upload', $config);
         $foto_ktp = null;
@@ -78,7 +91,7 @@ class Mitra extends BD_Controller {
             $data = array('upload_foto' => $this->upload->data());
             $param['foto_ktp'] = $data['upload_foto']['file_name'];
         }
-        $foto_npwp= null;
+        $foto_npwp = null;
         if ($this->upload->do_upload("foto_npwp")) {
             $data = array('upload_foto' => $this->upload->data());
             $param['foto_npwp'] = $data['upload_foto']['file_name'];
@@ -101,12 +114,13 @@ class Mitra extends BD_Controller {
                 "success" => false
             );
         } else {
-            $response = $this->Mitra_M->insert($param,$jenis_layanan);
+            $response = $this->Mitra_M->insert($param, $jenis_layanan);
         }
 
         $this->response($response);
     }
- public function insert_projek_post() {
+    public function insert_projek_post()
+    {
         $date = new DateTime();
         $param = $_POST;
         $param['no_order'] = $date->getTimestamp();
@@ -133,7 +147,8 @@ class Mitra extends BD_Controller {
 
         $this->response($param);
     }
-    public function update_post() {
+    public function update_post()
+    {
         $param = $_POST;
         $error = FALSE;
         if (empty($_POST['id'])) {
@@ -158,7 +173,8 @@ class Mitra extends BD_Controller {
         $this->response($response);
     }
 
-    public function delete_post() {
+    public function delete_post()
+    {
         $error = FALSE;
         if (empty($_POST['id'])) {
             $error = TRUE;
@@ -180,5 +196,4 @@ class Mitra extends BD_Controller {
 
         $this->response($response);
     }
-
 }
