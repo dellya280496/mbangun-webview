@@ -302,7 +302,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                                         <label class="control-label col-md-3">Keahlian
                                                                         </label>
                                                                         <div class="col-md-4">
-                                                                            <select multiple="multiple" class="multi-select" id="my_multi_select1" name="my_multi_select1[]">
+                                                                            <select multiple="multiple" class="multi-select" id="my_multi_select1" name="my_multi_select1[]" required="true">
                                                                                 <?php foreach ($jenis_layanan as $item): ?>
                                                                                     <option value="<?php echo $item->id ?>"><?php echo $item->nama ?></option>
                                                                                 <?php endforeach; ?>
