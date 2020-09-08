@@ -52,6 +52,10 @@ var FormWizard = function () {
                         required: true
 
                     },
+                    my_multi_select1:{
+                        required: true
+                        
+                    },
                     kota: {
                         required: true
 
@@ -100,6 +104,7 @@ var FormWizard = function () {
                 },
 
                 submitHandler: function (form) {
+//                    console.log("ini ke submit");
                     form[0].submit();
                 }
 
@@ -199,6 +204,7 @@ var FormWizard = function () {
 
             $('#form_wizard_1').find('.button-previous').hide();
             $('#form_wizard_1 .button-submit').click(function (e) {
+                
                 //                console.log("data e :",form)
                 mApp.blockPage({
                     overlayColor: "#000000",
@@ -219,19 +225,6 @@ var FormWizard = function () {
                     processData: false,
                     success: function (data) {
                         Print.postMessage(JSON.stringify(data));
-
-                        //                         if (data.meta.status_code === 200) {
-                        // mApp.unblockPage();
-                        // //                            success.show();
-                        // //                            error.hide();
-                        //                             window.location.href = 'welcome/success?email=' + data.email;
-                        // //                             window.history.go(-1);
-                        // //                            location.reload();
-                        //                         } else {
-                        //                             mApp.unblockPage();
-                        //                             error.show();
-                        //                             success.hide();
-                        //                         }
                     },
                     fail: function (e) {
                         mApp.unblockPage();
