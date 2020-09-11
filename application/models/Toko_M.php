@@ -195,8 +195,8 @@ class Toko_M extends CI_Model
                 $data['id_provinsi'] = $data['provinsi'];
                 unset($data['provinsi']);
                 $data['status'] = 'baru';
-                $data['no_invoice'] = $data['no_invoice'];
-                $data['token_va'] = $data['token_va'];
+//                $data['no_invoice'] = $data['no_invoice'];
+//                $data['token_va'] = $data['token_va'];
                 $survey = $this->db->get("s_sistem")->row();
                 $data['biaya_survey'] = $survey->biaya_survey;
                 $data['komisi_survey'] = $survey->komisi_survey;
@@ -205,7 +205,6 @@ class Toko_M extends CI_Model
                 $return["meta"] = array(
                     "status_code" => 200,
                     "status_message" => "sukses !",
-                    "no_invoice" => $data['no_invoice'],
                     "success" => true
                 );
             } else {

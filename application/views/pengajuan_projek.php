@@ -144,6 +144,15 @@ License: You must have a valid license purchased only from themeforest(the above
                                                                 </div>
                                                             </div>
                                                             <div class="form-group">
+                                                                <label class="control-label col-md-3">Budget
+                                                                    <span class="required"> * </span>
+                                                                </label>
+                                                                <div class="col-md-4">
+                                                                    <input type="text" class="form-control" id="budget" name="budget" required="true" />
+
+                                                                </div>
+                                                            </div>
+                                                            <div class="form-group">
                                                                 <label class="control-label col-md-3">Deskripsi
                                                                     <span class="required"> * </span>
                                                                 </label>

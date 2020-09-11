@@ -44,6 +44,9 @@ var FormWizard = function () {
                     nama: {
                         required: true
                     },
+                    budget: {
+                        required: true
+                    },
                     deskripsi: {
                         required: true
 
