@@ -60,7 +60,7 @@
     </br>
 </center>
 <p>
-    <?= strtoupper($kontrak['data']->nama) ?> dengan nilai Total <label style="font-weight: bold;">Rp <?= number_format($kontrak['data']->budget) ?></label>.
+    <?= strtoupper($kontrak['data']->nama) ?> dengan nilai Total <label style="font-weight: bold;">Rp <?= number_format($kontrak['data']->harga) ?></label>.
     <br>dengan spesifikasi : <?= $kontrak['data']->deskripsi_proyek ?></br>
 </p>
 <center style="font-weight: bold;">
