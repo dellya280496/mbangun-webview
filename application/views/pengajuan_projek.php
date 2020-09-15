@@ -253,7 +253,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                                 </label>
                                                                 <div class=" col-md-8">
 
-                                                                    <iframe src="https://maps.google.com/maps?width=100%&height=100%&hl=en&q=indonesia&ie=UTF8&t=&z=8&iwloc=B&output=embed&disableDefaultUI=true" id="IframeMap" frameborder="0" scrolling="yes" marginheight="0" marginwidth="0"></iframe>
+                                                                    <iframe src="https://maps.google.com/maps?width=100%&height=100%&hl=en&q=indonesia&ie=UTF8&t=&z=8&iwloc=B&output=embed&disableDefaultUI=true" id="IframeMap" frameborder="0" scrolling="yes" marginheight="0" marginwidth="0" aria-readonly="TRUE"></iframe>
 
                                                                 </div>
                                                             </div>
