@@ -113,10 +113,10 @@ class Toko extends BD_Controller {
                 "success" => false
             );
         } else {
-             $response = $this->Toko_M->insert_projek($param);
+            //  $response = $this->Toko_M->insert_projek($param);
         }
 
-        $this->response($response);
+        $this->response($param);
     }
     public function update_post() {
         $param = $_POST;
