@@ -3299,3 +3299,37 @@ INFO - 2020-08-14 04:06:23 --> Language file loaded: language/english/email_lang
 INFO - 2020-08-14 04:06:23 --> File loaded: /Applications/MAMP/htdocs/mbangun/application/views/success.php
 INFO - 2020-08-14 04:06:23 --> Final output sent to browser
 DEBUG - 2020-08-14 04:06:23 --> Total execution time: 0.8131
+INFO - 2020-08-14 13:44:19 --> Config Class Initialized
+INFO - 2020-08-14 13:44:19 --> Hooks Class Initialized
+DEBUG - 2020-08-14 13:44:19 --> UTF-8 Support Enabled
+INFO - 2020-08-14 13:44:19 --> Utf8 Class Initialized
+INFO - 2020-08-14 13:44:19 --> URI Class Initialized
+DEBUG - 2020-08-14 13:44:19 --> No URI present. Default controller set.
+INFO - 2020-08-14 13:44:19 --> Router Class Initialized
+INFO - 2020-08-14 13:44:19 --> Output Class Initialized
+INFO - 2020-08-14 13:44:19 --> Security Class Initialized
+DEBUG - 2020-08-14 13:44:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-14 13:44:19 --> Input Class Initialized
+INFO - 2020-08-14 13:44:19 --> Language Class Initialized
+INFO - 2020-08-14 13:44:19 --> Loader Class Initialized
+INFO - 2020-08-14 13:44:19 --> Helper loaded: url_helper
+INFO - 2020-08-14 13:44:19 --> Helper loaded: security_helper
+INFO - 2020-08-14 13:44:19 --> Helper loaded: string_helper
+INFO - 2020-08-14 13:44:19 --> Helper loaded: date_helper
+INFO - 2020-08-14 13:44:19 --> Helper loaded: encpass_helper
+INFO - 2020-08-14 13:44:20 --> Database Driver Class Initialized
+INFO - 2020-08-14 13:44:20 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-14 13:44:20 --> User Agent Class Initialized
+INFO - 2020-08-14 13:44:20 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-14 13:44:20 --> Pagination Class Initialized
+INFO - 2020-08-14 13:44:20 --> Email Class Initialized
+DEBUG - 2020-08-14 13:44:20 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-14 13:44:20 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-14 13:44:20 --> Encryption Class Initialized
+INFO - 2020-08-14 13:44:20 --> Controller Class Initialized
+INFO - 2020-08-14 13:44:20 --> Model "Kategori_M" initialized
+INFO - 2020-08-14 13:44:20 --> Model "Ongkir_M" initialized
+INFO - 2020-08-14 13:44:20 --> Model "Email_M" initialized
+INFO - 2020-08-14 13:44:21 --> File loaded: /home/n9419307/public_html/mobile/application/views/pengajuan.php
+INFO - 2020-08-14 13:44:21 --> Final output sent to browser
+DEBUG - 2020-08-14 13:44:21 --> Total execution time: 1.5688
