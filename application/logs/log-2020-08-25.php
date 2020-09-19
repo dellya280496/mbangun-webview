@@ -748,3 +748,612 @@ INFO - 2020-08-25 08:42:44 --> Encryption Class Initialized
 INFO - 2020-08-25 08:42:44 --> Controller Class Initialized
 INFO - 2020-08-25 08:42:44 --> Final output sent to browser
 DEBUG - 2020-08-25 08:42:44 --> Total execution time: 0.2647
+INFO - 2020-08-25 08:45:14 --> Config Class Initialized
+INFO - 2020-08-25 08:45:14 --> Hooks Class Initialized
+DEBUG - 2020-08-25 08:45:14 --> UTF-8 Support Enabled
+INFO - 2020-08-25 08:45:14 --> Utf8 Class Initialized
+INFO - 2020-08-25 08:45:14 --> URI Class Initialized
+INFO - 2020-08-25 08:45:14 --> Router Class Initialized
+INFO - 2020-08-25 08:45:14 --> Output Class Initialized
+INFO - 2020-08-25 08:45:14 --> Security Class Initialized
+DEBUG - 2020-08-25 08:45:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-25 08:45:14 --> Input Class Initialized
+INFO - 2020-08-25 08:45:14 --> Language Class Initialized
+INFO - 2020-08-25 08:45:14 --> Loader Class Initialized
+INFO - 2020-08-25 08:45:14 --> Helper loaded: url_helper
+INFO - 2020-08-25 08:45:14 --> Helper loaded: security_helper
+INFO - 2020-08-25 08:45:14 --> Helper loaded: string_helper
+INFO - 2020-08-25 08:45:14 --> Helper loaded: date_helper
+INFO - 2020-08-25 08:45:14 --> Helper loaded: encpass_helper
+INFO - 2020-08-25 08:45:14 --> Database Driver Class Initialized
+INFO - 2020-08-25 08:45:14 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-25 08:45:14 --> User Agent Class Initialized
+INFO - 2020-08-25 08:45:14 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-25 08:45:14 --> Pagination Class Initialized
+INFO - 2020-08-25 08:45:14 --> Email Class Initialized
+DEBUG - 2020-08-25 08:45:14 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-25 08:45:14 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-25 08:45:14 --> Encryption Class Initialized
+INFO - 2020-08-25 08:45:14 --> Controller Class Initialized
+INFO - 2020-08-25 08:45:14 --> Final output sent to browser
+DEBUG - 2020-08-25 08:45:14 --> Total execution time: 0.0569
+INFO - 2020-08-25 08:45:17 --> Config Class Initialized
+INFO - 2020-08-25 08:45:17 --> Hooks Class Initialized
+DEBUG - 2020-08-25 08:45:17 --> UTF-8 Support Enabled
+INFO - 2020-08-25 08:45:17 --> Utf8 Class Initialized
+INFO - 2020-08-25 08:45:17 --> URI Class Initialized
+INFO - 2020-08-25 08:45:17 --> Router Class Initialized
+INFO - 2020-08-25 08:45:17 --> Output Class Initialized
+INFO - 2020-08-25 08:45:17 --> Security Class Initialized
+DEBUG - 2020-08-25 08:45:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-25 08:45:17 --> Input Class Initialized
+INFO - 2020-08-25 08:45:17 --> Language Class Initialized
+INFO - 2020-08-25 08:45:17 --> Loader Class Initialized
+INFO - 2020-08-25 08:45:17 --> Helper loaded: url_helper
+INFO - 2020-08-25 08:45:17 --> Helper loaded: security_helper
+INFO - 2020-08-25 08:45:17 --> Helper loaded: string_helper
+INFO - 2020-08-25 08:45:17 --> Helper loaded: date_helper
+INFO - 2020-08-25 08:45:17 --> Helper loaded: encpass_helper
+INFO - 2020-08-25 08:45:17 --> Database Driver Class Initialized
+INFO - 2020-08-25 08:45:17 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-25 08:45:17 --> User Agent Class Initialized
+INFO - 2020-08-25 08:45:17 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-25 08:45:17 --> Pagination Class Initialized
+INFO - 2020-08-25 08:45:17 --> Email Class Initialized
+DEBUG - 2020-08-25 08:45:17 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-25 08:45:17 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-25 08:45:17 --> Encryption Class Initialized
+INFO - 2020-08-25 08:45:17 --> Controller Class Initialized
+INFO - 2020-08-25 08:45:17 --> Final output sent to browser
+DEBUG - 2020-08-25 08:45:17 --> Total execution time: 0.0186
+INFO - 2020-08-25 08:45:19 --> Config Class Initialized
+INFO - 2020-08-25 08:45:19 --> Hooks Class Initialized
+DEBUG - 2020-08-25 08:45:19 --> UTF-8 Support Enabled
+INFO - 2020-08-25 08:45:19 --> Utf8 Class Initialized
+INFO - 2020-08-25 08:45:19 --> URI Class Initialized
+INFO - 2020-08-25 08:45:19 --> Router Class Initialized
+INFO - 2020-08-25 08:45:19 --> Output Class Initialized
+INFO - 2020-08-25 08:45:19 --> Security Class Initialized
+DEBUG - 2020-08-25 08:45:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-25 08:45:19 --> Input Class Initialized
+INFO - 2020-08-25 08:45:19 --> Language Class Initialized
+INFO - 2020-08-25 08:45:19 --> Loader Class Initialized
+INFO - 2020-08-25 08:45:19 --> Helper loaded: url_helper
+INFO - 2020-08-25 08:45:19 --> Helper loaded: security_helper
+INFO - 2020-08-25 08:45:19 --> Helper loaded: string_helper
+INFO - 2020-08-25 08:45:19 --> Helper loaded: date_helper
+INFO - 2020-08-25 08:45:19 --> Helper loaded: encpass_helper
+INFO - 2020-08-25 08:45:19 --> Database Driver Class Initialized
+INFO - 2020-08-25 08:45:19 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-25 08:45:19 --> User Agent Class Initialized
+INFO - 2020-08-25 08:45:19 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-25 08:45:19 --> Pagination Class Initialized
+INFO - 2020-08-25 08:45:19 --> Email Class Initialized
+DEBUG - 2020-08-25 08:45:19 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-25 08:45:19 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-25 08:45:19 --> Encryption Class Initialized
+INFO - 2020-08-25 08:45:19 --> Controller Class Initialized
+INFO - 2020-08-25 08:45:19 --> Final output sent to browser
+DEBUG - 2020-08-25 08:45:19 --> Total execution time: 0.0155
+INFO - 2020-08-25 08:46:59 --> Config Class Initialized
+INFO - 2020-08-25 08:46:59 --> Hooks Class Initialized
+DEBUG - 2020-08-25 08:46:59 --> UTF-8 Support Enabled
+INFO - 2020-08-25 08:46:59 --> Utf8 Class Initialized
+INFO - 2020-08-25 08:46:59 --> URI Class Initialized
+INFO - 2020-08-25 08:46:59 --> Router Class Initialized
+INFO - 2020-08-25 08:46:59 --> Output Class Initialized
+INFO - 2020-08-25 08:46:59 --> Security Class Initialized
+DEBUG - 2020-08-25 08:46:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-25 08:46:59 --> Input Class Initialized
+INFO - 2020-08-25 08:46:59 --> Language Class Initialized
+INFO - 2020-08-25 08:46:59 --> Loader Class Initialized
+INFO - 2020-08-25 08:46:59 --> Helper loaded: url_helper
+INFO - 2020-08-25 08:46:59 --> Helper loaded: security_helper
+INFO - 2020-08-25 08:46:59 --> Helper loaded: string_helper
+INFO - 2020-08-25 08:46:59 --> Helper loaded: date_helper
+INFO - 2020-08-25 08:46:59 --> Helper loaded: encpass_helper
+INFO - 2020-08-25 08:46:59 --> Database Driver Class Initialized
+INFO - 2020-08-25 08:46:59 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-25 08:46:59 --> User Agent Class Initialized
+INFO - 2020-08-25 08:46:59 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-25 08:46:59 --> Pagination Class Initialized
+INFO - 2020-08-25 08:46:59 --> Email Class Initialized
+DEBUG - 2020-08-25 08:46:59 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-25 08:46:59 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-25 08:46:59 --> Encryption Class Initialized
+INFO - 2020-08-25 08:46:59 --> Controller Class Initialized
+INFO - 2020-08-25 08:46:59 --> Final output sent to browser
+DEBUG - 2020-08-25 08:46:59 --> Total execution time: 0.0625
+INFO - 2020-08-25 08:57:27 --> Config Class Initialized
+INFO - 2020-08-25 08:57:27 --> Hooks Class Initialized
+DEBUG - 2020-08-25 08:57:27 --> UTF-8 Support Enabled
+INFO - 2020-08-25 08:57:27 --> Utf8 Class Initialized
+INFO - 2020-08-25 08:57:27 --> URI Class Initialized
+INFO - 2020-08-25 08:57:27 --> Router Class Initialized
+INFO - 2020-08-25 08:57:27 --> Output Class Initialized
+INFO - 2020-08-25 08:57:27 --> Security Class Initialized
+DEBUG - 2020-08-25 08:57:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-25 08:57:27 --> Input Class Initialized
+INFO - 2020-08-25 08:57:27 --> Language Class Initialized
+INFO - 2020-08-25 08:57:27 --> Loader Class Initialized
+INFO - 2020-08-25 08:57:27 --> Helper loaded: url_helper
+INFO - 2020-08-25 08:57:27 --> Helper loaded: security_helper
+INFO - 2020-08-25 08:57:27 --> Helper loaded: string_helper
+INFO - 2020-08-25 08:57:27 --> Helper loaded: date_helper
+INFO - 2020-08-25 08:57:27 --> Helper loaded: encpass_helper
+INFO - 2020-08-25 08:57:27 --> Database Driver Class Initialized
+INFO - 2020-08-25 08:57:27 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-25 08:57:27 --> User Agent Class Initialized
+INFO - 2020-08-25 08:57:27 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-25 08:57:27 --> Pagination Class Initialized
+INFO - 2020-08-25 08:57:27 --> Email Class Initialized
+DEBUG - 2020-08-25 08:57:27 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-25 08:57:27 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-25 08:57:27 --> Encryption Class Initialized
+INFO - 2020-08-25 08:57:27 --> Controller Class Initialized
+INFO - 2020-08-25 08:57:27 --> Final output sent to browser
+DEBUG - 2020-08-25 08:57:27 --> Total execution time: 0.0664
+INFO - 2020-08-25 09:03:09 --> Config Class Initialized
+INFO - 2020-08-25 09:03:09 --> Hooks Class Initialized
+DEBUG - 2020-08-25 09:03:09 --> UTF-8 Support Enabled
+INFO - 2020-08-25 09:03:09 --> Utf8 Class Initialized
+INFO - 2020-08-25 09:03:09 --> URI Class Initialized
+INFO - 2020-08-25 09:03:09 --> Router Class Initialized
+INFO - 2020-08-25 09:03:09 --> Output Class Initialized
+INFO - 2020-08-25 09:03:09 --> Security Class Initialized
+DEBUG - 2020-08-25 09:03:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-25 09:03:09 --> Input Class Initialized
+INFO - 2020-08-25 09:03:09 --> Language Class Initialized
+INFO - 2020-08-25 09:03:09 --> Loader Class Initialized
+INFO - 2020-08-25 09:03:09 --> Helper loaded: url_helper
+INFO - 2020-08-25 09:03:09 --> Helper loaded: security_helper
+INFO - 2020-08-25 09:03:09 --> Helper loaded: string_helper
+INFO - 2020-08-25 09:03:09 --> Helper loaded: date_helper
+INFO - 2020-08-25 09:03:09 --> Helper loaded: encpass_helper
+INFO - 2020-08-25 09:03:09 --> Database Driver Class Initialized
+INFO - 2020-08-25 09:03:09 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-25 09:03:09 --> User Agent Class Initialized
+INFO - 2020-08-25 09:03:09 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-25 09:03:09 --> Pagination Class Initialized
+INFO - 2020-08-25 09:03:09 --> Email Class Initialized
+DEBUG - 2020-08-25 09:03:09 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-25 09:03:09 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-25 09:03:09 --> Encryption Class Initialized
+INFO - 2020-08-25 09:03:09 --> Controller Class Initialized
+INFO - 2020-08-25 09:03:09 --> Final output sent to browser
+DEBUG - 2020-08-25 09:03:09 --> Total execution time: 0.2823
+INFO - 2020-08-25 09:05:29 --> Config Class Initialized
+INFO - 2020-08-25 09:05:29 --> Hooks Class Initialized
+DEBUG - 2020-08-25 09:05:29 --> UTF-8 Support Enabled
+INFO - 2020-08-25 09:05:29 --> Utf8 Class Initialized
+INFO - 2020-08-25 09:05:29 --> URI Class Initialized
+INFO - 2020-08-25 09:05:29 --> Router Class Initialized
+INFO - 2020-08-25 09:05:29 --> Output Class Initialized
+INFO - 2020-08-25 09:05:29 --> Security Class Initialized
+DEBUG - 2020-08-25 09:05:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-25 09:05:29 --> Input Class Initialized
+INFO - 2020-08-25 09:05:29 --> Language Class Initialized
+INFO - 2020-08-25 09:05:29 --> Loader Class Initialized
+INFO - 2020-08-25 09:05:29 --> Helper loaded: url_helper
+INFO - 2020-08-25 09:05:29 --> Helper loaded: security_helper
+INFO - 2020-08-25 09:05:29 --> Helper loaded: string_helper
+INFO - 2020-08-25 09:05:29 --> Helper loaded: date_helper
+INFO - 2020-08-25 09:05:29 --> Helper loaded: encpass_helper
+INFO - 2020-08-25 09:05:29 --> Database Driver Class Initialized
+INFO - 2020-08-25 09:05:29 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-25 09:05:29 --> User Agent Class Initialized
+INFO - 2020-08-25 09:05:29 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-25 09:05:29 --> Pagination Class Initialized
+INFO - 2020-08-25 09:05:29 --> Email Class Initialized
+DEBUG - 2020-08-25 09:05:29 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-25 09:05:29 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-25 09:05:29 --> Encryption Class Initialized
+INFO - 2020-08-25 09:05:29 --> Controller Class Initialized
+INFO - 2020-08-25 09:05:29 --> Final output sent to browser
+DEBUG - 2020-08-25 09:05:29 --> Total execution time: 0.0255
+INFO - 2020-08-25 09:06:34 --> Config Class Initialized
+INFO - 2020-08-25 09:06:34 --> Hooks Class Initialized
+DEBUG - 2020-08-25 09:06:34 --> UTF-8 Support Enabled
+INFO - 2020-08-25 09:06:34 --> Utf8 Class Initialized
+INFO - 2020-08-25 09:06:34 --> URI Class Initialized
+INFO - 2020-08-25 09:06:34 --> Router Class Initialized
+INFO - 2020-08-25 09:06:34 --> Output Class Initialized
+INFO - 2020-08-25 09:06:34 --> Security Class Initialized
+DEBUG - 2020-08-25 09:06:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-25 09:06:34 --> Input Class Initialized
+INFO - 2020-08-25 09:06:34 --> Language Class Initialized
+INFO - 2020-08-25 09:06:34 --> Loader Class Initialized
+INFO - 2020-08-25 09:06:34 --> Helper loaded: url_helper
+INFO - 2020-08-25 09:06:34 --> Helper loaded: security_helper
+INFO - 2020-08-25 09:06:34 --> Helper loaded: string_helper
+INFO - 2020-08-25 09:06:34 --> Helper loaded: date_helper
+INFO - 2020-08-25 09:06:34 --> Helper loaded: encpass_helper
+INFO - 2020-08-25 09:06:34 --> Database Driver Class Initialized
+INFO - 2020-08-25 09:06:34 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-25 09:06:34 --> User Agent Class Initialized
+INFO - 2020-08-25 09:06:34 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-25 09:06:34 --> Pagination Class Initialized
+INFO - 2020-08-25 09:06:34 --> Email Class Initialized
+DEBUG - 2020-08-25 09:06:34 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-25 09:06:34 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-25 09:06:34 --> Encryption Class Initialized
+INFO - 2020-08-25 09:06:34 --> Controller Class Initialized
+INFO - 2020-08-25 09:06:34 --> Final output sent to browser
+DEBUG - 2020-08-25 09:06:34 --> Total execution time: 0.0181
+INFO - 2020-08-25 09:09:30 --> Config Class Initialized
+INFO - 2020-08-25 09:09:30 --> Hooks Class Initialized
+DEBUG - 2020-08-25 09:09:30 --> UTF-8 Support Enabled
+INFO - 2020-08-25 09:09:30 --> Utf8 Class Initialized
+INFO - 2020-08-25 09:09:30 --> URI Class Initialized
+INFO - 2020-08-25 09:09:30 --> Router Class Initialized
+INFO - 2020-08-25 09:09:30 --> Output Class Initialized
+INFO - 2020-08-25 09:09:30 --> Security Class Initialized
+DEBUG - 2020-08-25 09:09:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-25 09:09:30 --> Input Class Initialized
+INFO - 2020-08-25 09:09:30 --> Language Class Initialized
+INFO - 2020-08-25 09:09:30 --> Loader Class Initialized
+INFO - 2020-08-25 09:09:30 --> Helper loaded: url_helper
+INFO - 2020-08-25 09:09:30 --> Helper loaded: security_helper
+INFO - 2020-08-25 09:09:30 --> Helper loaded: string_helper
+INFO - 2020-08-25 09:09:30 --> Helper loaded: date_helper
+INFO - 2020-08-25 09:09:30 --> Helper loaded: encpass_helper
+INFO - 2020-08-25 09:09:30 --> Database Driver Class Initialized
+INFO - 2020-08-25 09:09:30 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-25 09:09:30 --> User Agent Class Initialized
+INFO - 2020-08-25 09:09:30 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-25 09:09:30 --> Pagination Class Initialized
+INFO - 2020-08-25 09:09:30 --> Email Class Initialized
+DEBUG - 2020-08-25 09:09:30 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-25 09:09:30 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-25 09:09:30 --> Encryption Class Initialized
+INFO - 2020-08-25 09:09:30 --> Controller Class Initialized
+INFO - 2020-08-25 09:09:30 --> Final output sent to browser
+DEBUG - 2020-08-25 09:09:30 --> Total execution time: 0.0204
+INFO - 2020-08-25 09:20:07 --> Config Class Initialized
+INFO - 2020-08-25 09:20:07 --> Hooks Class Initialized
+DEBUG - 2020-08-25 09:20:07 --> UTF-8 Support Enabled
+INFO - 2020-08-25 09:20:07 --> Utf8 Class Initialized
+INFO - 2020-08-25 09:20:07 --> URI Class Initialized
+INFO - 2020-08-25 09:20:07 --> Router Class Initialized
+INFO - 2020-08-25 09:20:07 --> Output Class Initialized
+INFO - 2020-08-25 09:20:07 --> Security Class Initialized
+DEBUG - 2020-08-25 09:20:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-25 09:20:07 --> Input Class Initialized
+INFO - 2020-08-25 09:20:07 --> Language Class Initialized
+INFO - 2020-08-25 09:20:07 --> Loader Class Initialized
+INFO - 2020-08-25 09:20:07 --> Helper loaded: url_helper
+INFO - 2020-08-25 09:20:07 --> Helper loaded: security_helper
+INFO - 2020-08-25 09:20:07 --> Helper loaded: string_helper
+INFO - 2020-08-25 09:20:07 --> Helper loaded: date_helper
+INFO - 2020-08-25 09:20:07 --> Helper loaded: encpass_helper
+INFO - 2020-08-25 09:20:07 --> Database Driver Class Initialized
+INFO - 2020-08-25 09:20:07 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-25 09:20:07 --> User Agent Class Initialized
+INFO - 2020-08-25 09:20:07 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-25 09:20:07 --> Pagination Class Initialized
+INFO - 2020-08-25 09:20:07 --> Email Class Initialized
+DEBUG - 2020-08-25 09:20:07 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-25 09:20:07 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-25 09:20:07 --> Encryption Class Initialized
+INFO - 2020-08-25 09:20:07 --> Controller Class Initialized
+INFO - 2020-08-25 09:20:07 --> Final output sent to browser
+DEBUG - 2020-08-25 09:20:07 --> Total execution time: 0.0295
+INFO - 2020-08-25 09:24:30 --> Config Class Initialized
+INFO - 2020-08-25 09:24:30 --> Hooks Class Initialized
+DEBUG - 2020-08-25 09:24:30 --> UTF-8 Support Enabled
+INFO - 2020-08-25 09:24:30 --> Utf8 Class Initialized
+INFO - 2020-08-25 09:24:30 --> URI Class Initialized
+INFO - 2020-08-25 09:24:30 --> Router Class Initialized
+INFO - 2020-08-25 09:24:30 --> Output Class Initialized
+INFO - 2020-08-25 09:24:30 --> Security Class Initialized
+DEBUG - 2020-08-25 09:24:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-25 09:24:30 --> Input Class Initialized
+INFO - 2020-08-25 09:24:30 --> Language Class Initialized
+INFO - 2020-08-25 09:24:30 --> Loader Class Initialized
+INFO - 2020-08-25 09:24:30 --> Helper loaded: url_helper
+INFO - 2020-08-25 09:24:30 --> Helper loaded: security_helper
+INFO - 2020-08-25 09:24:30 --> Helper loaded: string_helper
+INFO - 2020-08-25 09:24:30 --> Helper loaded: date_helper
+INFO - 2020-08-25 09:24:30 --> Helper loaded: encpass_helper
+INFO - 2020-08-25 09:24:30 --> Database Driver Class Initialized
+INFO - 2020-08-25 09:24:30 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-25 09:24:30 --> User Agent Class Initialized
+INFO - 2020-08-25 09:24:30 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-25 09:24:30 --> Pagination Class Initialized
+INFO - 2020-08-25 09:24:30 --> Email Class Initialized
+DEBUG - 2020-08-25 09:24:30 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-25 09:24:30 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-25 09:24:30 --> Encryption Class Initialized
+INFO - 2020-08-25 09:24:30 --> Controller Class Initialized
+INFO - 2020-08-25 09:24:30 --> Final output sent to browser
+DEBUG - 2020-08-25 09:24:30 --> Total execution time: 0.0367
+INFO - 2020-08-25 10:27:21 --> Config Class Initialized
+INFO - 2020-08-25 10:27:21 --> Hooks Class Initialized
+DEBUG - 2020-08-25 10:27:21 --> UTF-8 Support Enabled
+INFO - 2020-08-25 10:27:21 --> Utf8 Class Initialized
+INFO - 2020-08-25 10:27:21 --> URI Class Initialized
+INFO - 2020-08-25 10:27:21 --> Router Class Initialized
+INFO - 2020-08-25 10:27:21 --> Output Class Initialized
+INFO - 2020-08-25 10:27:21 --> Security Class Initialized
+DEBUG - 2020-08-25 10:27:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-25 10:27:21 --> Input Class Initialized
+INFO - 2020-08-25 10:27:21 --> Language Class Initialized
+INFO - 2020-08-25 10:27:21 --> Loader Class Initialized
+INFO - 2020-08-25 10:27:21 --> Helper loaded: url_helper
+INFO - 2020-08-25 10:27:21 --> Helper loaded: security_helper
+INFO - 2020-08-25 10:27:21 --> Helper loaded: string_helper
+INFO - 2020-08-25 10:27:21 --> Helper loaded: date_helper
+INFO - 2020-08-25 10:27:21 --> Helper loaded: encpass_helper
+INFO - 2020-08-25 10:27:21 --> Database Driver Class Initialized
+INFO - 2020-08-25 10:27:21 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-25 10:27:21 --> User Agent Class Initialized
+INFO - 2020-08-25 10:27:21 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-25 10:27:21 --> Pagination Class Initialized
+INFO - 2020-08-25 10:27:21 --> Email Class Initialized
+DEBUG - 2020-08-25 10:27:21 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-25 10:27:21 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-25 10:27:21 --> Encryption Class Initialized
+INFO - 2020-08-25 10:27:21 --> Controller Class Initialized
+INFO - 2020-08-25 10:27:21 --> Final output sent to browser
+DEBUG - 2020-08-25 10:27:21 --> Total execution time: 0.0582
+INFO - 2020-08-25 10:59:54 --> Config Class Initialized
+INFO - 2020-08-25 10:59:54 --> Hooks Class Initialized
+DEBUG - 2020-08-25 10:59:54 --> UTF-8 Support Enabled
+INFO - 2020-08-25 10:59:54 --> Utf8 Class Initialized
+INFO - 2020-08-25 10:59:54 --> URI Class Initialized
+INFO - 2020-08-25 10:59:54 --> Router Class Initialized
+INFO - 2020-08-25 10:59:54 --> Output Class Initialized
+INFO - 2020-08-25 10:59:54 --> Security Class Initialized
+DEBUG - 2020-08-25 10:59:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-25 10:59:54 --> Input Class Initialized
+INFO - 2020-08-25 10:59:54 --> Language Class Initialized
+INFO - 2020-08-25 10:59:54 --> Loader Class Initialized
+INFO - 2020-08-25 10:59:54 --> Helper loaded: url_helper
+INFO - 2020-08-25 10:59:54 --> Helper loaded: security_helper
+INFO - 2020-08-25 10:59:54 --> Helper loaded: string_helper
+INFO - 2020-08-25 10:59:54 --> Helper loaded: date_helper
+INFO - 2020-08-25 10:59:54 --> Helper loaded: encpass_helper
+INFO - 2020-08-25 10:59:54 --> Database Driver Class Initialized
+INFO - 2020-08-25 10:59:54 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-25 10:59:54 --> User Agent Class Initialized
+INFO - 2020-08-25 10:59:54 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-25 10:59:54 --> Pagination Class Initialized
+INFO - 2020-08-25 10:59:54 --> Email Class Initialized
+DEBUG - 2020-08-25 10:59:54 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-25 10:59:54 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-25 10:59:54 --> Encryption Class Initialized
+INFO - 2020-08-25 10:59:54 --> Controller Class Initialized
+INFO - 2020-08-25 10:59:54 --> Final output sent to browser
+DEBUG - 2020-08-25 10:59:54 --> Total execution time: 0.0648
+INFO - 2020-08-25 11:00:19 --> Config Class Initialized
+INFO - 2020-08-25 11:00:19 --> Hooks Class Initialized
+DEBUG - 2020-08-25 11:00:19 --> UTF-8 Support Enabled
+INFO - 2020-08-25 11:00:19 --> Utf8 Class Initialized
+INFO - 2020-08-25 11:00:19 --> URI Class Initialized
+INFO - 2020-08-25 11:00:19 --> Router Class Initialized
+INFO - 2020-08-25 11:00:19 --> Output Class Initialized
+INFO - 2020-08-25 11:00:19 --> Security Class Initialized
+DEBUG - 2020-08-25 11:00:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-25 11:00:19 --> Input Class Initialized
+INFO - 2020-08-25 11:00:19 --> Language Class Initialized
+INFO - 2020-08-25 11:00:19 --> Loader Class Initialized
+INFO - 2020-08-25 11:00:19 --> Helper loaded: url_helper
+INFO - 2020-08-25 11:00:19 --> Helper loaded: security_helper
+INFO - 2020-08-25 11:00:19 --> Helper loaded: string_helper
+INFO - 2020-08-25 11:00:19 --> Helper loaded: date_helper
+INFO - 2020-08-25 11:00:19 --> Helper loaded: encpass_helper
+INFO - 2020-08-25 11:00:19 --> Database Driver Class Initialized
+INFO - 2020-08-25 11:00:20 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-25 11:00:20 --> User Agent Class Initialized
+INFO - 2020-08-25 11:00:20 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-25 11:00:20 --> Pagination Class Initialized
+INFO - 2020-08-25 11:00:20 --> Email Class Initialized
+DEBUG - 2020-08-25 11:00:20 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-25 11:00:20 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-25 11:00:20 --> Encryption Class Initialized
+INFO - 2020-08-25 11:00:20 --> Controller Class Initialized
+INFO - 2020-08-25 11:00:20 --> Final output sent to browser
+DEBUG - 2020-08-25 11:00:20 --> Total execution time: 0.4242
+INFO - 2020-08-25 11:46:33 --> Config Class Initialized
+INFO - 2020-08-25 11:46:33 --> Hooks Class Initialized
+DEBUG - 2020-08-25 11:46:33 --> UTF-8 Support Enabled
+INFO - 2020-08-25 11:46:33 --> Utf8 Class Initialized
+INFO - 2020-08-25 11:46:33 --> URI Class Initialized
+INFO - 2020-08-25 11:46:33 --> Router Class Initialized
+INFO - 2020-08-25 11:46:33 --> Output Class Initialized
+INFO - 2020-08-25 11:46:33 --> Security Class Initialized
+DEBUG - 2020-08-25 11:46:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-25 11:46:33 --> Input Class Initialized
+INFO - 2020-08-25 11:46:33 --> Language Class Initialized
+INFO - 2020-08-25 11:46:33 --> Loader Class Initialized
+INFO - 2020-08-25 11:46:33 --> Helper loaded: url_helper
+INFO - 2020-08-25 11:46:33 --> Helper loaded: security_helper
+INFO - 2020-08-25 11:46:33 --> Helper loaded: string_helper
+INFO - 2020-08-25 11:46:33 --> Helper loaded: date_helper
+INFO - 2020-08-25 11:46:33 --> Helper loaded: encpass_helper
+INFO - 2020-08-25 11:46:33 --> Database Driver Class Initialized
+INFO - 2020-08-25 11:46:33 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-25 11:46:33 --> User Agent Class Initialized
+INFO - 2020-08-25 11:46:33 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-25 11:46:33 --> Pagination Class Initialized
+INFO - 2020-08-25 11:46:33 --> Email Class Initialized
+DEBUG - 2020-08-25 11:46:33 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-25 11:46:33 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-25 11:46:33 --> Encryption Class Initialized
+INFO - 2020-08-25 11:46:33 --> Controller Class Initialized
+INFO - 2020-08-25 11:46:33 --> Final output sent to browser
+DEBUG - 2020-08-25 11:46:33 --> Total execution time: 0.0629
+INFO - 2020-08-25 12:00:04 --> Config Class Initialized
+INFO - 2020-08-25 12:00:04 --> Hooks Class Initialized
+DEBUG - 2020-08-25 12:00:04 --> UTF-8 Support Enabled
+INFO - 2020-08-25 12:00:04 --> Utf8 Class Initialized
+INFO - 2020-08-25 12:00:04 --> URI Class Initialized
+INFO - 2020-08-25 12:00:04 --> Router Class Initialized
+INFO - 2020-08-25 12:00:04 --> Output Class Initialized
+INFO - 2020-08-25 12:00:04 --> Security Class Initialized
+DEBUG - 2020-08-25 12:00:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-25 12:00:04 --> Input Class Initialized
+INFO - 2020-08-25 12:00:04 --> Language Class Initialized
+INFO - 2020-08-25 12:00:04 --> Loader Class Initialized
+INFO - 2020-08-25 12:00:04 --> Helper loaded: url_helper
+INFO - 2020-08-25 12:00:04 --> Helper loaded: security_helper
+INFO - 2020-08-25 12:00:04 --> Helper loaded: string_helper
+INFO - 2020-08-25 12:00:04 --> Helper loaded: date_helper
+INFO - 2020-08-25 12:00:04 --> Helper loaded: encpass_helper
+INFO - 2020-08-25 12:00:04 --> Database Driver Class Initialized
+INFO - 2020-08-25 12:00:04 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-25 12:00:04 --> User Agent Class Initialized
+INFO - 2020-08-25 12:00:04 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-25 12:00:04 --> Pagination Class Initialized
+INFO - 2020-08-25 12:00:04 --> Email Class Initialized
+DEBUG - 2020-08-25 12:00:04 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-25 12:00:04 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-25 12:00:04 --> Encryption Class Initialized
+INFO - 2020-08-25 12:00:04 --> Controller Class Initialized
+INFO - 2020-08-25 12:00:04 --> Final output sent to browser
+DEBUG - 2020-08-25 12:00:04 --> Total execution time: 0.0668
+INFO - 2020-08-25 12:03:11 --> Config Class Initialized
+INFO - 2020-08-25 12:03:11 --> Hooks Class Initialized
+DEBUG - 2020-08-25 12:03:11 --> UTF-8 Support Enabled
+INFO - 2020-08-25 12:03:11 --> Utf8 Class Initialized
+INFO - 2020-08-25 12:03:11 --> URI Class Initialized
+INFO - 2020-08-25 12:03:11 --> Router Class Initialized
+INFO - 2020-08-25 12:03:11 --> Output Class Initialized
+INFO - 2020-08-25 12:03:11 --> Security Class Initialized
+DEBUG - 2020-08-25 12:03:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-25 12:03:11 --> Input Class Initialized
+INFO - 2020-08-25 12:03:11 --> Language Class Initialized
+INFO - 2020-08-25 12:03:11 --> Loader Class Initialized
+INFO - 2020-08-25 12:03:11 --> Helper loaded: url_helper
+INFO - 2020-08-25 12:03:11 --> Helper loaded: security_helper
+INFO - 2020-08-25 12:03:11 --> Helper loaded: string_helper
+INFO - 2020-08-25 12:03:11 --> Helper loaded: date_helper
+INFO - 2020-08-25 12:03:11 --> Helper loaded: encpass_helper
+INFO - 2020-08-25 12:03:11 --> Database Driver Class Initialized
+INFO - 2020-08-25 12:03:11 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-25 12:03:11 --> User Agent Class Initialized
+INFO - 2020-08-25 12:03:11 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-25 12:03:11 --> Pagination Class Initialized
+INFO - 2020-08-25 12:03:11 --> Email Class Initialized
+DEBUG - 2020-08-25 12:03:11 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-25 12:03:11 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-25 12:03:11 --> Encryption Class Initialized
+INFO - 2020-08-25 12:03:11 --> Controller Class Initialized
+INFO - 2020-08-25 12:03:11 --> Final output sent to browser
+DEBUG - 2020-08-25 12:03:11 --> Total execution time: 0.0216
+INFO - 2020-08-25 12:05:20 --> Config Class Initialized
+INFO - 2020-08-25 12:05:20 --> Hooks Class Initialized
+DEBUG - 2020-08-25 12:05:20 --> UTF-8 Support Enabled
+INFO - 2020-08-25 12:05:20 --> Utf8 Class Initialized
+INFO - 2020-08-25 12:05:20 --> URI Class Initialized
+INFO - 2020-08-25 12:05:20 --> Router Class Initialized
+INFO - 2020-08-25 12:05:20 --> Output Class Initialized
+INFO - 2020-08-25 12:05:20 --> Security Class Initialized
+DEBUG - 2020-08-25 12:05:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-25 12:05:20 --> Input Class Initialized
+INFO - 2020-08-25 12:05:20 --> Language Class Initialized
+INFO - 2020-08-25 12:05:20 --> Loader Class Initialized
+INFO - 2020-08-25 12:05:20 --> Helper loaded: url_helper
+INFO - 2020-08-25 12:05:20 --> Helper loaded: security_helper
+INFO - 2020-08-25 12:05:20 --> Helper loaded: string_helper
+INFO - 2020-08-25 12:05:20 --> Helper loaded: date_helper
+INFO - 2020-08-25 12:05:20 --> Helper loaded: encpass_helper
+INFO - 2020-08-25 12:05:20 --> Database Driver Class Initialized
+INFO - 2020-08-25 12:05:20 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-25 12:05:20 --> User Agent Class Initialized
+INFO - 2020-08-25 12:05:20 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-25 12:05:20 --> Pagination Class Initialized
+INFO - 2020-08-25 12:05:20 --> Email Class Initialized
+DEBUG - 2020-08-25 12:05:20 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-25 12:05:20 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-25 12:05:20 --> Encryption Class Initialized
+INFO - 2020-08-25 12:05:20 --> Controller Class Initialized
+INFO - 2020-08-25 12:05:20 --> Final output sent to browser
+DEBUG - 2020-08-25 12:05:20 --> Total execution time: 0.0233
+INFO - 2020-08-25 14:55:46 --> Config Class Initialized
+INFO - 2020-08-25 14:55:46 --> Hooks Class Initialized
+DEBUG - 2020-08-25 14:55:46 --> UTF-8 Support Enabled
+INFO - 2020-08-25 14:55:46 --> Utf8 Class Initialized
+INFO - 2020-08-25 14:55:46 --> URI Class Initialized
+INFO - 2020-08-25 14:55:46 --> Router Class Initialized
+INFO - 2020-08-25 14:55:46 --> Output Class Initialized
+INFO - 2020-08-25 14:55:46 --> Security Class Initialized
+DEBUG - 2020-08-25 14:55:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-25 14:55:46 --> Input Class Initialized
+INFO - 2020-08-25 14:55:46 --> Language Class Initialized
+INFO - 2020-08-25 14:55:46 --> Loader Class Initialized
+INFO - 2020-08-25 14:55:46 --> Helper loaded: url_helper
+INFO - 2020-08-25 14:55:46 --> Helper loaded: security_helper
+INFO - 2020-08-25 14:55:46 --> Helper loaded: string_helper
+INFO - 2020-08-25 14:55:46 --> Helper loaded: date_helper
+INFO - 2020-08-25 14:55:46 --> Helper loaded: encpass_helper
+INFO - 2020-08-25 14:55:46 --> Database Driver Class Initialized
+INFO - 2020-08-25 14:55:46 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-25 14:55:46 --> User Agent Class Initialized
+INFO - 2020-08-25 14:55:46 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-25 14:55:46 --> Pagination Class Initialized
+INFO - 2020-08-25 14:55:46 --> Email Class Initialized
+DEBUG - 2020-08-25 14:55:46 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-25 14:55:46 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-25 14:55:46 --> Encryption Class Initialized
+INFO - 2020-08-25 14:55:46 --> Controller Class Initialized
+INFO - 2020-08-25 14:55:46 --> Final output sent to browser
+DEBUG - 2020-08-25 14:55:46 --> Total execution time: 0.0445
+INFO - 2020-08-25 15:03:17 --> Config Class Initialized
+INFO - 2020-08-25 15:03:17 --> Hooks Class Initialized
+DEBUG - 2020-08-25 15:03:17 --> UTF-8 Support Enabled
+INFO - 2020-08-25 15:03:17 --> Utf8 Class Initialized
+INFO - 2020-08-25 15:03:17 --> URI Class Initialized
+INFO - 2020-08-25 15:03:17 --> Router Class Initialized
+INFO - 2020-08-25 15:03:17 --> Output Class Initialized
+INFO - 2020-08-25 15:03:17 --> Security Class Initialized
+DEBUG - 2020-08-25 15:03:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-25 15:03:17 --> Input Class Initialized
+INFO - 2020-08-25 15:03:17 --> Language Class Initialized
+INFO - 2020-08-25 15:03:17 --> Loader Class Initialized
+INFO - 2020-08-25 15:03:17 --> Helper loaded: url_helper
+INFO - 2020-08-25 15:03:17 --> Helper loaded: security_helper
+INFO - 2020-08-25 15:03:17 --> Helper loaded: string_helper
+INFO - 2020-08-25 15:03:17 --> Helper loaded: date_helper
+INFO - 2020-08-25 15:03:17 --> Helper loaded: encpass_helper
+INFO - 2020-08-25 15:03:17 --> Database Driver Class Initialized
+INFO - 2020-08-25 15:03:17 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-25 15:03:17 --> User Agent Class Initialized
+INFO - 2020-08-25 15:03:17 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-25 15:03:17 --> Pagination Class Initialized
+INFO - 2020-08-25 15:03:17 --> Email Class Initialized
+DEBUG - 2020-08-25 15:03:17 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-25 15:03:17 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-25 15:03:17 --> Encryption Class Initialized
+INFO - 2020-08-25 15:03:17 --> Controller Class Initialized
+INFO - 2020-08-25 15:03:17 --> Final output sent to browser
+DEBUG - 2020-08-25 15:03:17 --> Total execution time: 0.0650
+INFO - 2020-08-25 15:03:57 --> Config Class Initialized
+INFO - 2020-08-25 15:03:57 --> Hooks Class Initialized
+DEBUG - 2020-08-25 15:03:57 --> UTF-8 Support Enabled
+INFO - 2020-08-25 15:03:57 --> Utf8 Class Initialized
+INFO - 2020-08-25 15:03:57 --> URI Class Initialized
+INFO - 2020-08-25 15:03:57 --> Router Class Initialized
+INFO - 2020-08-25 15:03:57 --> Output Class Initialized
+INFO - 2020-08-25 15:03:57 --> Security Class Initialized
+DEBUG - 2020-08-25 15:03:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-08-25 15:03:57 --> Input Class Initialized
+INFO - 2020-08-25 15:03:57 --> Language Class Initialized
+INFO - 2020-08-25 15:03:57 --> Loader Class Initialized
+INFO - 2020-08-25 15:03:57 --> Helper loaded: url_helper
+INFO - 2020-08-25 15:03:57 --> Helper loaded: security_helper
+INFO - 2020-08-25 15:03:57 --> Helper loaded: string_helper
+INFO - 2020-08-25 15:03:57 --> Helper loaded: date_helper
+INFO - 2020-08-25 15:03:57 --> Helper loaded: encpass_helper
+INFO - 2020-08-25 15:03:57 --> Database Driver Class Initialized
+INFO - 2020-08-25 15:03:57 --> Session: Class initialized using 'files' driver.
+INFO - 2020-08-25 15:03:57 --> User Agent Class Initialized
+INFO - 2020-08-25 15:03:57 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2020-08-25 15:03:57 --> Pagination Class Initialized
+INFO - 2020-08-25 15:03:57 --> Email Class Initialized
+DEBUG - 2020-08-25 15:03:57 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2020-08-25 15:03:57 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2020-08-25 15:03:57 --> Encryption Class Initialized
+INFO - 2020-08-25 15:03:57 --> Controller Class Initialized
+INFO - 2020-08-25 15:03:57 --> Final output sent to browser
+DEBUG - 2020-08-25 15:03:57 --> Total execution time: 0.0156
