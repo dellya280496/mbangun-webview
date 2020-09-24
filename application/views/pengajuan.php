@@ -350,7 +350,7 @@ License: You must have a valid license purchased only from themeforest(the above
                     if (f.size > 1048576 || f.fileSize > 1048576) {
                         //show an alert to the user
                         alert("Allowed file size exceeded. (Max. 1 MB)")
-
+ 
                         //reset file upload control
                         this.value = null;
                     }
