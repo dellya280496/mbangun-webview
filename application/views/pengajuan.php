@@ -21,11 +21,8 @@ License: You must have a valid license purchased only from themeforest(the above
 
     <head>
         <meta charset="utf-8" />
-        <title>Pengajuan|M-bangun</title>
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta content="width=device-width, initial-scale=1" name="viewport" />
-        <meta content="Preview page of Metronic Admin Theme #1 for bootstrap form wizard demos using Twitter Bootstrap Wizard Plugin" name="description" />
-        <meta content="" name="author" />
+        <title>Pengajuan|Mbangun</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
         <!-- BEGIN GLOBAL MANDATORY STYLES -->
         <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700&subset=all" rel="stylesheet" type="text/css" />
         <link href="assets/global/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
@@ -346,6 +343,32 @@ License: You must have a valid license purchased only from themeforest(the above
         <script>
             $(document).ready(function ()
             {
+                $('#foto').bind('change', function () {
+                    var f = this.files[0]
+
+                    //here I CHECK if the FILE SIZE is bigger than 8 MB (numbers below are in bytes)
+                    if (f.size > 1048576 || f.fileSize > 1048576) {
+                        //show an alert to the user
+                        alert("Allowed file size exceeded. (Max. 1 MB)")
+
+                        //reset file upload control
+                        this.value = null;
+                    }
+
+                });
+                $('#foto_sampul').bind('change', function () {
+                    var f = this.files[0]
+
+                    //here I CHECK if the FILE SIZE is bigger than 8 MB (numbers below are in bytes)
+                    if (f.size > 1048576 || f.fileSize > 1048576) {
+                        //show an alert to the user
+                        alert("Allowed file size exceeded. (Max. 1 MB)")
+
+                        //reset file upload control
+                        this.value = null;
+                    }
+
+                });
                 $('#clickmewow').click(function ()
                 {
                     $('#radio1003').attr('checked', 'checked');
