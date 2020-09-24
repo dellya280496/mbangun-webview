@@ -114,10 +114,10 @@ class Mitra extends BD_Controller
                 "success" => false
             );
         } else {
-            $response = $this->Mitra_M->insert($param, $jenis_layanan);
+            // $response = $this->Mitra_M->insert($param, $jenis_layanan);
         }
 
-        $this->response($response);
+        $this->response($param);
     }
     public function insert_projek_post()
     {
