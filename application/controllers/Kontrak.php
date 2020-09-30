@@ -23,26 +23,26 @@ class Kontrak extends CI_Controller
         $this->load->library('pdf');
         // $query = {'id:'31'};
         $data['kontrak'] = $this->Proyek_M->getProyekById($proyek_id);
-        $data['default_img'] = $this->encode_img_base64('https://mbangun.id/api-v2/assets/img/watermark-logo.jpeg');
+        $data['default_img'] = $this->encode_img_base64('https://m-bangun.com/api-v2/assets/img/watermark-logo.jpeg');
         // var_dump($data['kontrak']['data']->id);
         // die;
 
         if ($data['kontrak']['data']->mitra_ttd == null) {
-            $data['kontrak']['data']->mitra_ttd = $this->encode_img_base64('https://mbangun.id/api-v2/assets/img/watermark-logo.jpeg');
+            $data['kontrak']['data']->mitra_ttd = $this->encode_img_base64('https://m-bangun.com/api-v2/assets/img/watermark-logo.jpeg');
         } else {
-            $data['kontrak']['data']->mitra_ttd = $this->encode_img_base64('https://mbangun.id/api-v2/assets/ttd/' . $data['kontrak']['data']->mitra_ttd);
+            $data['kontrak']['data']->mitra_ttd = $this->encode_img_base64('https://m-bangun.com/api-v2/assets/ttd/' . $data['kontrak']['data']->mitra_ttd);
         }
 
         if ($data['kontrak']['data']->user_ttd == null) {
-            $data['kontrak']['data']->user_ttd = $this->encode_img_base64('https://mbangun.id/api-v2/assets/img/watermark-logo.jpeg');
+            $data['kontrak']['data']->user_ttd = $this->encode_img_base64('https://m-bangun.com/api-v2/assets/img/watermark-logo.jpeg');
         } else {
-            $data['kontrak']['data']->user_ttd = $this->encode_img_base64('https://mbangun.id/api-v2/assets/ttd/' .  $data['kontrak']['data']->user_ttd);
+            $data['kontrak']['data']->user_ttd = $this->encode_img_base64('https://m-bangun.com/api-v2/assets/ttd/' .  $data['kontrak']['data']->user_ttd);
         }
 
         if ($data['kontrak']['data']->mbangun_ttd == null) {
-            $data['kontrak']['data']->mbangun_ttd = $this->encode_img_base64('https://mbangun.id/api-v2/assets/img/watermark-logo.jpeg');
+            $data['kontrak']['data']->mbangun_ttd = $this->encode_img_base64('https://m-bangun.com/api-v2/assets/img/watermark-logo.jpeg');
         } else {
-            $data['kontrak']['data']->mbangun_ttd = $this->encode_img_base64('https://mbangun.id/api-v2/assets/ttd/'. $data['kontrak']['data']->mbangun_ttd);
+            $data['kontrak']['data']->mbangun_ttd = $this->encode_img_base64('https://m-bangun.com/api-v2/assets/ttd/'. $data['kontrak']['data']->mbangun_ttd);
         }
 
         // var_dump($data['kontrak']);
@@ -66,17 +66,17 @@ class Kontrak extends CI_Controller
         $produkid = $this->input->get('id', TRUE);
         $this->load->library('pdf');
         $data['kontrak'] = $this->Kontrak_Model->getKontrakByProdukId_Kontrak($produkid);
-        $data['default_img'] = $this->encode_img_base64('https://mbangun.id/api-v2/assets/img/watermark-logo.jpeg');
+        $data['default_img'] = $this->encode_img_base64('https://m-bangun.com/api-v2/assets/img/watermark-logo.jpeg');
 
 
         if ($data['kontrak']->worker_signature == null) {
-            $data['kontrak']->worker_signature = $this->encode_img_base64('https://mbangun.id/api-v2/assets/img/watermark-logo.jpeg');
+            $data['kontrak']->worker_signature = $this->encode_img_base64('https://m-bangun.com/api-v2/assets/img/watermark-logo.jpeg');
         } else {
             $data['kontrak']->worker_signature = $this->encode_img_base64('http://localhost/api-mbangun/assets/ttd/' . '/assets/' . $data['kontrak']->worker_signature);
         }
 
         if ($data['kontrak']->owner_signature == null) {
-            $data['kontrak']->owner_signature = $this->encode_img_base64('https://mbangun.id/api-v2/assets/img/watermark-logo.jpeg');
+            $data['kontrak']->owner_signature = $this->encode_img_base64('https://m-bangun.com/api-v2/assets/img/watermark-logo.jpeg');
         } else {
             $data['kontrak']->owner_signature = $this->encode_img_base64('http://localhost/api-mbangun/assets/ttd/' . '/assets/' . $data['kontrak']->owner_signature);
         }
