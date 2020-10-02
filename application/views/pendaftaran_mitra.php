@@ -154,7 +154,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                                     <span class="required"> * </span>
                                                                 </label>
                                                                 <div class="col-md-4">
-                                                                    <input type="text" class="form-control" name="no_ktp" id="no_ktp" required/>
+                                                                    <input type="number" class="form-control" name="no_ktp" id="no_ktp" required/>
                                                                 </div>
                                                             </div>
 
@@ -187,7 +187,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                                     <span class="required"> * </span>
                                                                 </label>
                                                                 <div class="col-md-4">
-                                                                    <input type="text" class="form-control" name="no_hp" id="no_hp" required />
+                                                                    <input type="number" class="form-control" name="no_hp" id="no_hp" required />
                                                                 </div>
                                                             </div>
                                                             <div class="form-group">
