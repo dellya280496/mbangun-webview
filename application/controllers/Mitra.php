@@ -117,7 +117,7 @@ class Mitra extends BD_Controller
             $response = $this->Mitra_M->insert($param, $jenis_layanan);
         }
 
-        $this->response($param);
+        $this->response($response);
     }
     public function insert_projek_post()
     {
