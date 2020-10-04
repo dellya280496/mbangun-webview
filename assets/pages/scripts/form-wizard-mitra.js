@@ -52,9 +52,9 @@ var FormWizard = function () {
                         required: true
 
                     },
-                    my_multi_select1:{
+                    my_multi_select1: {
                         required: true
-                        
+
                     },
                     kota: {
                         required: true
@@ -104,7 +104,7 @@ var FormWizard = function () {
                 },
 
                 submitHandler: function (form) {
-//                    console.log("ini ke submit");
+                    //                    console.log("ini ke submit");
                     form[0].submit();
                 }
 
@@ -204,14 +204,18 @@ var FormWizard = function () {
 
             $('#form_wizard_1').find('.button-previous').hide();
             $('#form_wizard_1 .button-submit').click(function (e) {
-                
-                //                console.log("data e :",form)
-                mApp.blockPage({
-                    overlayColor: "#000000",
-                    type: "loader",
-                    state: "success",
-                    message: "Tunggu Sebentar..."
+
+                swal({
+                    title: "",
+                    text: "Tunggu Sebentar...",
+                    imageUrl: "assets/img/ajax-loader.gif",
+                    showConfirmButton: false,
+                    closeOnClickOutside: false,
+                    allowOutsideClick: false,
+                    imageWidth: 30,
+                    imageHeight: 30,
                 });
+
                 var formData = new FormData(form[0]);
                 e.preventDefault();
 
@@ -239,6 +243,18 @@ var FormWizard = function () {
     };
 
 }();
+function showSwal() {
+    swal({
+        title: "",
+        text: "Tunggu Sebentar...",
+        imageUrl: "assets/img/ajax-loader.gif",
+        showConfirmButton: false,
+        closeOnClickOutside: false,
+        allowOutsideClick: false,
+        imageWidth: 30,
+        imageHeight: 30,
+    });
+}
 
 jQuery(document).ready(function () {
     FormWizard.init();
