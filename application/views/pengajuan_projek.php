@@ -144,7 +144,8 @@ License: You must have a valid license purchased only from themeforest(the above
                                                                 <span class="required"> * </span>
                                                             </label>
                                                             <div class="col-md-4">
-                                                                <input type="text" class="form-control" id="budget" name="budget" required="true" />
+                                                                <input type="text" class="form-control" id="budget_view" name="budget_view" required="true" />
+                                                                <input type="hidden" class="form-control" id="budget" name="budget" required="true" />
 
                                                             </div>
                                                         </div>
@@ -305,12 +306,15 @@ License: You must have a valid license purchased only from themeforest(the above
 <script src="assets/global/plugins/ie8.fix.min.js"></script> 
 <![endif]-->
     <!-- BEGIN CORE PLUGINS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.js"></script>
     <script src="assets/global/plugins/jquery.min.js" type="text/javascript"></script>
     <script src="assets/global/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
     <script src="assets/global/plugins/js.cookie.min.js" type="text/javascript"></script>
     <script src="assets/global/plugins/jquery-slimscroll/jquery.slimscroll.min.js" type="text/javascript"></script>
     <script src="assets/global/plugins/jquery.blockui.min.js" type="text/javascript"></script>
     <script src="assets/global/plugins/bootstrap-switch/js/bootstrap-switch.min.js" type="text/javascript"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.10/jquery.mask.js"></script>
     <!-- END CORE PLUGINS -->
     <!-- BEGIN PAGE LEVEL PLUGINS -->
     <script src="assets/global/plugins/select2/js/select2.full.min.js" type="text/javascript"></script>
@@ -322,7 +326,7 @@ License: You must have a valid license purchased only from themeforest(the above
     <script src="assets/global/scripts/app.min.js" type="text/javascript"></script>
     <!-- END THEME GLOBAL SCRIPTS -->
     <!-- BEGIN PAGE LEVEL SCRIPTS -->
-    <script src="assets/pages/scripts/form-wizard-projek.js?v=8" type="text/javascript"></script>
+    <script src="assets/pages/scripts/form-wizard-projek.js?v=9" type="text/javascript"></script>
     <!-- END PAGE LEVEL SCRIPTS -->
     <!-- BEGIN THEME LAYOUT SCRIPTS -->
     <script src="assets/layouts/layout/scripts/layout.min.js" type="text/javascript"></script>
@@ -336,6 +340,13 @@ License: You must have a valid license purchased only from themeforest(the above
     <!-- END THEME LAYOUT SCRIPTS -->
     <script>
         $(document).ready(function() {
+            $('#budget_view').mask('000.000.000.000.000.000', {
+                reverse: true
+            });
+            $("#budget_view").on("keyup", function(event) {
+                var budget = $(this).cleanVal();
+                $('#budget').val(budget);
+            });
             $('#clickmewow').click(function() {
                 $('#radio1003').attr('checked', 'checked');
             });
