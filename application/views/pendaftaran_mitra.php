@@ -84,7 +84,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                     <div class="caption">
                                         <i class=" icon-layers font-red"></i>
                                         <span class="caption-subject font-red bold uppercase"> Pendaftaran Mitra -
-                                            <span class="step-title" onclick="showSwal()"> Step 1 of 3 </span>
+                                            <span class="step-title"> Step 1 of 3 </span>
                                         </span>
                                     </div>
 
