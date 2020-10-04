@@ -3,16 +3,19 @@
 if (!defined('BASEPATH'))
     exit('No direct script access allowed');
 
-class Mitra_M extends CI_Model {
+class Mitra_M extends CI_Model
+{
 
-    function EncryptPasswd($value) {
+    function EncryptPasswd($value)
+    {
         $salt = '#*seCrEt!@-*%';
         $str = do_hash($salt . $value);
         $str = do_hash($salt . $str, 'md5');
         return $str;
     }
 
-    function insert($data, $jenis_layanan) {
+    function insert($data, $jenis_layanan)
+    {
         $return = array();
         $user = array(
             "foto" => $data['foto'],
@@ -39,11 +42,11 @@ class Mitra_M extends CI_Model {
             if (!empty($last_id)) {
                 if (isset($jenis_layanan)) {
                     for ($i = 0; $i < count($jenis_layanan); $i++) {
-                        $insert_data=array(
-                            "id_mitra"=>$last_id,
-                            "id_jenis_layanan"=>$jenis_layanan[$i]
+                        $insert_data = array(
+                            "id_mitra" => $last_id,
+                            "id_jenis_layanan" => $jenis_layanan[$i]
                         );
-                        $this->db->insert("m_mitra_jenis_layanan",$insert_data);
+                        $this->db->insert("m_mitra_jenis_layanan", $insert_data);
                     }
                 }
                 $this->db->where("username", $data['email']);
@@ -56,6 +59,7 @@ class Mitra_M extends CI_Model {
                     $this->db->update("s_user_login", $upd);
                     $return["meta"] = array(
                         "status_code" => 200,
+                        "id_mitra" => $last_id,
                         "status_message" => "sukses !",
                         "success" => true
                     );
@@ -84,7 +88,6 @@ class Mitra_M extends CI_Model {
 
         return $return;
     }
-
 }
 
 // function insert($data)
