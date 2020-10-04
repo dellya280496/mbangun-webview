@@ -144,7 +144,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                                 <span class="required"> * </span>
                                                             </label>
                                                             <div class="col-md-4">
-                                                                <input type="text" class="form-control" id="budget_view" name="budget_view" required="true" />
+                                                                <input type="text" class="form-control" id="budget_view" required="true" />
                                                                 <input type="hidden" class="form-control" id="budget" name="budget" required="true" />
 
                                                             </div>
