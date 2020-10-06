@@ -76,6 +76,39 @@ class Proyek_M extends CI_Model
 
         return $return;
     }
+   
+    public function getTagihanById($id)
+    {
+        $return = array();
+
+        try {
+            $query = "select * from t_tagihan_proyek where id_proyek = $id";
+            $data = $this->db->query($query);
+            $return['data'] = $data->result();
+            if ($this->db->affected_rows() > 0) {
+
+                $return["meta"] = array(
+                    "status_code" => 200,
+                    "status_message" => "sukses !",
+                    "success" => true
+                );
+            } else {
+                $return["meta"] = array(
+                    "status_code" => 500,
+                    "status_message" => $this->db->error(),
+                    "success" => false
+                );
+            }
+        } catch (Exception $e) {
+            $return["meta"] = array(
+                "status_code" => 500,
+                "status_message" => $e->getMessage(),
+                "success" => false
+            );
+        }
+
+        return $return;
+    }
 
 
     public function getRecentProyek($query_array)

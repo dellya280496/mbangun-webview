@@ -1,6 +1,7 @@
 <style>
     @page {
-        margin: 2.0cm;
+        margin: 1.5cm;
+        font-size: 12px;
         text-align: justify,
     }
 
@@ -20,12 +21,41 @@
         border: 1px solid black;
         border-collapse: collapse;
     }
+
+    #customers {
+        font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    #customers td,
+    #customers th {
+        border: 1px solid #ddd;
+        padding: 8px;
+    }
+
+    #customers tr:nth-child(even) {
+        background-color: #f2f2f2;
+    }
+
+    #customers tr:hover {
+        background-color: #ddd;
+    }
+
+    #customers th {
+        padding-top: 12px;
+        padding-bottom: 12px;
+        text-align: left;
+        background-color: #3b9c93;
+        color: white;
+    }
 </style>
 <center>
-    <h3>MEMORANDUM OF UNDERSTANDING <br><?= strtoupper($kontrak['data']->nama) ?></br>
+    <h2>MEMORANDUM OF UNDERSTANDING <br><?= strtoupper($kontrak['data']->nama) ?></br>
         <br><?= strtoupper($kontrak['data']->nama_user) ?> DAN <?= strtoupper($kontrak['data']->nama_mitra) ?> </br>
-    </h3>
+    </h2>
 </center>
+<br>
 <p>
     Kami yang bertanda tangan di bawah ini
 </p>
@@ -70,58 +100,34 @@
     </br>
 </center>
 <p>
-    Jumlah termin pembayaran <label style="font-weight: bold;"><?= $kontrak['data']->termin ?></label> kali dalam waktu pengerjaan<label style="font-weight: bold;">
-    <?= $kontrak['data']->waktu_pengerjaan ?></label> Hari dihitung dari per tanggal <label style="font-weight: bold;"><?= date("d M Y") ?></label>.
+    Jumlah termin pembayaran <label style="font-weight: bold;"><?= count($tagihan['data']) ?></label> kali dalam waktu pengerjaan<label style="font-weight: bold;">
+        <?= $kontrak['data']->waktu_pengerjaan ?></label> Hari dihitung dari per tanggal <label style="font-weight: bold;"><?= date("d M Y") ?></label>.
+    <p>Rincian pembayaran sebagai berikut : </p>
     <center>
-        <table style="width: 100%;" border="1">
+        <table id="customers">
             <tr>
-                <th>Termin</th>
+                <th>Nama</th>
+                <th>Percentase</th>
                 <th>Nilai</th>
             </tr>
-            <tr>
-                <td>
-                    Termin 1
-                </td>
-                <td>
-                <?= $kontrak['data']->termin1 ?> %
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    Termin 2
-                </td>
-                <td>
-                <?= $kontrak['data']->termin2 ?> %
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    Termin 3
-                </td>
-                <td>
-                <?= $kontrak['data']->termin3 ?> %
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    Retensi
-                </td>
-                <td>
-                <?= $kontrak['data']->retensi ?> %
-                </td>
-            </tr>
+            <?php foreach ($tagihan['data'] as $item) { ?>
+                <tr>
+                    <td><?= $item->nama ?></td>
+                    <td><?= $item->percentase . '%' ?> </td>
+                    <td><?= 'Rp ' . number_format($kontrak['data']->harga * $item->percentase / 100) ?></td>
+                </tr>
+            <?php } ?>
         </table>
     </center>
 </p>
-
-<p>Surabaya, <?= date("d M Y") ?></p>
-
+<br>
+<p style="text-align: right;">Surabaya, <?= date("d M Y") ?></p>
 
 <table style="width:100%">
     <tr>
-        <th style=" height: 80px;vertical-align: top;">Pihak Pertama</th>
-        <th style=" height:80px;vertical-align: top;">Mengetahui</th>
-        <th style=" height: 80px;vertical-align: top;">Pihak Kedua</th>
+        <th >Pihak Pertama</th>
+        <th >Mengetahui</th>
+        <th >Pihak Kedua</th>
     </tr>
     <tr>
         <td style="text-align: center; "><img src="data:image/gif;base64,<?= $kontrak['data']->user_ttd ?>" alt="images" width="100px" style="opacity: 1;"></td>

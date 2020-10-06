@@ -23,9 +23,10 @@ class Kontrak extends CI_Controller
         $this->load->library('pdf');
         // $query = {'id:'31'};
         $data['kontrak'] = $this->Proyek_M->getProyekById($proyek_id);
+        $data['tagihan'] = $this->Proyek_M->getTagihanById($proyek_id);
+
         $data['default_img'] = $this->encode_img_base64('https://mbangun.id/api-v2/assets/img/watermark-logo.jpeg');
-        // var_dump($data['kontrak']['data']->id);
-        // die;
+        
 
         if ($data['kontrak']['data']->mitra_ttd == null) {
             $data['kontrak']['data']->mitra_ttd = $this->encode_img_base64('https://mbangun.id/api-v2/assets/img/watermark-logo.jpeg');
@@ -45,7 +46,7 @@ class Kontrak extends CI_Controller
             $data['kontrak']['data']->mbangun_ttd = $this->encode_img_base64('https://mbangun.id/api-v2/assets/ttd/'. $data['kontrak']['data']->mbangun_ttd);
         }
 
-        // var_dump($data['kontrak']);
+        // echo json_encode($data['tagihan']);
         // die;
         $this->pdf->setPaper('A4', 'potrait');
         $this->pdf->filename = "kontrak.pdf";
