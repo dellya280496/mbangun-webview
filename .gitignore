@@ -1,3 +1,5 @@
 /nbproject/private/
 /application/logs/
 /application/logs/
+*/config/database.php
+application/config/database.php
