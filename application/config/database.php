@@ -73,41 +73,18 @@ defined('BASEPATH') or exit('No direct script access allowed');
 $active_group = 'default';
 $query_builder = TRUE;
 
-// $db['default'] = array(
-//     'dsn' => '',
-//     // 'hostname' => 'm-bangun.com',
-//     // 'username' => 'n9419307_m-bangun',
-//     // 'password' => 'denifa2412',
-//     // 'database' => 'n9419307_v2',
-//     'hostname' => 'mbangun.id',
-//     'username' => 'mbangun',
-//     'password' => '@mbangun2020',
-//     'database' => 'mbangun_v2',
-// //    'port' => 5432,
-//     'dbdriver' => 'mysqli',
-//     'dbprefix' => '',
-//     'pconnect' => FALSE,
-//     'db_debug' => (ENVIRONMENT !== 'production'),
-//     'cache_on' => FALSE,
-//     'cachedir' => '',
-//     'char_set' => 'utf8',
-//     'dbcollat' => 'utf8_general_ci',
-//     'swap_pre' => '',
-//     'encrypt' => FALSE,
-//     'compress' => FALSE,
-//     'stricton' => FALSE,
-//     'failover' => array(),
-//     'save_queries' => TRUE
-// );
-
 $db['default'] = array(
     'dsn' => '',
+    // 'hostname' => 'm-bangun.com',
+    // 'username' => 'n9419307_m-bangun',
+    // 'password' => 'denifa2412',
+    // 'database' => 'n9419307_v2',
     'hostname' => 'mbangun.id',
     'username' => 'mbangun',
     'password' => '@mbangun2020',
     'database' => 'mbangun_v2',
-    'port' => 5432,
-    'dbdriver' => 'postgre',
+//    'port' => 5432,
+    'dbdriver' => 'mysqli',
     'dbprefix' => '',
     'pconnect' => FALSE,
     'db_debug' => (ENVIRONMENT !== 'production'),
@@ -122,3 +99,26 @@ $db['default'] = array(
     'failover' => array(),
     'save_queries' => TRUE
 );
+
+// $db['default'] = array(
+//     'dsn' => '',
+//     'hostname' => 'mbangun.id',
+//     'username' => 'mbangun',
+//     'password' => '@mbangun2020',
+//     'database' => 'mbangun_v2',
+//     'port' => 5432,
+//     'dbdriver' => 'postgre',
+//     'dbprefix' => '',
+//     'pconnect' => FALSE,
+//     'db_debug' => (ENVIRONMENT !== 'production'),
+//     'cache_on' => FALSE,
+//     'cachedir' => '',
+//     'char_set' => 'utf8',
+//     'dbcollat' => 'utf8_general_ci',
+//     'swap_pre' => '',
+//     'encrypt' => FALSE,
+//     'compress' => FALSE,
+//     'stricton' => FALSE,
+//     'failover' => array(),
+//     'save_queries' => TRUE
+// );
