@@ -329,6 +329,8 @@ License: You must have a valid license purchased only from themeforest(the above
     <script src="assets/pages/scripts/form-wizard-projek.js?v=9" type="text/javascript"></script>
     <!-- END PAGE LEVEL SCRIPTS -->
     <!-- BEGIN THEME LAYOUT SCRIPTS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.js"></script>
     <script src="assets/layouts/layout/scripts/layout.min.js" type="text/javascript"></script>
     <script src="assets/layouts/layout/scripts/demo.min.js" type="text/javascript"></script>
     <script src="assets/layouts/global/scripts/quick-sidebar.min.js" type="text/javascript"></script>
@@ -351,6 +353,16 @@ License: You must have a valid license purchased only from themeforest(the above
                 $('#radio1003').attr('checked', 'checked');
             });
             $("#provinsi").on("change", function(event) {
+                swal({
+                    title: "",
+                    text: "Tunggu Sebentar...",
+                    imageUrl: "assets/img/ajax-loader.gif",
+                    showConfirmButton: false,
+                    closeOnClickOutside: false,
+                    allowOutsideClick: false,
+                    imageWidth: 30,
+                    imageHeight: 30,
+                });
                 $("#kota").empty();
                 $("#id_kecamatan").empty();
                 $.ajax({
@@ -365,6 +377,7 @@ License: You must have a valid license purchased only from themeforest(the above
                         $.each(f, function(bb) {
                             $("#kota").append('<option  value="' + f[bb].city_id + '">' + f[bb].city_name + '  </option>');
                         });
+                        swal.close();
                     }
                 });
             });
@@ -374,6 +387,16 @@ License: You must have a valid license purchased only from themeforest(the above
             });
 
             $("#kota").on("change", function(event) {
+                swal({
+                    title: "",
+                    text: "Tunggu Sebentar...",
+                    imageUrl: "assets/img/ajax-loader.gif",
+                    showConfirmButton: false,
+                    closeOnClickOutside: false,
+                    allowOutsideClick: false,
+                    imageWidth: 30,
+                    imageHeight: 30,
+                });
                 $("#id_kecamatan").empty();
                 $.ajax({
                     type: "POST",
@@ -387,6 +410,7 @@ License: You must have a valid license purchased only from themeforest(the above
                         $.each(f, function(bb) {
                             $("#id_kecamatan").append('<option  value="' + f[bb].subdistrict_id + '">' + f[bb].subdistrict_name + '  </option>');
                         });
+                        swal.close();
                     }
                 });
             });
