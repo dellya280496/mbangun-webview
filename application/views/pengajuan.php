@@ -331,6 +331,7 @@ License: You must have a valid license purchased only from themeforest(the above
         <script src="assets/pages/scripts/form-wizard.js?v=5" type="text/javascript"></script>
         <!-- END PAGE LEVEL SCRIPTS -->
         <!-- BEGIN THEME LAYOUT SCRIPTS -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.css">
         <script src="assets/layouts/layout/scripts/layout.min.js" type="text/javascript"></script>
         <script src="assets/layouts/layout/scripts/demo.min.js" type="text/javascript"></script>
         <script src="assets/layouts/global/scripts/quick-sidebar.min.js" type="text/javascript"></script>
