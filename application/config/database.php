@@ -6,7 +6,7 @@ global $SConfig;
 $active_group = 'default';
 $query_builder = TRUE;
 $db['default'] = array(
-	'dsn'	   => $SConfig->_dsn,
+	'dsn'	   => '',
 	'hostname' => $SConfig->_host_name,
 	'username' => $SConfig->_database_username,
 	'password' => $SConfig->_database_password,
