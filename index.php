@@ -1,5 +1,6 @@
 <?php
-
+if (require_once('configuration.php'))
+$SConfig = new SConfig;
 /**
  * CodeIgniter
  *
