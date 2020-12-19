@@ -51,6 +51,12 @@ class Mitra_M extends CI_Model
                         $this->db->insert("m_mitra_jenis_layanan", $insert_data);
                     }
                 }
+                $return["meta"] = array(
+                    "status_code" => 200,
+                    "id_mitra" => $last_id,
+                    "status_message" => "sukses !",
+                    "success" => true
+                );
                 // $this->db->where("username", $data['email']);
                 // $cek_email = $this->db->get("s_user_login")->row();
                 // if (!empty($cek_email)) {
