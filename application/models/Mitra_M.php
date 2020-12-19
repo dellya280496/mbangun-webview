@@ -14,6 +14,12 @@ class Mitra_M extends CI_Model
         return $str;
     }
 
+    function checkPhone($phone)
+    {
+        $this->db->where("no_hp", $phone);
+        return $this->db->get("m_mitra")->result();
+    }
+
     function insert($data, $jenis_layanan)
     {
         $return = array();
@@ -21,7 +27,6 @@ class Mitra_M extends CI_Model
             "foto" => $data['foto'],
             "password" => $this->EncryptPasswd($data['password']),
             "username" => $data['email'],
-            "id_google" => $data['id_google'],
             "status_user" => 'mitra',
             "aktif" => 1
         );

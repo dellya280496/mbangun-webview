@@ -73,7 +73,7 @@ class Mitra extends BD_Controller
         unset($param['my_multi_select1']);
 
 
-        $config['upload_path'] = "./assets/img/toko";
+        $config['upload_path'] = "./assets/img/profile";
         $config['allowed_types'] = 'jpeg|jpg|png';
         $config['encrypt_name'] = TRUE;
         $config['create_thumb'] = FALSE;
@@ -89,23 +89,23 @@ class Mitra extends BD_Controller
         $foto_ktp = null;
         if ($this->upload->do_upload("foto_ktp")) {
             $data = array('upload_foto' => $this->upload->data());
-            $param['foto_ktp'] = $data['upload_foto']['file_name'];
+            $param['foto_ktp'] =  base_url().'/assets/img/profile/'.$data['upload_foto']['file_name'];
         }
         $foto_npwp = null;
         if ($this->upload->do_upload("foto_npwp")) {
             $data = array('upload_foto' => $this->upload->data());
-            $param['foto_npwp'] = $data['upload_foto']['file_name'];
+            $param['foto_npwp'] = base_url().'/assets/img/profile/'.$data['upload_foto']['file_name'];
         }
         $foto_siup = null;
         if ($this->upload->do_upload("foto_siup")) {
             $data = array('upload_foto' => $this->upload->data());
-            $param['foto_siup'] = $data['upload_foto']['file_name'];
+            $param['foto_siup'] = base_url().'/assets/img/profile/'.$data['upload_foto']['file_name'];
         }
 
         $foto = null;
         if ($this->upload->do_upload("foto")) {
             $data = array('upload_foto' => $this->upload->data());
-            $param['foto'] = $data['upload_foto']['file_name'];
+            $param['foto'] = base_url().'/assets/img/profile/'.$data['upload_foto']['file_name'];
         }
         if ($error) {
             $response['meta'] = array(

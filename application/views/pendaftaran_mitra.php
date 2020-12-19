@@ -142,9 +142,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                                 <span class="required"> * </span>
                                                             </label>
                                                             <div class="col-md-4">
-                                                                <input type="text" class="form-control" name="email" value="<?= $email ?>" readonly="true" />
-                                                                <input type="hidden" class="form-control" name="id_google" value="<?= $id ?>" readonly="true" />
-
+                                                                <input type="text" class="form-control" name="email" value="" />
                                                             </div>
                                                         </div>
 
@@ -187,7 +185,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                                                 <span class="required"> * </span>
                                                             </label>
                                                             <div class="col-md-4">
-                                                                <input type="number" class="form-control" name="no_hp" id="no_hp" required />
+                                                                <input type="number" value="<?= $no_hp ?>" class="form-control" name="no_hp" id="no_hp" required readonly="true" />
                                                             </div>
                                                         </div>
                                                         <div class="form-group">

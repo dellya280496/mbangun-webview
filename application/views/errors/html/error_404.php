@@ -198,7 +198,7 @@
                 <div class="notfound-404">
                     <h1>5<span>0</span>0</h1>
                 </div>
-                <h2>Anda Belum terdaftar di aplikasi m-bangun</h2>
+                <h2><?=$message?></h2>
                 <!--                <form class="notfound-search">
                                     <input type="text" placeholder="Search...">
                                     <button type="button"><span></span></button>

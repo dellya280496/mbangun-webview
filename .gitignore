@@ -4,3 +4,4 @@
 */config/database.php
 application/config/database.php
 configuration.php
+.DS_Store
