@@ -33,8 +33,6 @@ class Mitra_M extends CI_Model
         unset($data['kota']);
         $data['id_provinsi'] = $data['provinsi'];
         unset($data['provinsi']);
-
-        unset($data['foto']);
         unset($data['password']);
 
 
@@ -53,28 +51,28 @@ class Mitra_M extends CI_Model
                         $this->db->insert("m_mitra_jenis_layanan", $insert_data);
                     }
                 }
-                $this->db->where("username", $data['email']);
-                $cek_email = $this->db->get("s_user_login")->row();
-                if (!empty($cek_email)) {
-                    $upd = array(
-                        "id_mitra" => $last_id
-                    );
-                    $this->db->where("username", $data['email']);
-                    $this->db->update("s_user_login", $upd);
-                    $return["meta"] = array(
-                        "status_code" => 200,
-                        "id_mitra" => $last_id,
-                        "status_message" => "sukses !",
-                        "success" => true
-                    );
-                } else {
-                    $this->db->insert("s_user_login", $user);
-                    $return["meta"] = array(
-                        "status_code" => 200,
-                        "status_message" => "sukses !",
-                        "success" => true
-                    );
-                }
+                // $this->db->where("username", $data['email']);
+                // $cek_email = $this->db->get("s_user_login")->row();
+                // if (!empty($cek_email)) {
+                //     $upd = array(
+                //         "id_mitra" => $last_id
+                //     );
+                //     $this->db->where("username", $data['email']);
+                //     $this->db->update("s_user_login", $upd);
+                //     $return["meta"] = array(
+                //         "status_code" => 200,
+                //         "id_mitra" => $last_id,
+                //         "status_message" => "sukses !",
+                //         "success" => true
+                //     );
+                // } else {
+                //     $this->db->insert("s_user_login", $user);
+                //     $return["meta"] = array(
+                //         "status_code" => 200,
+                //         "status_message" => "sukses !",
+                //         "success" => true
+                //     );
+                // }
             } else {
                 $return["meta"] = array(
                     "status_code" => 500,
