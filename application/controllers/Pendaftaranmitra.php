@@ -25,7 +25,7 @@ class Pendaftaranmitra extends CI_Controller
             $this->load->view('errors/html/error_404', $data);
         } else {
             $chekPhone = $this->Mitra_M->checkPhone($data['no_hp']);
-            if (!isset($chekPhone)) {
+            if (!empty($chekPhone)) {
                 $data['heading'] = "Anda sudah terdaftar";
                 $data['message'] = "Nomor telpon anda sudah terdaftar di Mbangun";
                 $this->load->view('errors/html/error_404', $data);
