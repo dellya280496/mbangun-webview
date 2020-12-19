@@ -433,7 +433,7 @@ License: You must have a valid license purchased only from themeforest(the above
 
     <!-- END THEME GLOBAL SCRIPTS -->
     <!-- BEGIN PAGE LEVEL SCRIPTS -->
-    <script src="assets/pages/scripts/form-wizard-mitra.js?v=11" type="text/javascript"></script>
+    <script src="assets/pages/scripts/form-wizard-mitra.js?v=12" type="text/javascript"></script>
     <!-- END PAGE LEVEL SCRIPTS -->
     <!-- BEGIN THEME LAYOUT SCRIPTS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.css">

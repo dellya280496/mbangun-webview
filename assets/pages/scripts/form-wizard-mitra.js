@@ -221,7 +221,7 @@ var FormWizard = function () {
 
                 $.ajax({
                     type: 'POST',
-                    url: 'mitra/insert',
+                    url: 'https://mbangun.id/api-v2/mitra/insert_pendaftaran_mobile',
                     data: formData,
                     cache: false,
                     dataType: 'json',
